@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
 workflow-type: tm+mt
 source-wordcount: '1719'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Familiarisez-vous avec l’interface de conversation des collègues. Ce guide couvre tous les aspects, de l’accès à l’application à la navigation dans l’espace de travail, en passant par la manière de tirer le meilleur parti des conversations, de gérer votre historique et de personnaliser votre configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Accéder au chat des collègues
 
@@ -36,12 +36,12 @@ Le tableau suivant capture la date à laquelle ces expériences seront disponibl
 | CJA | Disponible maintenant | Bientôt disponible |
 | Workfront | Disponible maintenant | Prochainement : <br><br>* début septembre 2026 dans l’instance d’aperçu pour certains administrateurs système Workfront éligibles <br><br>* mi-septembre 2026 dans l’instance de production pour les clients Workfront à version rapide éligibles <br><br>* mi-octobre 2026 dans l’instance de production pour les clients Workfront à version trimestrielle éligibles |
 | Cible | Disponible maintenant | Disponible maintenant |
-| AEM | Disponible maintenant | Bientôt disponible |
+| AEM | Disponible maintenant | Disponible maintenant |
 | Marketo Engage | Disponible maintenant | Bientôt disponible |
 
 ### Expérience immersive {#immersive}
 
-Accédez au Chat des collaborateurs en accédant à [&#128279;](https://experience.adobe.com/#/coworker) et en vous connectant avec vos informations d’identification Adobe.
+Accédez au Chat des collaborateurs en accédant à [](https://experience.adobe.com/#/coworker) et en vous connectant avec vos informations d’identification Adobe.
 
 Vous pouvez également y accéder en sélectionnant **Collègue** dans le sélecteur d’applications situé dans l’en-tête supérieur de CX Enterprise.
 
