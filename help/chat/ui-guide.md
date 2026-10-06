@@ -41,7 +41,7 @@ Le tableau suivant capture la date à laquelle ces expériences seront disponibl
 
 ### Expérience immersive {#immersive}
 
-Accédez au Chat des collaborateurs en accédant à [](https://experience.adobe.com/#/coworker) et en vous connectant avec vos informations d’identification Adobe.
+Accédez au Chat des collaborateurs en accédant à [&#128279;](https://experience.adobe.com/#/coworker) et en vous connectant avec vos informations d’identification Adobe.
 
 Vous pouvez également y accéder en sélectionnant **Collègue** dans le sélecteur d’applications situé dans l’en-tête supérieur de CX Enterprise.
 
