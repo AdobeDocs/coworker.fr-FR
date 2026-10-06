@@ -24,4 +24,4 @@ ht-degree: 0%
 
 L’audit de la manière dont vos audiences, parcours, jeux de données et destinations se connectent est généralement un exercice manuel qui prend du temps. Dans cette vidéo, découvrez comment Coworker peut générer une vue opérationnelle complète de votre environnement Adobe Experience Platform (AEP), le comparer aux bonnes pratiques du secteur et utiliser ces résultats pour créer une nouvelle audience, le tout dans une seule conversation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496869/?captions=fre_fr&learn=on&enablevpops)

@@ -19,7 +19,7 @@ La mémoire [!DNL Coworker] permet de créer des interactions plus cohérentes, 
 
 Au lieu de répéter les mêmes instructions chaque fois que vous démarrez une nouvelle conversation, Memory permet à Coworker de transférer les informations sélectionnées entre les sessions, ce qui permet de fournir des réponses plus rapides et plus pertinentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503668/?captions=fre_fr&learn=on&enablevpops)
 
 ## Compréhension de la mémoire
 

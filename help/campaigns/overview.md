@@ -114,7 +114,7 @@ Campagnes collaboratrices est un produit en développement actif. Voici ce qu’
 
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492809?captions=fre_fr&learn=on){transcript=true}
 
 
 De nouvelles fonctionnalités seront livrées pendant l’essai. Vos commentaires aident à déterminer la suite. Envoyez vos commentaires via l’icône de commentaires sur le produit dans l’en-tête.

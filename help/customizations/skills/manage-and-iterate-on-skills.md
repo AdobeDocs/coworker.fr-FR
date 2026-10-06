@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Les compétences en IA réutilisables aident les équipes à effectuer des tâches cohérentes et répétables. Toutefois, à mesure que les besoins de l’entreprise évoluent, ces compétences doivent également évoluer. Cette vidéo présente une approche pratique de la gestion du cycle de vie complet des compétences en IA axées sur la gouvernance, de l&#39;évaluation et de l&#39;amélioration à la validation et à la retraite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503566/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503568/?captions=fre_fr&learn=on)
 
 ## Importance d&#39;une ligne de base
 

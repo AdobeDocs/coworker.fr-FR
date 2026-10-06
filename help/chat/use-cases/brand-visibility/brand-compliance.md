@@ -28,4 +28,4 @@ Par exemple, un collègue peut passer en revue le contenu généré automatiquem
 
 Coworker n’identifie pas seulement les problèmes ; il propose des suggestions exploitables. Par exemple, si une légende est trop générique ou ne comporte pas de call to action, elle fournit une version révisée conforme aux normes de votre marque, avec les balises appropriées. Ce processus simplifie la création de contenu et garantit la conformité de la marque avec un effort minimal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502704/?captions=fre_fr&learn=on&enablevpops)

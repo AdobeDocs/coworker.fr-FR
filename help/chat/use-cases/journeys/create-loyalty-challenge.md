@@ -25,7 +25,7 @@ Dans cette démonstration, vous découvrirez comment la fidélité Adobe Journey
  
 La vidéo présente le plug-in de fidélité et ses compétences de gestion des défis, une fonctionnalité optimisée par l’IA qui aide les spécialistes marketing à créer, modifier et gérer les défis de fidélité à l’aide du langage naturel au lieu de configurer manuellement chaque paramètre de l’interface utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496540/?captions=fre_fr&learn=on&enablevpops)
 
 ## Voir également
 

@@ -21,7 +21,7 @@ Le problème est que ces contrôles dépendent souvent des connaissances tribale
 
 Dans cette vidéo, vous découvrirez comment une compétence de collègue personnalisée agit comme un point d’activation, validant automatiquement les audiences par rapport aux normes d’activation de votre entreprise avant qu’elles ne soient déplacées en aval.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503167/?captions=fre_fr&learn=on&enablevpops)
 
 ## Exemple de compétence de point de contrôle de qualité d’activation
  

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 La planification d’un lancement numérique pour une nouvelle propriété implique généralement d’extraire le travail des équipes d’analyse, d’audience, de création et web qui peut prendre des semaines. Dans cette vidéo, découvrez comment Adobe Enterprise Coworker planifie le lancement numérique d’une nouvelle propriété à Miami à partir d’une seule conversation. Coworker comprend l’objectif et l’historique du premier message, associe les données Experience Platform propriétaires aux informations commerciales en direct de Semrush, puis crée l’audience, le parcours client, l’expérience de contenu et la page de destination, tandis que la gouvernance, le consentement et les règles commerciales restent en vigueur avec une révision humaine là où cela est nécessaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503873?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503875?captions=fre_fr&learn=on)
 
 ## Hiérarchisez votre journée et définissez un objectif
 

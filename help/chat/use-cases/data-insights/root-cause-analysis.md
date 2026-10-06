@@ -26,4 +26,4 @@ Comprendre pourquoi les mesures changent nécessite souvent de parcourir plusieu
  
 En utilisant le langage naturel, les analystes et les spécialistes du marketing peuvent poser des questions sur leurs données, recevoir des résultats visualisés, identifier des tendances significatives et découvrir les facteurs de performance, le tout dans une seule conversation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496853/?captions=fre_fr&learn=on&enablevpops)
