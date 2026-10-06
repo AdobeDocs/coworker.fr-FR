@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Familiarisez-vous avec l’interface de conversation des collègues. Ce guide couvre tous les aspects, de l’accès à l’application à la navigation dans l’espace de travail, en passant par la manière de tirer le meilleur parti des conversations, de gérer votre historique et de personnaliser votre configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
 
 ## Accéder au chat des collègues
 
