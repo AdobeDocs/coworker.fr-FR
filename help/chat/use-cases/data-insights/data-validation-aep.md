@@ -156,5 +156,5 @@ Si vos besoins de validation sont plus exhaustifs ou nécessitent une logique co
 
 * [Validation des données Adobe Analytics en données Customer Journey Analytics lors de la mise à niveau](./data-validation-aa-cja.md)
 * [Valider les données Customer Journey Analytics avec les compétences de validation des données dans Coworker](./validate-dataset-quality-for-cja.md)
-* [Valider vos données (assistant d’IA)](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Valider vos données (assistant d’IA)](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [Rapports Trust Your Customer Journey Analytics : compétences en validation des données dans Adobe CX Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (vidéo)

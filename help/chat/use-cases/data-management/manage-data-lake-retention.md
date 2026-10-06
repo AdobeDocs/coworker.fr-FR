@@ -12,7 +12,7 @@ Utilisez CX Coworker pour comprendre la valeur des données d’événement d’
 
 ## Avant de commencer {#before-you-begin}
 
-Assurez-vous de travailler dans le sandbox qui contient les jeux de données à vérifier. Vous devez également accéder à l’agent de gestion des données et disposer des autorisations Adobe Experience Platform requises. Voir [Conditions préalables de l’agent de gestion des données](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
+Assurez-vous de travailler dans le sandbox qui contient les jeux de données à vérifier. Vous devez également accéder à l’agent de gestion des données et disposer des autorisations Adobe Experience Platform requises. Voir [Conditions préalables de l’agent de gestion des données](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
 
 ## Optimisation des données dans votre sandbox {#optimize-data-in-your-sandbox}
 
@@ -26,7 +26,7 @@ Pour décider par où commencer, demandez à vos collègues d’identifier les j
 
 Une fois que vous avez réduit la liste, utilisez la compétence Analyse de l’utilisation des jeux de données pour déterminer dans quelle mesure un jeu de données spécifique est utilisé de manière active.
 
-Tous les jeux de données inutilisés ou abandonnés affichés par cette compétence ne constituent pas un bon candidat pour une politique de rétention du lac de données. Si vous devez supprimer un jeu de données complet ou gérer les données d’une autre boutique Experience Platform, consultez [Choisir la fonctionnalité de gestion du cycle de vie des données appropriée](https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/choose-a-capability). Avant de définir une politique de rétention du lac de données, vérifiez que le jeu de données est un jeu de données d’événement d’expérience.
+Tous les jeux de données inutilisés ou abandonnés affichés par cette compétence ne constituent pas un bon candidat pour une politique de rétention du lac de données. Si vous devez supprimer un jeu de données complet ou gérer les données d’une autre boutique Experience Platform, consultez [Choisir la fonctionnalité de gestion du cycle de vie des données appropriée](https://experienceleague.adobe.com/fr/docs/experience-platform/data-lifecycle/choose-a-capability). Avant de définir une politique de rétention du lac de données, vérifiez que le jeu de données est un jeu de données d’événement d’expérience.
 
 Exemples d’invites :
 
@@ -78,7 +78,7 @@ Une fois que vous avez décidé d’une période de rétention, utilisez les com
 
 ![Collègue présentant la politique de conservation du lac de données proposée, son impact et la confirmation requise avant l’application de la modification.](../../assets/data-management/retention-impact-preview.png)
 
-Une fois que vous avez confirmé une politique de conservation, il se peut que la modification ne s’affiche dans l’interface utilisateur de Adobe Experience Platform que dans un délai court. La politique de conservation ne supprime pas immédiatement les données expirées. La tâche de rétention initiale commence dans les 24 heures suivant l’application de la politique. Après l’exécution initiale, une tâche planifiée évalue et supprime les enregistrements expirés tous les 30 jours. Pour plus d’informations sur la conservation et la purge[&#128279;](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) consultez le guide Rétention du jeu de données d’événement d’expérience (TTL) .
+Une fois que vous avez confirmé une politique de conservation, il se peut que la modification ne s’affiche dans l’interface utilisateur de Adobe Experience Platform que dans un délai court. La politique de conservation ne supprime pas immédiatement les données expirées. La tâche de rétention initiale commence dans les 24 heures suivant l’application de la politique. Après l’exécution initiale, une tâche planifiée évalue et supprime les enregistrements expirés tous les 30 jours. Pour plus d’informations sur la conservation et la purge[&#128279;](https://experienceleague.adobe.com/fr/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) consultez le guide Rétention du jeu de données d’événement d’expérience (TTL) .
 
 Chaque modification de la stratégie de rétention est enregistrée dans un journal d&#39;audit, y compris lorsqu&#39;une stratégie est définie, modifiée ou supprimée. Le journal d&#39;audit enregistre qui a apporté chaque modification, quand elle s&#39;est produite et ce qui a été modifié. Vous pouvez suivre le lien fourni par un collègue pour passer en revue ces événements dans l’onglet Journal d’audit du jeu de données dans Adobe Experience Platform. Pour plus d’informations, voir la [présentation des journaux d’audit](https://experienceleague.adobe.com/fr/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview).
 
@@ -99,4 +99,4 @@ Gardez à l’esprit les pratiques suivantes lors de l’utilisation de l’agen
 
 ## Étapes suivantes {#next-steps}
 
-Pour en savoir plus sur les compétences, la portée, le comportement et les limites de l’agent de gestion des données, consultez la [&#x200B; présentation de l’agent de gestion des données](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Pour plus d’informations sur le fonctionnement des politiques de rétention du lac de données dans Adobe Experience Platform, consultez le guide [Rétention du jeu de données d’événement d’expérience (TTL)](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
+Pour en savoir plus sur les compétences, la portée, le comportement et les limites de l’agent de gestion des données, consultez la [&#x200B; présentation de l’agent de gestion des données](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Pour plus d’informations sur le fonctionnement des politiques de rétention du lac de données dans Adobe Experience Platform, consultez le guide [Rétention du jeu de données d’événement d’expérience (TTL)](https://experienceleague.adobe.com/fr/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
