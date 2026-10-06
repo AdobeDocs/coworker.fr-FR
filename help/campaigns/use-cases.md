@@ -162,4 +162,4 @@ Idéal pour : toute audience qui s’est arrêtée.
 
 ## Prêt pour la création ?
 
-Sélectionnez un cas d’utilisation ci-dessus, consultez [Création d’une campagne par e-mail](./) pour obtenir une présentation détaillée et essayez-la.
+Sélectionnez un cas d’utilisation ci-dessus, consultez [Création d’une campagne par e-mail] (./) pour obtenir une présentation détaillée et essayez-la.

@@ -18,7 +18,7 @@ Si vous vous tenez debout ou migrez vers l’un de ces produits, vous pouvez uti
 >
 >Tenez compte des points suivants :
 >
->* Ces compétences de guide d’implémentation font partie d’un workflow plus vaste et facultatif : étapes d’implémentation ou de mise à niveau personnalisées (ces guides), implémentation (voir [ Générer une liste de contrôle d’implémentation avec des projets de collègues ](./intelligent-checklist.md)) et validation (par exemple, [Valider votre mise à niveau d’Adobe Analytics vers Customer Journey Analytics](./data-validation-aa-cja.md) ou [Valider votre implémentation Streaming Media](./streaming-media-validation.md)). Vous n’avez pas besoin d’utiliser les trois étapes. Par exemple, vous pouvez valider vos données sans jamais générer de plan ou de liste de contrôle.
+>* Ces compétences de guide d’implémentation font partie d’un workflow plus vaste et facultatif : étapes d’implémentation ou de mise à niveau personnalisées (ces guides), implémentation (voir [&#x200B; Générer une liste de contrôle d’implémentation avec des projets de collègues &#x200B;](./intelligent-checklist.md)) et validation (par exemple, [Valider votre mise à niveau d’Adobe Analytics vers Customer Journey Analytics](./data-validation-aa-cja.md) ou [Valider votre implémentation Streaming Media](./streaming-media-validation.md)). Vous n’avez pas besoin d’utiliser les trois étapes. Par exemple, vous pouvez valider vos données sans jamais générer de plan ou de liste de contrôle.
 >* Ces compétences n’accèdent pas à vos systèmes Adobe et n’apportent aucune modification. Ils vous aident à planifier la mise en œuvre. Il ne l’effectue pas et ne le vérifie pas auprès d’un client en ligne.
 
 Utilisez ces compétences pour :
@@ -51,7 +51,7 @@ Avant d’utiliser ces compétences, gardez à l’esprit les restrictions suiva
 
 * **Planification uniquement** : ces compétences n’accèdent pas à vos systèmes Adobe et n’apportent aucune modification. Ils n’effectuent pas l’implémentation ou ne la vérifient pas par rapport à un client actif.
 * **Une surface de produit par compétence** : chaque compétence couvre un seul chemin d’implémentation. Si votre demande s’applique à une autre surface de produit, la compétence vous oriente vers la bonne au lieu de répondre directement.
-* **Pas une expérience de suivi de projet à elle seule** : ces compétences génèrent un plan et des exportations, mais ne suivent pas le statut en cours, la collaboration ou les approbations par elles-mêmes. Pour suivre votre plan au fil du temps, transformez-le en projet Collègue à l’aide d’un playbook prédéfini. Voir [ Générer une liste de contrôle d’implémentation avec les projets de collègues](./intelligent-checklist.md).
+* **Pas une expérience de suivi de projet à elle seule** : ces compétences génèrent un plan et des exportations, mais ne suivent pas le statut en cours, la collaboration ou les approbations par elles-mêmes. Pour suivre votre plan au fil du temps, transformez-le en projet Collègue à l’aide d’un playbook prédéfini. Voir [&#x200B; Générer une liste de contrôle d’implémentation avec les projets de collègues](./intelligent-checklist.md).
 
 ## Démarrer une session de planification de l’implémentation
 

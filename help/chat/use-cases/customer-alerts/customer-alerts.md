@@ -37,7 +37,7 @@ Interagissez avec les compétences en alertes client via CX Coworker à l’aide
 
 Pour utiliser les compétences en matière d’alertes client :
 
-1. Accédez à ****.
+1. Accédez à **&#x200B;**.
 
 1. Saisissez une question ou une demande concernant vos alertes. Par exemple :
 

@@ -107,7 +107,7 @@ Pour chaque champ validé, les résultats apparaissent sous la forme d&#39;une l
 | [!UICONTROL Valeurs nulles] | Pourcentage de valeurs échantillonnées nulles. |
 | [!UICONTROL Les 5 premières valeurs distinctes] | Les cinq valeurs les plus courantes et leurs fréquences. |
 | [!UICONTROL 5 premières valeurs non valides] | Les cinq valeurs non valides les plus courantes, avec une explication pour chacune, par exemple « format d’e-mail non valide ». |
-| insight supplémentaire][!UICONTROL  | Une courte note en langage naturel sur la qualité du terrain. |
+| insight supplémentaire | Une courte note en langage naturel sur la qualité du terrain. |
 
 Sous les résultats, Coworker ajoute une liste **Étapes suivantes** suggérant des invites de relance, telles que la validation d’un autre champ ou la réexécution du jeu de données.
 

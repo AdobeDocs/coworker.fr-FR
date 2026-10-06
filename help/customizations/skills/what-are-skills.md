@@ -45,6 +45,7 @@ De nombreuses organisations effectuent les mêmes types de tâches à plusieurs 
 
 Les compétences aident les équipes à capturer et à réutiliser ces bonnes pratiques sans avoir à réexpliquer manuellement le processus à chaque fois.
  
+
 ## Compétences et gouvernance des données
 
 Les compétences ne stockent pas les données client.

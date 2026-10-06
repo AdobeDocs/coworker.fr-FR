@@ -41,7 +41,7 @@ Interagissez avec les compétences Agentic des outils Sandbox via CX Coworker en
 
 Pour utiliser les compétences d’agent des outils Sandbox :
 
-1. Accédez à ****.
+1. Accédez à **&#x200B;**.
 1. Saisissez une description claire de ce que vous souhaitez accomplir. Par exemple :
 
    *« Déplacez le schéma Loyalty Member Platinum du sandbox actuel vers le sandbox de démonstration Acme. »*
