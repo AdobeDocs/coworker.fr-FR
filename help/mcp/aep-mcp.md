@@ -10,7 +10,7 @@ ht-degree: 6%
 
 # Outils Adobe Experience Platform dans la passerelle Adobe CX Coworker {#aep-mcp}
 
-Vous pouvez utiliser les outils du produit Adobe Experience Platform pour inspecter les schémas, les jeux de données, la configuration de la gouvernance des données, les ressources de Query Service et les événements d’audit d’un client compatible avec MCP. Ces outils sont disponibles via la passerelle Adobe CX Coworker [](overview.md) lorsque votre organisation est activée et que votre compte utilisateur dispose des autorisations Experience Platform requises.
+Vous pouvez utiliser les outils du produit Adobe Experience Platform pour inspecter les schémas, les jeux de données, la configuration de la gouvernance des données, les ressources de Query Service et les événements d’audit d’un client compatible avec MCP. Ces outils sont disponibles via la passerelle Adobe CX Coworker [&#128279;](overview.md) lorsque votre organisation est activée et que votre compte utilisateur dispose des autorisations Experience Platform requises.
 
 >[!AVAILABILITY]
 >
@@ -255,7 +255,7 @@ Récupérez les derniers résultats de l’évaluation du contrôle d’intégri
 
 >[!NOTE]
 >
->Cet outil récupère uniquement les résultats de l’évaluation. Pour résoudre un problème signalé, utilisez le panneau des détails du contrôle de l’intégrité dans l’interface utilisateur de [!DNL Experience Platform]. Voir [Contrôles d’intégrité](https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks). Des conseils de correction automatique pour les contrôles d’intégrité pris en charge sont disponibles en tant que compétence dans la conversation [](../chat/overview.md).
+>Cet outil récupère uniquement les résultats de l’évaluation. Pour résoudre un problème signalé, utilisez le panneau des détails du contrôle de l’intégrité dans l’interface utilisateur de [!DNL Experience Platform]. Voir [Contrôles d’intégrité](https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks). Des conseils de correction automatique pour les contrôles d’intégrité pris en charge sont disponibles en tant que compétence dans la conversation [&#128279;](../chat/overview.md).
 
 **Fonctionnalités :** répertorier tous les résultats des contrôles d’intégrité pour le sandbox actuel et obtenir les résultats d’un contrôle nommé.
 

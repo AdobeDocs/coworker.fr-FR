@@ -9,7 +9,7 @@ ht-degree: 4%
 ---
 # Outils Real-Time CDP dans la passerelle CX Coworker {#rtcdp-mcp}
 
-Vous pouvez utiliser les outils de produit Real-Time CDP MCP pour inspecter les audiences, les destinations, les sources, les espaces de noms d’identité et l’intégrité de l’activation à partir d’un client compatible MCP. Ces outils sont disponibles via la passerelle unifiée [](overview.md) lorsque votre organisation est activée et que votre compte utilisateur dispose des autorisations Real-Time CDP requises.
+Vous pouvez utiliser les outils de produit Real-Time CDP MCP pour inspecter les audiences, les destinations, les sources, les espaces de noms d’identité et l’intégrité de l’activation à partir d’un client compatible MCP. Ces outils sont disponibles via la passerelle unifiée [&#128279;](overview.md) lorsque votre organisation est activée et que votre compte utilisateur dispose des autorisations Real-Time CDP requises.
 
 >[!AVAILABILITY]
 >

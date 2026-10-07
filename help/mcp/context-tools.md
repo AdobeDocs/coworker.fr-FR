@@ -9,14 +9,14 @@ ht-degree: 1%
 ---
 # Outils de contexte de session dans la passerelle CX Coworker Adobe {#mcp-core}
 
-La passerelle CX Coworker Adobe comprend un ensemble d’outils de contexte de session qui définissent l’organisation Adobe, le sandbox Adobe Experience Platform et la vue de données Customer Journey Analytics dans laquelle tous les autres outils de produit fonctionnent. Aucune licence ou activation supplémentaire n&#39;est requise ; ces outils sont disponibles pour chaque utilisateur authentifié après la connexion au serveur de passerelle [](overview.md).
+La passerelle CX Coworker Adobe comprend un ensemble d’outils de contexte de session qui définissent l’organisation Adobe, le sandbox Adobe Experience Platform et la vue de données Customer Journey Analytics dans laquelle tous les autres outils de produit fonctionnent. Aucune licence ou activation supplémentaire n&#39;est requise ; ces outils sont disponibles pour chaque utilisateur authentifié après la connexion au serveur de passerelle [&#128279;](overview.md).
 
 ## Fonctionnement du contexte {#mcp-core-how}
 
 La passerelle CX Coworker couvre chaque appel d’outil auprès d’une organisation Adobe active. En outre, les exigences de contexte dépendent du produit :
 
 - **produits basés sur Experience Platform** — les outils [Real-Time CDP](rtcdp-mcp.md), [Experience Platform](aep-mcp.md) et [Journey Optimizer](ajo-mcp.md) fonctionnent dans un sandbox Experience Platform. Définissez le sandbox une fois par session avec `core-set_sandbox` ; les trois le partagent.
-- **Autres produits** — Les produits non créés sur Experience Platform n’utilisent pas le contexte sandbox. Par exemple, les outils [](cja-mcp.md) sont résolus par rapport à une vue de données et les outils [Adobe Analytics](analytics-mcp.md) sont résolus par rapport aux suites de rapports.
+- **Autres produits** — Les produits non créés sur Experience Platform n’utilisent pas le contexte sandbox. Par exemple, les outils [&#128279;](cja-mcp.md) sont résolus par rapport à une vue de données et les outils [Adobe Analytics](analytics-mcp.md) sont résolus par rapport aux suites de rapports.
 
 Définition du contexte une fois au début d’une session : les outils de produit individuels ne changent pas d’organisation, de sandbox ou de vues de données en milieu de session.
 

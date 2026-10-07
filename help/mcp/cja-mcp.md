@@ -10,7 +10,7 @@ ht-degree: 4%
 
 # Outils Customer Journey Analytics dans la passerelle Adobe CX Coworker {#cja-mcp}
 
-Utilisez les outils du produit Customer Journey Analytics pour explorer les vues de données, découvrir les dimensions et les mesures, exécuter des rapports et gérer les composants d’analyse sélectionnés à partir d’un client compatible avec MCP. Ces outils sont disponibles via la passerelle [](overview.md) lorsque votre compte dispose de la licence et des autorisations Customer Journey Analytics requises.
+Utilisez les outils du produit Customer Journey Analytics pour explorer les vues de données, découvrir les dimensions et les mesures, exécuter des rapports et gérer les composants d’analyse sélectionnés à partir d’un client compatible avec MCP. Ces outils sont disponibles via la passerelle [&#128279;](overview.md) lorsque votre compte dispose de la licence et des autorisations Customer Journey Analytics requises.
 
 >[!AVAILABILITY]
 >
@@ -28,7 +28,7 @@ Les outils Customer Journey Analytics prennent en charge les workflows d’analy
 
 >[!IMPORTANT]
 >
->Contrairement aux outils de produit en lecture seule [](rtcdp-mcp.md), [Experience Platform](aep-mcp.md) et [Journey Optimizer](ajo-mcp.md), les outils de Customer Journey Analytics incluent des opérations d’écriture. Ils peuvent créer et mettre à jour des segments, des mesures calculées, des périodes, des projets et des audiences. Examinez et validez toutes les modifications initiées par MCP avant de vous y fier.
+>Contrairement aux outils de produit en lecture seule [&#128279;](rtcdp-mcp.md), [Experience Platform](aep-mcp.md) et [Journey Optimizer](ajo-mcp.md), les outils de Customer Journey Analytics incluent des opérations d’écriture. Ils peuvent créer et mettre à jour des segments, des mesures calculées, des périodes, des projets et des audiences. Examinez et validez toutes les modifications initiées par MCP avant de vous y fier.
 
 ## Outils disponibles {#mcp-tools}
 
@@ -91,4 +91,4 @@ Les autorisations de produit s’appliquent toujours. Votre compte doit être en
 
 ## Informations supplémentaires {#mcp-more}
 
-Pour consulter la référence complète de l’outil et le guide de prise en main, consultez la [documentation du MCP ](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}.
+Pour consulter la référence complète de l’outil et le guide de prise en main, consultez la [documentation du MCP &#x200B;](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}.
