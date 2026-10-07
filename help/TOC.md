@@ -6,10 +6,10 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 6c126810936bea3e883d74e6ff685991cb40cd4a
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 10%
+source-wordcount: '217'
+ht-degree: 20%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -22,7 +22,9 @@ ht-degree: 10%
   - Cas d’utilisation {#use-cases}
     - [Cas d’utilisation de la conversation avec un collègue](./chat/use-cases/overview.md)
     - Data Insights {#data-insights}
-      - [Analyse des données CJA](./chat/use-cases/data-insights/analytics-chat.md)
+      - {hide-from-toc}[Vue d’ensemble](./chat/use-cases/data-insights/analytics-overview-v2.md)
+      - {hide-from-toc}[Vue d’ensemble](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Prise en main](./chat/use-cases/data-insights/analytics-chat.md)
       - [Explorer les tendances et les causes profondes](./chat/use-cases/data-insights/root-cause-analysis.md)
       - [Valider les données AA vers CJA lors de la mise à niveau](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [Valider la qualité du jeu de données pour la création de rapports CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
@@ -42,9 +44,10 @@ ht-degree: 10%
     - Alertes {#alerts}
       - [Compétences en alerte client](./chat/use-cases/customer-alerts/customer-alerts.md)
     - Visibilité de la marque {#brand-visibility}
-      - [Générer des ressources marketing](./chat/use-cases/brand-visibility/generate-assets.md)
       - [Vérification de la conformité de la marque](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Créer des pages AEM Sites](./chat/use-cases/brand-visibility/author-web-pages.md)
+      - [Intégration d’AEM Assets](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
+      - [Générer des ressources marketing](./chat/use-cases/brand-visibility/generate-assets.md)
     - Workflow et planification {#workflow-and-planning}
       - [Planifier le lancement d’une campagne numérique](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Personnalisations {#customizations}
@@ -58,6 +61,7 @@ ht-degree: 10%
     - [Que sont les intégrations ?](./customizations/integrations/understanding-integrations-in-coworker.md)
   - Plug-ins {#plugins}
     - [Que sont les plug-ins ?](./customizations/plugins/what-are-plugins.md)
+    - [Gestion des modules externes pour votre organisation](./customizations/plugins/manage-plugins-for-your-org.md)
   - Mémoire {#memory}
     - [Qu&#39;est-ce que la mémoire ?](./customizations/memory/what-is-memory.md)
 - Campagnes {#campaigns}
@@ -71,18 +75,3 @@ ht-degree: 10%
     - [Marketo Engage](./campaigns/connectors/marketo.md)
     - [Point De Raccordement](./campaigns/connectors/hubspot.md)
   - [Notes de mise à jour](./campaigns/release-notes.md)
-- MCP {#mcp}
-  - {hide-from-toc}[Passerelle Adobe CX Coworker](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/overview)
-  - {hide-from-toc}[Real-Time CDP MCP Beta](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/rtcdp-mcp)
-  - Prise en main {#mcp-get-started}
-    - {hide-from-toc}[Accéder aux outils de la passerelle CX Coworker](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/access)
-    - {hide-from-toc}[Installation de la passerelle CX Coworker](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/install)
-    - {hide-from-toc}[Outils de contexte de session dans la passerelle CX Coworker](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/context-tools)
-  - Outils de produit {#mcp-product-tools}
-    - {hide-from-toc}[Outils &#x200B;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/rtcdp-mcp)
-    - {hide-from-toc}[Outils &#x200B;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/aep-mcp)
-    - {hide-from-toc}[Outils &#x200B;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/ajo-mcp)
-    - {hide-from-toc}[Outils &#x200B;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/cja-mcp)
-    - {hide-from-toc}[Outils &#x200B;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/mcp/analytics-mcp)
-    - [Workfront](https://experienceleague.adobe.com/fr/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)
-    - [Cible](https://experienceleague.adobe.com/fr/docs/target/using/mcp/target-mcp)
