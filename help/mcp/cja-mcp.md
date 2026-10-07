@@ -83,11 +83,11 @@ Les autorisations de produit s’appliquent toujours. Votre compte doit être en
 
 **Vue d’ensemble**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486316/?captions=fre_fr&learn=on&enablevpops)
 
 **En action**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486327/?captions=fre_fr&learn=on&enablevpops)
 
 ## Informations supplémentaires {#mcp-more}
 
