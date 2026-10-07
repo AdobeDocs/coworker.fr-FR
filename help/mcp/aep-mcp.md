@@ -255,7 +255,7 @@ Récupérez les derniers résultats de l’évaluation du contrôle d’intégri
 
 >[!NOTE]
 >
->Cet outil récupère uniquement les résultats de l’évaluation. Pour résoudre un problème signalé, utilisez le panneau des détails du contrôle de l’intégrité dans l’interface utilisateur de [!DNL Experience Platform]. Voir [Contrôles d’intégrité](https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks). Des conseils de correction automatique pour les contrôles d’intégrité pris en charge sont disponibles en tant que compétence dans la conversation [&#128279;](../chat/overview.md).
+>Cet outil récupère uniquement les résultats de l’évaluation. Pour résoudre un problème signalé, utilisez le panneau des détails du contrôle de l’intégrité dans l’interface utilisateur de [!DNL Experience Platform]. Voir [Contrôles d’intégrité](https://experienceleague.adobe.com/fr/docs/experience-platform/run-and-operate/health-checks). Des conseils de correction automatique pour les contrôles d’intégrité pris en charge sont disponibles en tant que compétence dans la conversation [&#128279;](../chat/overview.md).
 
 **Fonctionnalités :** répertorier tous les résultats des contrôles d’intégrité pour le sandbox actuel et obtenir les résultats d’un contrôle nommé.
 
