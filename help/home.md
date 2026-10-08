@@ -31,12 +31,12 @@ CARDS
    {title = Get started with CX Enterprise Coworker Chat}
    {description = Learn the value of CX Enterprise Coworker Chat and start executing use cases.}
    {cta = Watch}
-   {image = https://video.tv.adobe.com/v/3498558?format=jpeg}    
+   {image = https://video.tv.adobe.com/v/3498569?captions=fre_fr&format=jpeg}    
 *  https://experienceleague.adobe.com/fr/playlists/coworker-customize-chat
     {title = Customize CX Enterprise Coworker Chat}
     {description = Learn how Coworker can be customized with reusable skills, enterprise integrations, plugins, and memory to deliver context-aware, personalized, and business-specific AI experiences that fits how your team works.}
     {cta = Watch}
-    {image = https://video.tv.adobe.com/v/3502323?format=jpeg}
+    {image = https://video.tv.adobe.com/v/3502334?captions=fre_fr&format=jpeg}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -45,7 +45,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/playlists/coworker-get-started-with-chat" title="Prise en main du chat CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498558?format=jpeg" alt="Prise en main du chat CX Enterprise Coworker"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498569?captions=fre_fr&format=jpeg" alt="Prise en main du chat CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,7 +68,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/playlists/coworker-customize-chat" title="Personnaliser la conversation CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502323?format=jpeg" alt="Personnaliser la conversation CX Enterprise Coworker"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502334?captions=fre_fr&format=jpeg" alt="Personnaliser la conversation CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
