@@ -2,15 +2,15 @@
 title: Validation de la mise en œuvre de Streaming Media avec un collègue
 description: Découvrez comment la compétence Validation des médias en flux continu de Coworker vérifie votre configuration, vos sessions et vos journaux pour confirmer que votre implémentation effectue correctement le suivi.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1304'
 ht-degree: 2%
 ---
 
 # Validation de la mise en œuvre de Streaming Media avec Coworker
 
-Coworker comprend une compétence de validation des médias en flux continu qui vérifie votre implémentation des médias en flux continu Adobe (analyses vidéo et audio) sur Edge Network, alimentant Customer Journey Analytics et/ou Adobe Analytics. Au lieu de référencer manuellement Assurance, la configuration des jeux de données, les groupes de champs de schéma XDM, la configuration des vues de données Customer Journey Analytics et les journaux réseau bruts, vous obtenez un seul rapport de validation.
+Adobe CX Enterprise Coworker comprend une compétence Validation des médias en flux continu qui vérifie votre implémentation des médias en flux continu Adobe (analyses vidéo et audio) sur Edge Network, alimentant Customer Journey Analytics et/ou Adobe Analytics. Au lieu de référencer manuellement Assurance, la configuration des jeux de données, les groupes de champs de schéma XDM, la configuration des vues de données Customer Journey Analytics et les journaux réseau bruts, vous obtenez un seul rapport de validation.
 
 Si vous implémentez ou résolvez les problèmes liés au suivi des médias en flux continu, vous pouvez utiliser ces compétences pour confirmer que votre implémentation est correctement configurée, collecter les données comme prévu et capturer ce que vous avez l’intention de suivre, le tout dans une seule conversation de conversation avec vos collègues.
 
