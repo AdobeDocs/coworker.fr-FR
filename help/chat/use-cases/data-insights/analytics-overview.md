@@ -6,9 +6,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '2332'
+source-wordcount: '2354'
 ht-degree: 0%
 ---
 
@@ -18,7 +18,9 @@ Le Module de conversation Adobe CX Enterprise Coworker permet aux équipes d’a
 
 La discussion avec les collègues peut effectuer une analyse avancée des données, ce qui était auparavant possible uniquement dans Analysis Workspace. Le Module de conversation avec un collègue accède aux données de vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics, ce qui vous permet d’explorer ces données et d’obtenir des réponses aux invites en langage naturel.
 
-Vous pouvez ouvrir la visualisation créée dans le Module de conversation des collègues pour une commande manuelle à tout moment.
+Lorsque vous créez une visualisation dans le chat de vos collègues, vous pouvez l’ouvrir dans Analysis Workspace à tout moment pour une commande plus manuelle.
+
+Les informations suivantes donnent un aperçu de la manière dont vous pouvez analyser les données dans le Module de conversation des collègues.
 
 ## Commencer l’analyse dans le Chat des collègues
 

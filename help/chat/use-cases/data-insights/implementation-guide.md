@@ -2,15 +2,15 @@
 title: Planification de la mise en œuvre de Customer Journey Analytics ou de Streaming Media avec Coworker
 description: Découvrez comment les compétences du guide d’implémentation de Coworker transforment une conversation de présentation en un plan d’implémentation personnalisé et ordonné avec des listes de contrôle exportables.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1239'
 ht-degree: 1%
 ---
 
 # Planification de la mise en œuvre avec un collègue
 
-Coworker comprend cinq compétences de guide d’implémentation, une pour chaque surface de produit : Customer Journey Analytics, une mise à niveau d’Adobe Analytics vers Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) et Streaming Media. Chaque compétence transforme une courte conversation sur la découverte en un plan d’implémentation personnalisé et adapté aux dépendances, complet avec une liste de contrôle interactive et des exportations prêtes à l’emploi, le tout dans une seule conversation avec le collègue.
+Adobe CX Enterprise Coworker comprend cinq compétences de guide d’implémentation, une pour chaque surface de produit : Customer Journey Analytics, une mise à niveau d’Adobe Analytics vers Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) et Streaming Media. Chaque compétence transforme une courte conversation sur la découverte en un plan d’implémentation personnalisé et adapté aux dépendances, complet avec une liste de contrôle interactive et des exportations prêtes à l’emploi, le tout dans une seule conversation avec le collègue.
 
 Si vous vous tenez debout ou migrez vers l’un de ces produits, vous pouvez utiliser ces compétences pour obtenir un plan ordonné et détaillé, sans avoir à effectuer manuellement des recherches sur les exigences d’implémentation d’Adobe ni à créer un plan de projet à partir de zéro.
 
