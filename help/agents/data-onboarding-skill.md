@@ -28,7 +28,7 @@ Avant de commencer, vérifiez que vous disposez des éléments suivants :
 - Accès à Adobe CX Enterprise Coworker, avec la compétence Intégration des données activée pour votre organisation.
 - Autorisation de créer des schémas dans Adobe Experience Platform.
 
-Pour obtenir des instructions sur l’installation de modules externes, consultez le [Guide de l’interface utilisateur de Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Pour obtenir des instructions sur l’installation de modules externes, consultez le [Guide de l’interface utilisateur de Coworker](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Utilisation de la compétence Intégration des données {#use-the-data-onboarding-skill}
 
@@ -48,7 +48,7 @@ Pour utiliser la compétence Intégration de données :
 
 1. Poursuivez la conversation avec vos collègues par le biais de l’examen de la qualité des données, de l’enrichissement sémantique, du mappage de schéma et de la création de schémas, en confirmant chaque étape au fur et à mesure.
 
-Pour plus d’informations sur l’utilisation de CX Coworker, consultez le [guide de l’interface utilisateur de Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Pour plus d’informations sur l’utilisation de CX Coworker, consultez le [guide de l’interface utilisateur de Coworker](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Cas d’utilisation pris en charge {#supported-use-cases}
 
@@ -78,4 +78,4 @@ Coworker termine l’intégration en créant le flux de données nécessaire pou
 
 Après avoir lu ce guide, vous devriez comprendre comment démarrer la compétence d’intégration des données à partir de la création de schémas et ce qu’elle vous permet d’accomplir dans CX Coworker.
 
-Pour la procédure de l’interface utilisateur d’Experience Platform et les scénarios d’accès/d’éligibilité, consultez [Intégration de données avec l’IA](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) dans le guide de l’interface utilisateur des schémas .
+Pour la procédure de l’interface utilisateur d’Experience Platform et les scénarios d’accès/d’éligibilité, consultez [Intégration de données avec l’IA](https://experienceleague.adobe.com/fr/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) dans le guide de l’interface utilisateur des schémas .
