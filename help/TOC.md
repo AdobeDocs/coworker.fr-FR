@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: 6c126810936bea3e883d74e6ff685991cb40cd4a
+source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '220'
 ht-degree: 20%
 ---
 
@@ -65,6 +65,7 @@ ht-degree: 20%
   - Mémoire {#memory}
     - [Qu&#39;est-ce que la mémoire ?](./customizations/memory/what-is-memory.md)
 - Campagnes {#campaigns}
+  - {hide-from-toc}[Nouvelle expérience Équipes](./campaigns/new-teams-experience.md)
   - [Vue d’ensemble](./campaigns/overview.md)
   - [Créer une campagne par e-mail](./campaigns/create-an-email-campaign.md)
   - [Lancement et gestion d’une campagne](./campaigns/launch-manage-campaign.md)
