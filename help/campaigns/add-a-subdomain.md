@@ -42,9 +42,9 @@ COMMENT :
 
    CAPTURE D’ÉCRAN
 
-   >>
+   &#x200B;>>
    >
-   Si votre commande VIERGE permet de télécharger les champs en bloc, vous pouvez cliquer sur Exporter au format CSV pour exporter tous les champs.
+   >Si votre commande VIERGE permet de télécharger les champs en bloc, vous pouvez cliquer sur Exporter au format CSV pour exporter tous les champs.
 
 1. Lorsque vous avez terminé, cliquez sur **J’ai ajouté ces enregistrements** dans Campagnes de collègues pour continuer.
 
