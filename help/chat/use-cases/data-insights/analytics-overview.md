@@ -12,7 +12,7 @@ source-wordcount: '2354'
 ht-degree: 0%
 ---
 
-Le Module de conversation Adobe CX Enterprise Coworker permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, en transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [](/help/home.md).
+Le Module de conversation Adobe CX Enterprise Coworker permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, en transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [&#128279;](/help/home.md).
 
 ## Analyse des données avec le chat des collègues
 
