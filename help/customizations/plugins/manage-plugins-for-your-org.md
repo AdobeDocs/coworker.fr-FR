@@ -54,7 +54,7 @@ ht-degree: 0%
 
 Découvrez comment les administrateurs peuvent étendre le Chat des collaborateurs Adobe avec des plug-ins approuvés, gérer les places de marché et régir l’accès aux compétences et aux outils connectés tout en conservant l’alignement avec les autorisations Adobe existantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504184/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ce que vous apprendrez
  

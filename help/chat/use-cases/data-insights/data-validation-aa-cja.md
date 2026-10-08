@@ -45,7 +45,7 @@ Pour valider les données dans le cadre de la mise à niveau, vous avez besoin d
 
 Vous n’avez pas besoin de savoir comment votre implémentation est conçue. La compétence détecte automatiquement si votre mise en œuvre de Customer Journey Analytics utilise le connecteur Source Analytics ou une nouvelle mise en œuvre de la SDK web Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496846/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496850/?captions=fre_fr&learn=on&enablevpops)
 
 ## Démarrer une session de validation
 
