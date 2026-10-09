@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee990126b1447f2eb2634761d27358f9d2e4586d
+source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '800'
 ht-degree: 15%
 ---
 # Présentation de CX Enterprise Coworker {#overview}
@@ -21,7 +21,7 @@ Coworker est un coéquipier optimisé par l’IA qui réimagine la nature du tra
 
 La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente.
 
-## Conversation avec les collègues - Essentiels
+## Conversation avec les collègues - Éléments essentiels
 
 Que vous débutiez ou que vous souhaitiez approfondir votre expertise, ces listes de lecture fournissent une introduction guidée au chat CX Enterprise Coworker. Découvrez comment parcourir les fonctionnalités clés, créer des invites efficaces et consultez des exemples pratiques sur la manière dont Coworker aide les équipes à travailler plus efficacement sur l’ensemble des produits Adobe Experience Cloud.
 
@@ -155,9 +155,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Équipes de collègues (anciennement Campagnes)
+## Campagnes des collègues
 
-Coworker Teams est une fonctionnalité modélisée pour que les petites équipes agiles puissent se mettre en place et exécuter des campagnes.
+Campagnes collaboratrices est une fonctionnalité modélisée pour que les petites équipes agiles puissent se mettre en place et exécuter des campagnes.
 
 * [Vue d’ensemble](./campaigns/overview.md)
 * [Créer une campagne par e-mail](./campaigns/create-an-email-campaign.md)
