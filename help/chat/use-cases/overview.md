@@ -7,24 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 1071cb1d9d08d89592f14f05ec9e32087ad937f3
+source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
 workflow-type: tm+mt
-source-wordcount: '7196'
+source-wordcount: '7646'
 ht-degree: 6%
 ---
 # Cas d’utilisation de la conversation avec un collègue {#use-cases}
 
 Le Module de conversation des collègues vous permet d’interroger, d’analyser et d’agir sur vos données [!DNL Experience Platform] en utilisant un langage naturel au lieu de parcourir plusieurs interfaces utilisateur ou d’écrire des requêtes manuellement. Cette page répertorie les cas d’utilisation les plus utilisés par les utilisateurs et les utilisatrices, organisés par domaine de travail : informations sur les données, audiences, parcours, fidélité, éléments fondamentaux et outils de sandbox. Chaque entrée comprend les compétences qu’elle appelle, les applications avec lesquelles elle fonctionne et des exemples d’invites que vous pouvez copier, adapter à vos propres données et affiner par la conversation.
-
->[!NOTE]
->
->Prochainement :
->
->De nouvelles fonctionnalités d’agent AEM via CX Enterprise Coworker, conçues pour vous aider à en faire plus, plus rapidement.
->
->Tous les clients éligibles auront accès aux fonctionnalités de l’agence Adobe Experience Manager dans Coworker, de manière progressive.
->
->Consultez également la section [IA dans AEM - Présentation des fonctionnalités d’agent dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/ai-in-aem/agentic-capabilities/overview).
 
 ## Expérience de marque
 
@@ -231,6 +221,27 @@ Utilisez le Module de conversation des collègues pour planifier, générer, év
 **Informations connexes**
 
 * [Collègue pour la gestion de contenu](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} fournit des détails sur les outils de gestion de contenu et les compétences disponibles dans Adobe Journey Optimizer.
+
+## Campaign v8
+
+Utilisez la discussion avec vos collègues pour rechercher et mettre à jour des diffusions, gérer des ressources, explorer le modèle de données et inspecter, valider et résoudre les problèmes liés aux workflows dans Adobe Campaign v8.
+
+| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| --- | --- | --- | --- | --- |
+| Rechercher et inspecter des diffusions | Rechercher des diffusions par nom, dossier, canal ou statut, récupérer les détails complets d’une diffusion, y compris le contenu du canal et la configuration SMTP, parcourir les modèles de contenu d’e-mail réutilisables et lire les rapports de diffusion intégrés | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | « Recherchez les modèles de contenu d’e-mail dont le nom contient « newsletter ». » · « Montrez-moi les brouillons de diffusions par courriel. » · « Combien de livraisons ont échoué ce mois-ci ? » · « Quel objet et quel expéditeur cette diffusion utilise-t-elle ? » |
+| Création et mise à jour de diffusions | Créez une diffusion ou un modèle à partir d’un modèle de canal et de contenu nommé, puis modifiez le libellé et le contenu du message par canal d’une diffusion existante | `create_delivery`, `update_delivery` | Adobe Campaign v8 | « Créez un e-mail à l’aide de mon modèle de contenu Newsletter. » · « Changez l&#39;objet du courriel de lancement d&#39;été. » · « Remplacer le contenu HTML de cette diffusion ». |
+| Préparer une diffusion sans l&#39;envoyer | Résoudre les cibles et effectuer le rendu de la personnalisation sans diffuser la diffusion | `prepare_delivery` | Adobe Campaign v8 | « Préparez la diffusion Lancement d’été. » · « Exécutez la préparation sur cette diffusion, mais ne l’envoyez pas. » |
+| Configurer les paramètres SMTP e-mail et Web Analytics | Définition des paramètres d’en-tête SMTP, ainsi que du compte Web Analytics et des balises de tracking, d’une diffusion e-mail | `update_email_smtp_config`, `update_email_web_analytics` | Adobe Campaign v8 |  |
+| Gestion des ressources et des pièces jointes | Téléchargez un fichier en tant que ressource, lisez ses métadonnées et son URL publique, rendez une ressource privée publique et liez une ressource à une diffusion en tant que pièce jointe réelle. | `upload_asset`, `get_asset_url`, `publish_asset`, `attach_asset` | Adobe Campaign v8 | « Chargez cette image afin que je puisse l’utiliser dans mon e-mail. » · « Donnez-moi l&#39;URL publique de l&#39;image que j&#39;ai téléchargée. » · « Joindre le PDF que j’ai téléchargé à la diffusion du lancement d’été. » |
+| Inspecter des campagnes | Recherchez des campagnes et des modèles et obtenez les détails complets d’une campagne, y compris ses workflows enfants et ses diffusions | `find_campaign`, `describe_campaign` | Adobe Campaign v8 |  |
+| Présentation et validation des workflows | Recherche de workflows, résumé un workflow ou exploration de ses activités et points de contact de diffusion, et validation statique d’une définition de workflow | `find_workflow`, `describe_workflow`, `validate_workflow` | Adobe Campaign v8 | « Expliquez le workflow de bienvenue. » · « Quelles diffusions sont utilisées par ce workflow ? » · « Valider le processus de bienvenue ». |
+| Workflows de contrôle | Piloter un workflow à travers une commande de cycle de vie (démarrer, mettre en pause, arrêter, reprendre ou réveiller), et reconfigurer une activité de diffusion dans un workflow | `control_workflow`, `update_workflow_delivery_activity` | Adobe Campaign v8 | « Démarrer le workflow de bienvenue. » · « Mettre en pause ce workflow ». |
+| Résolution des problèmes liés aux workflows | Découvrez l’intégrité de nombreux workflows en même temps, lorsqu’un workflow s’exécute, son journal d’exécution, ses tâches actuelles et ses commandes de moteur en attente | `read_workflow_health`, `read_workflow_history`, `read_workflow_logs`, `read_workflow_tasks`, `read_workflow_jobs` | Adobe Campaign v8 |  |
+| Explorer et étendre le modèle de données | Parcourez le catalogue de schémas, inspectez la structure d’un schéma, lisez les lignes de n’importe quel schéma, créez un nouveau schéma et créez ou modifiez sa table SQL physique | `find_schema`, `describe_schema`, `read_schema_entity`, `create_schema`, `update_database_structure` | Adobe Campaign v8 | « Recherche des schémas liés aux destinataires. » · « Décrire le schéma des destinataires ». · « Créer un schéma personnalisé pour les préférences de fidélité ». |
+
+**Informations connexes**
+
+* [Prise en main d’Adobe Campaign](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/new/get-started){target="_blank"} fournit un aperçu d’Adobe Campaign v8.
 
 ## Optimisation
 
