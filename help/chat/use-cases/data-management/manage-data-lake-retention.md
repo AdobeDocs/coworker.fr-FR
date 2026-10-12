@@ -1,7 +1,13 @@
 ---
 title: Gestion de la rétention du lac de données
 description: Découvrez comment utiliser CX Coworker pour identifier les données d’événement d’expérience qui méritent d’être optimisées, analyser l’utilisation des jeux de données et l’impact sur la rétention et gérer les politiques de rétention du lac de données.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -9,6 +15,8 @@ ht-degree: 1%
 # Gestion de la rétention du lac de données
 
 Utilisez CX Coworker pour comprendre la valeur des données d’événement d’expérience dans votre sandbox et identifier les données qui peuvent bénéficier de l’optimisation. Vous pouvez commencer par une demande générale, par exemple demander à un collègue d’optimiser les données de votre sandbox ou de nettoyer les jeux de données. Coworker utilise Data Management Agent pour faire apparaître les jeux de données qui méritent d’être étudiés, analyser l’activité d’utilisation d’un jeu de données, modéliser l’impact d’une période de rétention et, le cas échéant, vous aider à gérer sa politique de rétention du lac de données.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504098?captions=fre_fr&learn=on)
 
 ## Avant de commencer {#before-you-begin}
 
