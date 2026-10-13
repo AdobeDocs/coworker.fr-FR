@@ -1,12 +1,11 @@
 ---
 title: Analyse des données Customer Journey Analytics avec la conversation des collègues
 description: Découvrez comment utiliser le Module de conversation Adobe CX Enterprise Coworker pour analyser les données de Customer Journey Analytics, créer des entonnoirs et déterminer où les clients chutent dans le parcours.
-hold: true
 product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: d3a78af009a642a516658070d06eaf245fe67e6c
+source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -16,7 +15,7 @@ ht-degree: 1%
 
 Les informations de cette page donnent un aperçu du Module de conversation Adobe CX Enterprise Coworker et de la manière dont il peut vous aider à analyser les données pour votre organisation.
 
-La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [&#128279;](/help/home.md).
+La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [](/help/home.md).
 
 ## Fonctionnement de l’analyse des données
 
