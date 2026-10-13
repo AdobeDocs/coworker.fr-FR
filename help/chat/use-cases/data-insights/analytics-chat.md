@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 5%
 ---
 # Commencer à analyser les données avec le chat des collègues
 
-Configurez le Module de conversation Adobe CX Enterprise Coworker pour analyser vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics, puis suivez un exemple pratique. Pour une présentation de ce que vous pouvez faire avec le Chat Coworker, y compris les cas d’utilisation, les compétences et les bonnes pratiques, voir [Analyse des données avec le Chat Coworker](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Configurez le Module de conversation Adobe CX Enterprise Coworker pour analyser vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics, puis suivez un exemple pratique. Pour une présentation de ce que vous pouvez faire avec le Chat Coworker, y compris les cas d’utilisation, les compétences et les bonnes pratiques, voir [Analyse des données avec le Chat Coworker](/help/chat/use-cases/data-insights/analytics-overview.md).
 
 Avant de commencer, découvrez l’interface et les options de configuration de la conversation avec un collègue, puis assurez-vous que ce dernier est connecté à Customer Journey Analytics ou Adobe Analytics et aux vues de données ou suites de rapports appropriées.
 
@@ -331,4 +331,4 @@ Pour ouvrir une visualisation dans un nouveau projet Analysis Workspace :
 
 ## Étapes suivantes
 
-Pour d’autres cas d’utilisation, les compétences utilisées par Coworker Chat pour analyser vos données et les bonnes pratiques pour écrire des invites, voir [Analyser les données avec Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Pour d’autres cas d’utilisation, les compétences utilisées par Coworker Chat pour analyser vos données et les bonnes pratiques pour écrire des invites, voir [Analyser les données avec Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
