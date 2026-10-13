@@ -8,22 +8,24 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
+source-git-commit: 662ac793f7838834f84cddc5d78859dae97930aa
 workflow-type: tm+mt
-source-wordcount: '800'
-ht-degree: 15%
+source-wordcount: '834'
+ht-degree: 14%
 ---
 # Présentation de CX Enterprise Coworker {#overview}
 
 Coworker est un coéquipier optimisé par l’IA qui réimagine la nature du travail pour les organisations, les équipes et les individus. Coworker automatise élégamment l’expérience client et les workflows marketing afin que les entreprises puissent se concentrer sur la réalisation de leurs objectifs commerciaux et la transformation des résultats, plutôt que sur la coordination des tâches. En tant que moteur d&#39;agence, Coworker adopte une nouvelle approche innovante pour automatiser les processus d&#39;entreprise. Il améliore les performances et la précision des modèles d’IA en associant les données, l’intelligence artificielle, la collaboration et l’exécution des compétences de l’agence au contexte de l’entreprise, à la gouvernance et à la supervision humaine intégrés.
 
-## Conversation avec un collègue
+Coworker est livré à travers trois expériences :
 
-La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente.
+* **[Conversations [!UICONTROL Chats]](./chat/overview.md) :** utilisez le langage naturel pour les requêtes, les informations, la génération de contenu et les actions complexes dans les applications Adobe.
+* **[Collègue [!UICONTROL Campagnes]](./campaigns/overview.md) :** conçu pour faire passer les équipes marketing agiles d’un objectif de campagne à une exécution de campagne coordonnée.
+* **Projets [!UICONTROL collègues] (bientôt disponible) :** conçu pour les workflows d’entreprise interfonctionnels et à plus long terme, où les équipes définissent les processus, les approbations et le niveau d’autonomie du collaborateur.
 
-## Conversation avec les collègues - Éléments essentiels
+## Essentiels pour les [!DNL Coworker] [!UICONTROL conversations]
 
-Que vous débutiez ou que vous souhaitiez approfondir votre expertise, ces listes de lecture fournissent une introduction guidée au chat CX Enterprise Coworker. Découvrez comment parcourir les fonctionnalités clés, créer des invites efficaces et consultez des exemples pratiques sur la manière dont Coworker aide les équipes à travailler plus efficacement sur l’ensemble des produits Adobe Experience Cloud.
+Que vous débutiez ou que vous souhaitiez approfondir votre expertise, ces listes de lecture fournissent une introduction guidée à l’utilisation de la fonctionnalité [!UICONTROL Conversations] dans [!DNL Coworker]. Découvrez comment parcourir les fonctionnalités clés, créer des invites efficaces et consultez des exemples pratiques sur la manière dont Coworker aide les équipes à travailler plus efficacement sur l’ensemble des produits Adobe Experience Cloud.
 
 <!--
 CARDS
