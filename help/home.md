@@ -1,16 +1,15 @@
 ---
 title: Guide d’Adobe CX Enterprise Coworker
 description: Découvrez Adobe CX Enterprise Coworker, un coéquipier optimisé par l’IA qui automatise l’expérience client et les workflows marketing à l’échelle de votre organisation.
-dummy: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 662ac793f7838834f84cddc5d78859dae97930aa
+source-git-commit: f0ca8fc373cae1697ac28a4f555e8c096ff6fbca
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '843'
 ht-degree: 14%
 ---
 # Présentation de CX Enterprise Coworker {#overview}
@@ -19,13 +18,13 @@ Coworker est un coéquipier optimisé par l’IA qui réimagine la nature du tra
 
 Coworker est livré à travers trois expériences :
 
-* **[Conversations [!UICONTROL Chats]](./chat/overview.md) :** utilisez le langage naturel pour les requêtes, les informations, la génération de contenu et les actions complexes dans les applications Adobe.
+* **[Conversation [!UICONTROL Chat]](./chat/overview.md) :** utilisez le langage naturel pour les requêtes, les informations, la génération de contenu et les actions complexes dans les applications Adobe.
 * **[Collègue [!UICONTROL Campagnes]](./campaigns/overview.md) :** conçu pour faire passer les équipes marketing agiles d’un objectif de campagne à une exécution de campagne coordonnée.
 * **Projets [!UICONTROL collègues] (bientôt disponible) :** conçu pour les workflows d’entreprise interfonctionnels et à plus long terme, où les équipes définissent les processus, les approbations et le niveau d’autonomie du collaborateur.
 
-## Essentiels pour les [!DNL Coworker] [!UICONTROL conversations]
+## Essentiels pour [!DNL Coworker] [!UICONTROL conversation]
 
-Que vous débutiez ou que vous souhaitiez approfondir votre expertise, ces listes de lecture fournissent une introduction guidée à l’utilisation de la fonctionnalité [!UICONTROL Conversations] dans [!DNL Coworker]. Découvrez comment parcourir les fonctionnalités clés, créer des invites efficaces et consultez des exemples pratiques sur la manière dont Coworker aide les équipes à travailler plus efficacement sur l’ensemble des produits Adobe Experience Cloud.
+Que vous débutiez ou que vous souhaitiez approfondir votre expertise, ces listes de lecture fournissent une introduction guidée à l’utilisation de la fonctionnalité [!UICONTROL Chat] dans [!DNL Coworker]. Découvrez comment parcourir les fonctionnalités clés, créer des invites efficaces et consultez des exemples pratiques sur la manière dont Coworker aide les équipes à travailler plus efficacement sur l’ensemble des produits Adobe Experience Cloud.
 
 <!--
 CARDS
@@ -101,7 +100,7 @@ CARDS
   {title = Transforming CX Workflows with Adobe CX Enterprise Coworker}
   {description = Explore real-world use cases that demonstrate how organizations can put Coworker to work to uncover insights, create audiences, optimize journeys, and deliver customer experiences faster and more efficiently.}
   {cta = Watch}
-*  https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008
+*  https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26
   {title = Audience and Journey B2C capabilities in Coworker}
   {description = See how Coworker can execute end-to-end workflows for customer experience orchestration, increasing productivity and simplifying otherwise technical or complex tasks.}
   {cta = Register}
@@ -113,7 +112,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-09-24-26" title="Transformation des workflows CX avec Adobe CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/exl-live-20260924.png" alt="Transformation des workflows CX avec Adobe CX Enterprise Coworker"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503884/?format=jpeg&nocache=1791907736815" alt="Transformation des workflows CX avec Adobe CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -135,8 +134,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/exl-live-20261008.png" alt="Fonctionnalités B2C d’audience et de Parcours dans Coworker"
+                    <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504278/?format=jpeg&nocache=1791907736813" alt="Fonctionnalités B2C d’audience et de Parcours dans Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -144,11 +143,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008" target="_blank" rel="referrer" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker">Audience et Parcours des fonctionnalités B2C dans Coworker</a>
+                        <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker">Audience et Parcours des fonctionnalités B2C dans Coworker</a>
                     </p>
                     <p class="is-size-6">Découvrez comment Coworker peut exécuter des workflows de bout en bout pour l’orchestration de l’expérience client, ce qui augmente la productivité et simplifie les tâches autrement techniques ou complexes.</p>
                 </div>
-                <a href="https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">S’inscrire</span>
                 </a>
             </div>
@@ -156,6 +155,7 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 
 ## Campagnes des collègues
 
