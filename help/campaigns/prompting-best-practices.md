@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '781'
 ht-degree: 23%
@@ -18,7 +18,7 @@ Pour tirer le meilleur parti des campagnes Coworker, commencez par afficher l’
 
 >[!NOTE]
 >
->Actuellement, vous pouvez uniquement vous connecter aux intégrations prises en charge par les campagnes Coworker. Si vous disposez déjà d&#39;applications d&#39;entreprise Adobe, dans lesquelles vous stockez des audiences ou créez des parcours, nous vous encourageons à utiliser [CX Enterprise Coworker](/help/chat/use-cases/overview.md) à la place.
+>Actuellement, vous pouvez uniquement vous connecter aux intégrations prises en charge par les campagnes Coworker. Si vous disposez déjà d&#39;applications d&#39;entreprise Adobe, dans lesquelles vous stockez des audiences ou créez des parcours, nous vous encourageons à utiliser [CX Enterprise Coworker](/help/chat/use-cases/workflows.md) à la place.
 
 ## Utiliser le framework CO-STAR
 
@@ -52,7 +52,7 @@ Pour de meilleurs résultats, organisez vos invites à l&#39;aide du framework C
 <p>Rédigez vos invites pour générer l'intention souhaitée</p>
 </td>
 <td>
-<p>Demander des modifications structurelles, de style ou de modification d’image dans les prompts</p>
+<p>Demander des modifications structurelles, de style ou d’édition d’images dans les prompts</p>
 <p>Utiliser des instructions vagues comme « promouvoir notre produit »</p>
 <p>S’attendre à des modifications de la disposition via des prompts</p>
 </td>

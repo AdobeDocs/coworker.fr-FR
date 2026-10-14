@@ -5,10 +5,10 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
+source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 18%
+source-wordcount: '226'
+ht-degree: 19%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -19,7 +19,7 @@ ht-degree: 18%
   - [Guide de l’interface utilisateur du](./chat/ui-guide.md)
   - {hide-from-toc}[Conversation avec un collègue dans un terrain de jeu](./playground-coworker-chat.md)
   - Cas d’utilisation {#use-cases}
-    - [Cas d’utilisation de la conversation avec un collègue](./chat/use-cases/overview.md)
+    - [Workflows de conversation avec un collègue](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
       - {hide-from-toc}[Vue d’ensemble](./chat/use-cases/data-insights/analytics-overview.md)
       - [Prise en main](./chat/use-cases/data-insights/analytics-chat.md)
