@@ -26,7 +26,7 @@ La création de parcours client nécessite généralement une configuration comp
  
 En automatisant le processus de configuration initial, les équipes peuvent passer moins de temps à créer des parcours à partir de zéro et plus de temps à affiner les expériences client et les résultats commerciaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496878/?captions=fre_fr&learn=on&enablevpops)
 
 ## Voir également
 
