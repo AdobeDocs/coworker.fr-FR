@@ -14,7 +14,7 @@ ht-degree: 18%
 ---
 # Guide de CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] est le coéquipier d’Adobe agentic AI pour l’expérience client et le marketing. Il est conçu pour faire plus que répondre à des questions ou recommander des actions : il peut orchestrer et exécuter des workflows marketing complexes et en plusieurs étapes sur Adobe et d’autres systèmes d’entreprise, tout en vous gardant le contrôle via des approbations et une gouvernance définies. En savoir plus sur [](https://business.adobe.com/products/cx-enterprise-coworker.html).
+[!DNL Coworker] est le coéquipier d’Adobe agentic AI pour l’expérience client et le marketing. Il est conçu pour faire plus que répondre à des questions ou recommander des actions : il peut orchestrer et exécuter des workflows marketing complexes et en plusieurs étapes sur Adobe et d’autres systèmes d’entreprise, tout en vous gardant le contrôle via des approbations et une gouvernance définies. En savoir plus sur [&#128279;](https://business.adobe.com/products/cx-enterprise-coworker.html).
 
 ## Comment utiliser [!DNL Coworker]
 
