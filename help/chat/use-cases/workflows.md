@@ -1,30 +1,30 @@
 ---
-description: Parcourez les cas d’utilisation et les exemples d’invites de conversation des collègues, organisés par zone entre les informations sur les données, les audiences, les parcours et les opérations de la plateforme.
-title: Cas D’Utilisation De La Conversation Avec Un Collègue
+description: Parcourez les workflows et les exemples d’invites de conversation entre collègues, organisés par zone entre les informations sur les données, les audiences, les parcours et les opérations de la plateforme.
+title: Workflows de conversation avec un collègue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
+source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
 workflow-type: tm+mt
-source-wordcount: '7646'
+source-wordcount: '7618'
 ht-degree: 6%
 ---
-# Cas d’utilisation de la conversation avec un collègue {#use-cases}
+# Workflows de conversation avec un collègue {#use-cases}
 
-Le Module de conversation des collègues vous permet d’interroger, d’analyser et d’agir sur vos données [!DNL Experience Platform] en utilisant un langage naturel au lieu de parcourir plusieurs interfaces utilisateur ou d’écrire des requêtes manuellement. Cette page répertorie les cas d’utilisation les plus utilisés par les utilisateurs et les utilisatrices, organisés par domaine de travail : informations sur les données, audiences, parcours, fidélité, éléments fondamentaux et outils de sandbox. Chaque entrée comprend les compétences qu’elle appelle, les applications avec lesquelles elle fonctionne et des exemples d’invites que vous pouvez copier, adapter à vos propres données et affiner par la conversation.
+Le Module de conversation des collègues vous permet d’interroger, d’analyser et d’agir sur vos données [!DNL Experience Platform] en utilisant un langage naturel au lieu de parcourir plusieurs interfaces utilisateur ou d’écrire des requêtes manuellement. Cette page répertorie les workflows les plus utilisés, organisés par domaine de travail : informations sur les données, audiences, parcours, fidélité, éléments fondamentaux et outils de sandbox. Chaque entrée comprend les compétences qu’elle appelle, les applications avec lesquelles elle fonctionne et des exemples d’invites que vous pouvez copier, adapter à vos propres données et affiner par la conversation.
 
 ## Expérience de marque
 
-| Exemple d’utilisation | Description | Compétence(s) | Application | Exemples d’invites |
+| Workflow | Description | Compétence(s) | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Mettre à jour des pages AEM](brand-visibility/author-web-pages.md) | Effectuez des actions telles que la mise à jour, la suppression, le remplacement ou l’ajout d’éléments de contenu pour que les expériences restent exactes et à jour. Les entrées peuvent être en langage naturel ou des annotations visuelles telles que des PDF ou des captures d’écran. | `aem-sites-pages-update` | Adobe Experience Manager (AEM) - AEM Sites | Le &lt;URL> mettez à jour le titre en Hello World<br><br>le &lt;URL> modifiez le bouton « Prenez notre quiz du café » en une version plus attrayante<br><br>Mettez à jour &lt;URL> en fonction du fichier joint<br><br>le &lt;URL> Je souhaite ajouter une nouvelle section teaser au bas de la page à propos d’une promotion que nous organisons au mois d’août qui consiste à acheter une machine à café et à obtenir 2 sacs de café gratuits. Retrouvez également l’image d’amis buvant du café et utilisez-la dans le teaser |
 | Mise à jour d’AEM en bloc | exécuter des actions en bloc sur plusieurs pages en même temps, telles que la suppression, le remplacement ou l’ajout d’éléments de contenu, pour que les expériences restent exactes et à jour. | `aem-sites-pages-bulkreplace` | Adobe Experience Manager (AEM) - AEM Sites | sur &lt;chemin aem>, mettez à jour toutes les pages qui contiennent la copie « MyBarista\ » vers « BrewPass ». |
 | Passer de Figma au fragment de contenu visuel | Importez des conceptions directement de Figma dans Adobe Experience Manager à l’aide du langage naturel. Cette compétence crée automatiquement le modèle de contenu, le fragment de contenu, les ressources et le modèle de visualisation requis, ce qui permet aux utilisateurs professionnels de passer de la conception au contenu prêt pour le web en quelques minutes, sans configuration manuelle. | `aem-sites-visualcontentfragments-create` | Adobe Experience Manager (AEM) - AEM Sites | Importer depuis &lt;Image_URL> |
 
-| Exemple d’utilisation | Description | Compétence(s) | Application | Exemples d’invites |
+| Workflow | Description | Compétence(s) | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Créer un formulaire | Générez un nouveau formulaire adaptatif à partir d’une description en langage clair, d’un brief joint, d’une image ou d’un PDF | `aem-forms-adaptiveform-create` | Adobe Experience Manager (AEM) - AEM Forms | « Créer un formulaire d’intégration d’employé »<br><br>« Créez un formulaire à l’aide du brief ci-joint (image ou pdf)« <br><br>« Créez un &lt;type de formulaire> formulaire adaptatif » |
 | Formulaire de modification/mise à jour | Modifier un formulaire existant - ajouter/modifier des champs, ajuster la disposition simple, configurer des actions d’envoi ou appliquer des modifications à partir d’un document de directives joint | `aem-forms-adaptiveform-edit` | Adobe Experience Manager (AEM) - AEM Forms | « Ajouter le champ Deuxième prénom sous le champ Prénom »<br><br>« Placez les champs Prénom et Nom dans une disposition à 2 colonnes, 50/50 »<br><br>« Configurez le formulaire pour envoyer des données à un point d’entrée REST »<br><br>« Mettez à jour ce formulaire pour qu’il corresponde au document d’instructions joint »<br><br>« Ajoutez le champ &lt;nom du champ> sous le champ &lt;champ existant> » |
@@ -39,7 +39,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ### Développement
 
-| Exemple d’utilisation | Description | Compétence(s) | Application | Exemples d’invites |
+| Workflow | Description | Compétence(s) | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Gestion des pipelines Cloud Manager | Créer, exécuter et surveiller les pipelines AEM Cloud Manager, y compris les journaux, les artefacts, les variables et les paramètres | `cloud-manager-pipeline-management` | Adobe Experience Manager (AEM) | « Répertorier les pipelines pour les 12345 de programme »<br><br>« Quel est l’état de mon dernier pipeline ? » |
 | Gestion des environnements Cloud Manager | Création, configuration et maintenance des environnements AEM Cloud Manager, y compris les RDE, les variables d’environnement, les journaux et les sauvegardes | `cloud-manager-environment-management` | Adobe Experience Manager (AEM) | « Répertorier mes environnements pour les 12345 de programme »<br><br>« Réinitialiser mon RDE » |
@@ -52,7 +52,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ### Intégration
 
-| Exemple d’utilisation | Description | Compétence(s) | Application | Exemples d’invites |
+| Workflow | Description | Compétence(s) | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Intégration guidée de bout en bout | Orchestre le cycle de vie complet de l’intégration, la sélection du référentiel, la délégation au dossier, la balise, les métadonnées, l’importation et la recherche des sous-compétences, si vous ne connaissez pas la tâche d’intégration spécifique dont vous avez besoin. | `aem-onboarding-workflow` | Adobe Experience Manager (AEM) - AEM Assets | « Intégration de notre équipe à AEM Assets »<br><br>« Découvrez comment intégrer la gestion des ressources numériques AEM » |
 | Conception et création de hiérarchies de dossiers | Recommande et crée des structures de dossiers évolutives dans AEM Assets (sous `/content/dam`) en fonction des besoins de l’entreprise ou des entrées CSV. | `aem-folder-management` | Adobe Experience Manager (AEM) - AEM Assets | « Recommander une structure de dossiers pour vos ressources marketing liées à votre style de vie »<br><br>« Créer des dossiers basés sur ce fichier CSV » |
@@ -67,7 +67,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ### Découverte de contenu
 
-| Exemple d’utilisation | Description | Compétence(s) | Application | Exemples d’invites |
+| Workflow | Description | Compétence(s) | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Recherche par thème sémantique | Recherchez des ressources par concept, humeur ou thème visuel à l’aide de la correspondance sémantique optimisée par l’IA. | `aem-assets-discovery` | Adobe Experience Manager (AEM) - AEM Assets | « Retrouvez-moi des images de style de vie du café du matin » |
 | Recherche par métadonnées personnalisées | Filtrez les ressources en fonction de champs de métadonnées personnalisés (par exemple, mélange de café, marque, niveau de rôti). | `aem-assets-discovery` | Adobe Experience Manager (AEM) - AEM Assets | « Rechercher les ressources où `Coffee Blend` est `Morning Muse`« <br><br>« Obtenez-moi les ressources dont la licence n’a pas expiré »<br><br>« Recherchez les ressources dont le nom de campagne n’est pas défini (la propriété doit être indexée pour obtenir les résultats appropriés). » |
@@ -80,7 +80,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ### Optimisation du contenu
 
-| Exemple d’utilisation | Description | Compétence(s) | Application | Exemples d’invites |
+| Workflow | Description | Compétence(s) | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Création de rendus haute résolution et rendus optimisés pour les canaux | Générer de nouveaux rendus d’une ressource à une résolution et un niveau de qualité spécifiés, ce qui facilite la préparation de variations prêtes pour le canal sans modification manuelle. Vous pouvez également produire des rendus adaptés aux exigences spécifiques de la plateforme, telles que les histoires Instagram, en veillant à ce que les ressources respectent automatiquement les directives de format, de ratio et de qualité. | `aem-assets-content-optimisation` | Adobe Experience Manager (AEM) - AEM Assets | « Créer un rendu `2000px` en tant que `JPEG` avec `80% quality` »<br><br>« Créer un rendu pour une histoire Instagram » |
 | Recouvrements de marque et génération composite | Appliquez des graphiques promotionnels, des superpositions ou des badges à des ressources existantes avec un emplacement précis, ce qui permet de créer rapidement des composites prêts pour la campagne. | `aem-assets-content-optimisation` | Adobe Experience Manager (AEM) - AEM Assets | « Recouvrez l’image avec des graphiques de remise `30%` sur la bannière promotionnelle, en la plaçant `100px` au centre. » |
@@ -92,7 +92,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ## Gouvernance de marque
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Règle et recherche de segment | Récupérer des instructions détaillées sur la marque, par segment, marché ou catégorie | enterprise-context | Adobe Experience Manager (AEM) | « Quelles sont les directives relatives au ton de la voix pour cette marque ?« <br>« Énumérez les catégories d&#39;allégations utilisées dans le volet santé » |
 | Évaluer le contenu par rapport aux directives de la marque | Évaluez une page, un bloc de texte ou une image publié/créé par rapport aux contrôles de marque configurés. | aem-gouvernance | Adobe Experience Manager (AEM) | « Évaluez cette page de destination par rapport aux directives de SecurBank »<br>« Ce slogan est-il conforme à nos contrôles de la tonalité ? » |
@@ -104,7 +104,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ## Informations sur les données
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Extraction des rapports et des mesures CJA et AA](data-insights/analytics-chat.md) | Requête sur CJA ou AA en temps réel pour extraire des mesures, des dimensions, des segments, des vues de données et des suites de rapports | `cja`, `aa` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | « Afficher les pages vues au cours des 30 derniers jours » <br> « Répertorier les segments principaux dans la vue de données principale » |
 | Analyse comparative | Comparaison de mesures sur plusieurs canaux, périodes ou segments côte à côte | `cja-root-cause-analysis`, `cja`, `aa-root-cause-analysis`, `aa`, `dx-api`, `knowledge-graph` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | « Comparer le chiffre d’affaires par canal, mois après mois » <br> « À quoi ressemble la conversion entre appareils mobiles et ordinateurs de bureau ce trimestre ? » |
@@ -120,7 +120,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ## Audiences
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Créer des audiences à partir du langage naturel](audiences/create-audience-from-natural-language.md) | Orchestrer la création d’audiences étape par étape avec l’approbation de l’utilisateur à chaque phase | `audience-creation-flow` | Real-Time CDP (RTCDP) | « Créer une audience d’utilisateurs ayant effectué des achats au cours des 30 derniers jours » <br> « Créer un segment pour les membres du programme de fidélité à forte valeur ajoutée en Californie » |
 | Création de définitions PQL | Assembler les définitions d’audience à partir des propriétés XDM, des événements comportementaux ou des audiences existantes ; prendre en charge l’agrégation et les fenêtres temporelles | `segment-definition-assembly` | Real-Time CDP (RTCDP) | « Création d’un PQL pour les personnes qui ont consulté plus de 3 produits, mais ne les ont pas achetés » <br> « Ajout d’une période de 7 jours à ma condition d’événement » |
@@ -132,7 +132,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ## Parcours
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Créer des parcours à partir du langage naturel](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} | Orchestrer la création de parcours dans AJO à partir d’une invite de texte ou d’une image/d’un diagramme de flux chargé | `journey-create` | Adobe Journey Optimizer (AJO) | « Création d’un parcours de bienvenue qui envoie un e-mail après l’inscription, attend 3 jours, puis envoie un suivi » <br> « Création d’un parcours à partir de cette image de diagramme de flux chargée » |
 | [Analyse des conflits de parcours &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Détecter les chevauchements d’audience, les collisions planifiées et les problèmes de déduplication entre les parcours actifs | `journey-analyze-conflict` | Adobe Journey Optimizer (AJO) | « Mon parcours d’abandon de panier entre-t-il en conflit avec d’autres parcours ? » <br> « Vérifier s’il y a chevauchement des audiences entre mes parcours actifs » |
@@ -149,7 +149,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 ## Gestion de contenu Journey Optimizer
 
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Appliquer des conseils de marque](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | Recherchez, sélectionnez et appliquez des directives de marque approuvées pour la voix, l’écriture, l’imagerie, la terminologie et les conseils juridiques de la campagne. | `brand-lookup` | Adobe Journey Optimizer (AJO) | « Tirez les consignes d&#39;écriture et visuelles pour notre marque Acme. » |
 | [Vérifier la préparation du contenu](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | Examinez le contenu de la campagne pour connaître la voix de la marque, la qualité éditoriale, l’engagement, la clarté et la préparation. | `check-content-readiness` | Adobe Journey Optimizer (AJO) | « Cette copie d’e-mail est-elle prête à être envoyée ? Vérifiez la voix de la marque, la clarté, l’accessibilité et la conformité. » |
@@ -169,7 +169,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ## Programmes marketing
 
-| Exemple d’utilisation | Description | Compétence(s) | Application | Exemples d’invites |
+| Workflow | Description | Compétence(s) | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Créer un programme | Adaptez un modèle de programme existant en un nouveau programme, avec des campagnes intelligentes, des planifications et des e-mails d’espace réservé générés à partir d’une description en langage clair ou d’un résumé chargé | `build-programs` | Adobe Marketo Engage | « Créez un programme d’enregistrement de webinaire pour notre démonstration du produit d’août »<br><br>« Créez un programme qui se déclenche lorsqu’un prospect obtient un score de 50 »<br><br>« Créez une série de réengagement de 3 e-mails pour les prospects inactifs depuis 90 jours » |
 | Créer un programme à partir d’un brief | Convertissez un résumé en langage clair ou un document de campagne téléchargé en programme de travail : clonez le modèle correspondant le plus proche, transférez les campagnes et jetons intelligents et mettez à jour les détails des événements. Les nouvelles campagnes intelligentes restent désactivées pour votre examen. | `build-programs` | Adobe Marketo Engage | « J&#39;organise un webinaire le 10 septembre à Chicago. Configurer le programme pour moi »<br><br>« Configurez le programme de la tournée du mois prochain à partir de ce résumé et mettez à jour les jetons d’événement » |
@@ -178,7 +178,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 ## Fidélité
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Créer, modifier et gérer des défis de fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | Simplifier et accélérer la gestion des programmes de fidélité | `loyalty` | Adobe Journey Optimizer (AJO) | « Créez un défi pour encourager vos membres à essayer une nouvelle boisson saisonnière » <br> « Montrez-moi les défis de fidélité avec les taux de décrochage les plus élevés. » |
 | [Analyser les performances du programme de fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | Interrogez et analysez les points de fidélité, les niveaux de membre, les remboursements et les mesures de chiffre d’affaires en langage naturel | `loyalty-insights` | Adobe Journey Optimizer (AJO) | « Combien de points de fidélité ont été accordés en août 2026 ? » <br> « Affichez le chiffre d’affaires total du programme de fidélité ventilé par jour au cours du mois d’août 2026. » |
@@ -193,7 +193,7 @@ Utilisez le Module de conversation des collègues pour planifier, générer, év
 
 ### Copie du message
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Capturer le résumé marketing](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Capture la stratégie de campagne et amorce le briefing de création. | `capture-marketing-brief` | Adobe Journey Optimizer (AJO) | « Créer un résumé marketing pour notre lancement de produit saisonnier » <br> « Transformer cette stratégie de campagne en résumé marketing » |
 | [Capturer le briefing de création](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Structure la spécification d’exécution de la copie et crée la matrice du plan de contenu. | `capture-creative-brief` | Adobe Journey Optimizer (AJO) | « Créez un briefing de création à partir de ce brief marketing approuvé » <br> « Créez une matrice de plan de contenu pour votre campagne par e-mail et SMS » |
@@ -208,7 +208,7 @@ Utilisez le Module de conversation des collègues pour planifier, générer, év
 
 ### Conception d’e-mails
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Composer un e-mail](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Les plans bloquent la structure et le style d’un objectif marketing et des entrées de marque. | `compose-email` | Adobe Journey Optimizer (AJO) | « Planifiez une mise en page d’e-mail pour le lancement de notre produit à l’aide de nos directives de marque » <br> « Composez un e-mail de bienvenue avec une section principale, les points forts du produit et un call to action » |
 | [Créer un e-mail](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Crée, adapte, modifie et affine un e-mail HTML à partir d’un plan de mise en page, d’une capture d’écran ou d’un lien de conception Figma. | `build-email` | Adobe Journey Optimizer (AJO) | « Créer une HTML d’e-mail à partir de ce plan de mise en page approuvé » <br> « Créer un e-mail à partir de ce lien de conception Figma » |
@@ -226,7 +226,7 @@ Utilisez le Module de conversation des collègues pour planifier, générer, év
 
 Utilisez la discussion avec vos collègues pour rechercher et mettre à jour des diffusions, gérer des ressources, explorer le modèle de données et inspecter, valider et résoudre les problèmes liés aux workflows dans Adobe Campaign v8.
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Rechercher et inspecter des diffusions | Rechercher des diffusions par nom, dossier, canal ou statut, récupérer les détails complets d’une diffusion, y compris le contenu du canal et la configuration SMTP, parcourir les modèles de contenu d’e-mail réutilisables et lire les rapports de diffusion intégrés | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | « Recherchez les modèles de contenu d’e-mail dont le nom contient « newsletter ». » · « Montrez-moi les brouillons de diffusions par courriel. » · « Combien de livraisons ont échoué ce mois-ci ? » · « Quel objet et quel expéditeur cette diffusion utilise-t-elle ? » |
 | Création et mise à jour de diffusions | Créez une diffusion ou un modèle à partir d’un modèle de canal et de contenu nommé, puis modifiez le libellé et le contenu du message par canal d’une diffusion existante | `create_delivery`, `update_delivery` | Adobe Campaign v8 | « Créez un e-mail à l’aide de mon modèle de contenu Newsletter. » · « Changez l&#39;objet du courriel de lancement d&#39;été. » · « Remplacer le contenu HTML de cette diffusion ». |
@@ -249,7 +249,7 @@ Utilisez le Module de conversation des collègues pour parcourir, analyser et pl
 
 ### Analyse des expériences et stratégie
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Parcourir et explorer les expériences | Rechercher des présentations sur les expériences, des listes, des décomptes, des résultats bruts, des informations et des opportunités | `experiment-explorer` | Adobe Target/Adobe Journey Optimizer | « Afficher mes expériences » · « Liste des tests actifs » · « Combien d’expériences sont en cours d’exécution ? » |
 | Analyse des performances de l’expérience | Obtenez des tableaux de portefeuilles, des contrôles d’intégrité pour une seule expérience, des notes de synthèse et des rapports d’expériences croisées avec des mesures, éventuellement enrichis de données CJA | `experiment-analysis` | Adobe Target/Adobe Journey Optimizer | « Comment se portent mes tests A/B ? » · « Générer un rapport pour mes activités avec les mesures CJA » · « Ce test est-il sain ? » |
@@ -258,7 +258,7 @@ Utilisez le Module de conversation des collègues pour parcourir, analyser et pl
 
 ### Activités et audiences cibles
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Parcourir les entités Target | Découvrez, inspectez et comptez les activités, les offres, les audiences, les mbox, les propriétés, les espaces de travail, la configuration d’AT.js, les jetons de réponse et l’historique des révisions. Peut également capturer une capture d’écran des expériences forcées d’une activité | `target-browse` | Adobe Target | « Répertorier mes tests A/B » · « Combien d’activités ont été lancées ce mois-ci ? » · « Afficher les détails de l&#39;activité 12345 » |
 | Analyse des performances des activités | Obtenez les taux de conversion, l’effet élévateur, les intervalles de confiance, les chiffres d’affaires et d’exposition pour une seule activité. Ne déclare que les faits et ne déclare jamais un gagnant | `target-analyze` | Adobe Target | « Comment se porte l’activité X ? » · « Montrez-moi l’effet élévateur de conversion » · « Quel est le VTA pour le test de passage en caisse ? » |
@@ -274,7 +274,7 @@ Utilisez le Module de conversation des collègues pour parcourir, analyser et pl
 
 ### Recommandations
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Parcourir les entités Recommendations | Parcourez et examinez les critères, collections, conceptions, promotions, exclusions, catalogues et flux de Recommendations, et obtenez des conseils de nettoyage et des conseils sur les attributs de catalogue | `target-recs` | Adobe Target | « Répertorier mes critères de recommandations » · « Quelles conceptions ai-je ? » · « Quelles recommandations pouvons-nous nettoyer ? » |
 | Diagnostiquer les problèmes liés à Recommendations | Suivez l’activité, les critères, le flux, la collection et la chaîne de conception pour expliquer pourquoi les recommandations sont vides, obsolètes ou non affichées | `target-recs-diagnose` | Adobe Target | « Pourquoi mes recommandations sont-elles vides ? » · « Pourquoi mon activité des recommandations a-t-elle été « résultats non prêts » pendant 48 heures ? |
@@ -282,7 +282,7 @@ Utilisez le Module de conversation des collègues pour parcourir, analyser et pl
 
 ## Éléments fondamentaux
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Connaissances et documentation du produit | Répondez à des questions relatives à l’utilisation, à la conception, au dépannage et aux bonnes pratiques à partir de la documentation Adobe officielle | `product-knowledge` | Toutes les applications éligibles | « Comment configurer une destination de diffusion en streaming ? » <br> « Quelle est la différence entre la segmentation par lots et en flux continu ? » |
 | Requête sur les entités Experience Platform / Journey Optimizer | Servir de point d’entrée principal pour les questions sur les entités de votre plateforme ; acheminer vers KG, la découverte de champs ou les API selon les besoins | `operational-insights` | Toutes les applications éligibles | « De combien de jeux de données dispose-t-on ? » <br> « Afficher tous les parcours actifs » <br> « Répertorier mes destinations » |
@@ -296,20 +296,20 @@ Utilisez le Module de conversation des collègues pour parcourir, analyser et pl
 
 ## Gestion des données
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Rechercher des données qui méritent d’être optimisées ou nettoyées](./data-management/manage-data-lake-retention.md#find-data-worth-optimizing) | Déterminez si vos données d’événement d’expérience peuvent être optimisées en faisant apparaître vos jeux de données les plus volumineux, les moins utilisés ou oubliés comme candidats au nettoyage ou à une politique de conservation du lac de données | `List datasets` | Adobe Experience Platform | « J’ai le sentiment que mes données peuvent être optimisées » <br> « M’aider à comprendre la valeur de mes données » <br> « Optimiser mes données de sandbox » <br> « Nettoyer mes jeux de données sandbox » |
 | [Étude de l’utilisation et gestion de la conservation d’un jeu de données](./data-management/manage-data-lake-retention.md#check-how-actively-a-dataset-is-used) | Une fois que vous avez trouvé un jeu de données qui mérite d’être examiné de plus près, découvrez dans quelle mesure il est utilisé, modélisez l’impact d’une politique potentielle de rétention du lac de données et définissez, modifiez ou supprimez cette politique lorsque vous êtes prêt, avec votre examen et votre approbation avant toute modification | `Analyze dataset usage`, `Analyze dataset retention`, `Manage dataset retention` | Adobe Experience Platform | « Dans quelle mesure mon jeu de données d’événements web est-il utilisé ? » <br> « Quel serait l’impact si je définissais une période de conservation de 60 jours sur ce jeu de données ? » |
 
 ## Outil Sandbox
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | [Déplacement d’objets dans des sandbox](/help/chat/use-cases/sandbox-tooling/sandbox-tooling.md) | Migrez facilement les schémas, les audiences et d’autres configurations d’objet dans les sandbox, avec des dépendances résolues automatiquement | `sandbox-tooling-workflow` | Adobe Experience Platform | « Déplacer le schéma Luma Loyalty Members Platinum du sandbox actuel vers le sandbox de production » <br> « Promouvoir l’audience des membres du programme de fidélité Gold des États-Unis vers l’étape » |
 
 ## Alertes clients
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Gestion des abonnements aux alertes | Affichez et gérez les abonnements aux alertes par le biais de conversations en langage naturel. | `alerts-subscribe` | Adobe Experience Platform | « À quelles alertes suis-je abonné ?« <br><br>« Abonnez-moi à cette alerte.« <br><br>« Supprimez mon abonnement à cette alerte. » |
 | Vérifier l’activité d’alerte | Examinez le statut actuel de l’alerte et l’activité historique de l’alerte pour une période spécifiée. | `alerts-list` | Adobe Experience Platform | « Que s’est-il passé au cours des dernières 24 heures ? »<br><br>« Quelles alertes ont été déclenchées au cours des dernières 24 heures ? »<br><br>« Affichez les alertes actives des sept derniers jours. » |
@@ -321,7 +321,7 @@ Utilisez le Module de conversation des collègues pour parcourir, analyser et pl
 
 ## Workflow et planification
 
-| Exemple d’utilisation | Description | Compétences | Application | Exemples d’invites |
+| Workflow | Description | Compétences | Application | Exemples d’invites |
 | --- | --- | --- | --- | --- |
 | Gérer l’espace de travail Planning | Créez et faites évoluer les espaces de travail, sections, types d’enregistrements et champs de Workfront Planning pour organiser les programmes et suivre le travail | `manage-workfront-planning`, `wf-planning-solution-architect` | Workfront Planning | « Créez un espace de travail appelé MKG Hub et configurez les types d’enregistrements pour effectuer le suivi des programmes par région » <br> « Définissez les types d’enregistrements et les relations nécessaires pour effectuer le suivi des programmes MKG sur plusieurs canaux et régions » |
 | Gérer les enregistrements Planning | Créer et mettre à jour des enregistrements de planification (campagnes, résumés) et leurs valeurs de champ dans un espace de travail | `manage-workfront-planning` | Workfront Planning | « Créer un brief pour la campagne de lancement de marque d’automne avec l’objectif, l’audience cible et les messages clés » <br> « Mettre à jour le brief de lancement de marque d’automne avec le budget et les canaux principaux » |

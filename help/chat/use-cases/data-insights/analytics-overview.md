@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -67,7 +67,7 @@ Les cas d&#39;utilisation suivants sont regroupés par domaine d&#39;analyse. Ch
 | Cas d’utilisation | Fonction |
 | --- | --- |
 | [Comparer les performances](#skills-and-limitations) | Comparez les mesures entre les canaux, les périodes ou les segments côte à côte.<p>**Exemple d’invite :** « Comparer les recettes par canal, mois après mois »</p><p>Pour plus d’informations, voir [Compétences et limitations](#skills-and-limitations).</p> |
-| [Analyser les tendances opérationnelles et les causes](/help/chat/use-cases/overview.md#data-insights) | Interrogez les données historiques de série temporelle des audiences, des jeux de données et des parcours et identifiez ce qui a provoqué une modification.<p>**Exemple d’invite :** « Afficher les tendances de taille d’audience au cours des 90 derniers jours »</p><p>Pour plus d’informations, voir [Informations sur les données](/help/chat/use-cases/overview.md#data-insights) dans les cas d’utilisation du chat des collègues.</p> |
+| [Analyser les tendances opérationnelles et les causes](/help/chat/use-cases/workflows.md#data-insights) | Interrogez les données historiques de série temporelle des audiences, des jeux de données et des parcours et identifiez ce qui a provoqué une modification.<p>**Exemple d’invite :** « Afficher les tendances de taille d’audience au cours des 90 derniers jours »</p><p>Pour plus d’informations, voir [Informations sur les données](/help/chat/use-cases/workflows.md#data-insights) dans les cas d’utilisation du chat des collègues.</p> |
 
 ### Performance de l’entreprise
 
@@ -86,9 +86,9 @@ Les cas d&#39;utilisation suivants sont regroupés par domaine d&#39;analyse. Ch
 
 | Cas d’utilisation | Fonction |
 | --- | --- |
-| [Mesurer les performances de la campagne](/help/chat/use-cases/overview.md#data-insights) | Découvrez les performances des campagnes, des canaux et des propriétés web sur une période donnée.<p>**Exemple d’invite :** « Quelles ont été les performances de nos campagnes web Acrobat le mois dernier ? »</p><p>Pour plus d’informations, voir [Informations sur les données](/help/chat/use-cases/overview.md#data-insights) dans les cas d’utilisation du chat des collègues.</p> |
+| [Mesurer les performances de la campagne](/help/chat/use-cases/workflows.md#data-insights) | Découvrez les performances des campagnes, des canaux et des propriétés web sur une période donnée.<p>**Exemple d’invite :** « Quelles ont été les performances de nos campagnes web Acrobat le mois dernier ? »</p><p>Pour plus d’informations, voir [Informations sur les données](/help/chat/use-cases/workflows.md#data-insights) dans les cas d’utilisation du chat des collègues.</p> |
 
-Pour plus d’informations sur ces cas d’utilisation, y compris sur les compétences qu’ils utilisent et d’autres exemples d’invites, voir [Cas d’utilisation des informations sur les données](/help/chat/use-cases/overview.md#data-insights).
+Pour plus d’informations sur ces cas d’utilisation, y compris sur les compétences qu’ils utilisent et d’autres exemples d’invites, voir [Cas d’utilisation des informations sur les données](/help/chat/use-cases/workflows.md#data-insights).
 
 ## Compétences et limitations
 

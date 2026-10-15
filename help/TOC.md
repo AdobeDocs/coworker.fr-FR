@@ -5,9 +5,9 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
+source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 18%
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 18%
   - [Guide de l’interface utilisateur du](./chat/ui-guide.md)
   - {hide-from-toc}[Conversation avec un collègue dans un terrain de jeu](./playground-coworker-chat.md)
   - Cas d’utilisation {#use-cases}
-    - [Cas d’utilisation de la conversation avec un collègue](./chat/use-cases/overview.md)
+    - [Workflows de conversation avec un collègue](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
       - {hide-from-toc}[Vue d’ensemble](./chat/use-cases/data-insights/analytics-overview.md)
       - [Prise en main](./chat/use-cases/data-insights/analytics-chat.md)
@@ -27,6 +27,7 @@ ht-degree: 18%
       - [Valider les données AA vers CJA lors de la mise à niveau](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [Valider la qualité du jeu de données pour la création de rapports CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [Validation des données Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
+      - [Accélérer les informations sur les données](./chat/use-cases/data-insights/accelerate-data-insights.md)
     - Intégration des données {#data-onboarding}
       - {hide-from-toc}[Intégration des données avec un collègue](./agents/data-onboarding-skill.md)
     - Data Management {#data-management}
