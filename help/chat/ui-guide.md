@@ -46,7 +46,7 @@ Pour utiliser l’expérience immersive, connectez-vous avec vos informations d�
 
 ## Vidéo - Principes de base de l’interface de conversation [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
 
 ## Choisissez votre organisation
 
