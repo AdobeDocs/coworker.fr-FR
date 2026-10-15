@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
+source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
 workflow-type: tm+mt
 source-wordcount: '1799'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 Le Module de conversation avec un collègue vous permet de travailler avec vos données et outils Adobe CX Enterprise en vous demandant ce dont vous avez besoin en langage clair. Utilisez cette page pour ouvrir le Chat des collègues, envoyer votre premier message et le configurer comme vous le faites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilité
 
@@ -39,7 +39,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Pour utiliser l’expérience immersive, connectez-vous avec vos informations d’identification Adobe. Vous pouvez l’ouvrir à partir d’un lien direct ou dans CX Enterprise.
 
-1. Accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+1. Accédez à [](https://experience.adobe.com/#/coworker).
 1. Connectez-vous avec votre Adobe ID.
 
 Vous pouvez également cliquer sur **[!UICONTROL Collègue]** dans le sélecteur d’applications de l’en-tête CX Enterprise.
@@ -99,7 +99,7 @@ Pour envoyer un message :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
@@ -132,7 +132,7 @@ Joignez un fichier ou un objet lorsque la discussion avec un collègue a besoin 
 
 ![Le menu Joindre](./assets/ui-guide-5.png)
 
-### Examiner un plan avant l’action du Chat des collègues
+### Examiner un plan avant l’action du Chat des collègues {#plan-mode}
 
 Utilisez le mode Plan pour les tâches complexes ou les tâches qui modifient les données. Lorsque le mode Plan est activé, le Chat des collaborateurs propose un plan et attend votre approbation avant de l&#39;exécuter. Lorsque le mode Plan est désactivé, la discussion avec les collègues démarre le travail immédiatement.
 
