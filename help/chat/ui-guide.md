@@ -39,7 +39,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Pour utiliser l’expérience immersive, connectez-vous avec vos informations d’identification Adobe. Vous pouvez l’ouvrir à partir d’un lien direct ou dans CX Enterprise.
 
-1. Accédez à [](https://experience.adobe.com/#/coworker).
+1. Accédez à [&#128279;](https://experience.adobe.com/#/coworker).
 1. Connectez-vous avec votre Adobe ID.
 
 Vous pouvez également cliquer sur **[!UICONTROL Collègue]** dans le sélecteur d’applications de l’en-tête CX Enterprise.
@@ -99,7 +99,7 @@ Pour envoyer un message :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
