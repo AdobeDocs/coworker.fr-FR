@@ -8,16 +8,16 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
+source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
 workflow-type: tm+mt
-source-wordcount: '1799'
-ht-degree: 2%
+source-wordcount: '1809'
+ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
 
 Le Module de conversation avec un collègue vous permet de travailler avec vos données et outils Adobe CX Enterprise en vous demandant ce dont vous avez besoin en langage clair. Utilisez cette page pour ouvrir le Chat des collègues, envoyer votre premier message et le configurer comme vous le faites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilité
 
@@ -39,16 +39,16 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Pour utiliser l’expérience immersive, connectez-vous avec vos informations d’identification Adobe. Vous pouvez l’ouvrir à partir d’un lien direct ou dans CX Enterprise.
 
-1. Accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+1. Accédez à [](https://experience.adobe.com/#/coworker).
 1. Connectez-vous avec votre Adobe ID.
 
 Vous pouvez également cliquer sur **[!UICONTROL Collègue]** dans le sélecteur d’applications de l’en-tête CX Enterprise.
 
 ![Collègue dans le sélecteur d’applications CX Enterprise](./assets/ui-guide-1.png)
 
-## Définition de votre contexte
+## Choisissez votre organisation
 
-Votre entreprise et votre sandbox déterminent quelles données, compétences et outils connectés une conversation peut atteindre. Vérifiez-les avant de commencer. Le contexte actuel s’affiche au bas du rail de navigation de gauche, sous votre nom.
+Votre [organisation](https://experienceleague.adobe.com/fr/docs/core-services/interface/administration/organizations) et votre sandbox déterminent quelles données, compétences et outils connectés une conversation peut atteindre. Vérifiez-les avant de commencer. Le contexte actuel s’affiche au bas du rail de navigation de gauche, sous votre nom.
 
 Pour modifier votre contexte :
 
@@ -89,7 +89,7 @@ Utilisez le rail de navigation pour vous déplacer entre les parties du produit 
 
 ## Envoyer votre premier message
 
-L’écran d’accueil affiche un message d’accueil, la zone de saisie et les invites suggérées en fonction de ce que la conversation avec le collègue peut faire dans votre sandbox. Vous pouvez commencer par une suggestion ou écrire votre propre message.
+L’écran d’accueil affiche un message d’accueil, la zone de saisie ([!UICONTROL Conversation]) et les invites suggérées en fonction de ce que la discussion entre collègues peut faire dans votre sandbox. Vous pouvez commencer par une suggestion ou écrire votre propre message.
 
 Pour envoyer un message :
 
@@ -99,7 +99,7 @@ Pour envoyer un message :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
