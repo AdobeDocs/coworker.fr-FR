@@ -17,7 +17,7 @@ ht-degree: 2%
 
 Le Module de conversation avec un collègue vous permet de travailler avec vos données et outils Adobe CX Enterprise en vous demandant ce dont vous avez besoin en langage clair. Utilisez cette page pour ouvrir le Chat des collègues, envoyer votre premier message et le configurer comme vous le faites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
 
 ## Disponibilité
 
