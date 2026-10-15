@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '750'
 ht-degree: 4%
 ---
 # Présentation du chat Adobe CX Enterprise Coworker {#overview}
@@ -18,7 +18,7 @@ Le Module de conversation des collègues est une interface conversationnelle per
 
 La valeur : le travail qui s’étendait sur plusieurs écrans, équipes et jours se produit désormais en une seule conversation, en quelques minutes. Vous déléguez les résultats et gardez le contrôle par le biais de la révision et de l’approbation ; le Module de conversation des collègues effectue les étapes, récupère des erreurs en cours de route et devient plus net lorsqu’il apprend comment fonctionne votre équipe.
 
-Voir [Prise en main du chat avec vos collègues](ui-guide.md).
+Pour commencer, voir [Prise en main du chat des collègues](ui-guide.md).
 
 >[!AVAILABILITY]
 >
@@ -72,4 +72,4 @@ Le Chat Coworker est optimisé par les blocs de création Coworker. Les blocs de
 
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3495969?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
