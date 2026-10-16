@@ -1,20 +1,20 @@
 ---
-description: Découvrez les améliorations et correctifs apportés aux fonctionnalités dans les notes de mise à jour des campagnes Adobe CX Enterprise Coworker .
-title: Notes de mise à jour des campagnes CX Enterprise Coworker
+description: Découvrez les améliorations et correctifs apportés aux fonctionnalités dans les notes de mise à jour d’Adobe CX Enterprise Coworker pour les équipes .
+title: Notes de mise à jour de CX Enterprise Coworker pour les équipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '3590'
+source-wordcount: '3597'
 ht-degree: 0%
 ---
-# Notes de mise à jour des campagnes Adobe CX Enterprise Coworker {#release-notes}
+# Notes de mise à jour d’Adobe CX Enterprise Coworker pour les équipes {#release-notes}
 
-Les versions des campagnes Coworker fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive et plus progressive du déploiement des fonctionnalités.
+Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive et plus progressive du déploiement des fonctionnalités.
 
 ## Septembre 2026 {#sep-2026}
 
@@ -173,7 +173,7 @@ Les versions des campagnes Coworker fonctionnent sur un modèle de diffusion con
 * Les informations sur Campaign indiquent la source de données qui alimente chaque mesure
 * Les éditeurs de marque sont désormais intégrés à l’intégration pour une première configuration plus fluide
 * Prévisualisez un exemple d’audience avant de vous engager dans votre campagne
-* Les campagnes de collègues sont désormais intégrées à l’interface de navigation unifiée d’Experience Cloud
+* Le collègue des équipes vit désormais dans l’interface de navigation unifiée d’Experience Cloud
 * Suppression de la barre d’info-bulles flottante pour un panorama de campagne plus propre
 * Diverses améliorations des performances et de la fiabilité dans
 
@@ -276,7 +276,7 @@ Les versions des campagnes Coworker fonctionnent sur un modèle de diffusion con
 
 **Date de publication : 10 juin 2026**
 
-* L’application s’appelle désormais Campagnes collaborateur avec un nom mis à jour dans
+* L’application est désormais Coworker pour les équipes avec des noms mis à jour dans
 * Une première visite d’intégration vous guide tout au long de la création d’une marque de démonstration
 * Lancez des campagnes à partir d’une boîte de dialogue dédiée lorsque votre plan est prêt à l’emploi.
 * Connectez HubSpot à l’aide d’une clé API du catalogue d’intégrations
@@ -370,7 +370,7 @@ Les versions des campagnes Coworker fonctionnent sur un modèle de diffusion con
 
 * Les tableaux et listes de Campaign restent alignés sur les derniers détails pendant que vous travaillez
 * Une clause de non-responsabilité générée par l’IA apparaît dans le chat de campagne et le créateur d’agents
-* Les coordonnées de l’assistance utilisent désormais l’adresse e-mail dédiée aux campagnes CX Coworker
+* Les coordonnées de contact de l’assistance utilisent désormais l’adresse e-mail CX Coworker for team dédiée
 * La page d’accueil marketing supprime la section de liste d’attente et affiche plus clairement la vidéo principale
 * Davantage d’écrans respectent automatiquement votre langue et les formats de date locaux
 * Diverses améliorations des performances et de la fiabilité dans

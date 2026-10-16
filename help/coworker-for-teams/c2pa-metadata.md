@@ -1,19 +1,19 @@
 ---
-description: Découvrez comment les campagnes Coworker joignent et conservent automatiquement les métadonnées C2PA sur les images, de la génération à la diffusion par e-mail.
-title: Métadonnées C2PA dans les campagnes Coworker
+description: Découvrez comment Coworker for Teams joint et conserve automatiquement les métadonnées C2PA sur les images, de la génération à la diffusion par e-mail.
+title: Métadonnées C2PA dans Coworker pour les équipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '396'
 ht-degree: 27%
 ---
-# Métadonnées C2PA dans les campagnes Coworker {#overview}
+# Métadonnées C2PA dans Coworker pour les équipes {#overview}
 
 De nouvelles lois sur la transparence de l’IA générative voient le jour, et Adobe s’efforce de respecter les exigences applicables dans les différentes juridictions. [Métadonnées C2PA](https://c2pa.org/) est l’outil de provenance utilisé par Adobe pour répondre aux exigences de ces lois.
 
-Les métadonnées C2PA sont des métadonnées durables et invisibles qui enregistrent la manière dont un élément de contenu a été créé ou modifié. Lorsque vous générez ou modifiez une image à l’aide d’outils d’IA génératifs dans les campagnes Coworker, des métadonnées C2PA sont automatiquement associées à cette image. Aucune action n’est requise de votre part.
+Les métadonnées C2PA sont des métadonnées durables et invisibles qui enregistrent la manière dont un élément de contenu a été créé ou modifié. Lorsque vous générez ou modifiez une image à l’aide d’outils d’IA générative dans Coworker for Teams, des métadonnées C2PA sont automatiquement associées à cette image. Aucune action n’est requise de votre part.
 
 ## Métadonnées C2PA dans les campagnes par e-mail {#c2pa-metadate-email}
 
@@ -21,7 +21,7 @@ Les images envoyées dans vos campagnes par e-mail conservent leurs métadonnée
 
 ## Actions qui joignent des métadonnées C2PA {#actions}
 
-Le tableau suivant résume le moment où des métadonnées C2PA sont jointes, en fonction de l’action d’image effectuée dans la génération d’images dans les campagnes Coworker.
+Le tableau suivant résume le moment où des métadonnées C2PA sont jointes, en fonction de l’action d’image effectuée dans la génération d’images dans Coworker pour les équipes.
 
 | Action | Description | Métadonnées C2PA jointes ? | Exemple de cas d’usage |
 | --- | --- | --- | --- |
@@ -29,12 +29,12 @@ Le tableau suivant résume le moment où des métadonnées C2PA sont jointes, en
 
 ## Types de contenu et leur portée {#content-types}
 
-* **Images** : prises en charge. Les métadonnées C2PA sont jointes lorsque les images sont générées avec l’IA générative et conservées par le biais d’opérations de recadrage, de superposition de texte et de superposition d’image effectuées par la génération d’images dans les campagnes Coworker.
-* **Texte** : non applicable. Les sorties texte uniquement dans les campagnes Coworker, telles que la génération de copies, la traduction et les suggestions d’alignement de marque, ne nécessitent pas de métadonnées C2PA.
+* **Images** : prises en charge. Les métadonnées C2PA sont jointes lorsque les images sont générées avec l’IA générative et conservées par le recadrage, la superposition de texte et les opérations de superposition d’images effectuées par la génération d’images dans Coworker pour les équipes.
+* **Texte** : non applicable. Les sorties textuelles dans Coworker pour les équipes, telles que la génération de copies, la traduction et les suggestions d’alignement de marque, ne nécessitent pas de métadonnées C2PA.
 
 ## Ce qui se passe lorsque le contenu est déplacé {#content-moves}
 
-Les campagnes Coworker conservent les métadonnées C2PA associées aux ressources d’image prises en charge. Si une image contient des métadonnées C2PA lors de l’importation dans les campagnes Coworker, ces informations d’identification sont conservées lorsque la ressource est utilisée dans le contenu de campagne généré et les expériences d’e-mail sortant.
+Coworker for Teams conserve les métadonnées C2PA associées aux ressources d’images prises en charge. Si une image contient des métadonnées C2PA lors de l’importation dans Coworker pour les équipes, ces informations d’identification sont conservées lorsque la ressource est utilisée dans du contenu de campagne généré et des expériences d’e-mail sortant.
 
 ## Ressources supplémentaires {#resources}
 

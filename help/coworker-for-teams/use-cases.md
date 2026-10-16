@@ -1,24 +1,24 @@
 ---
-description: Parcourez les modèles d’invites réels pour les campagnes Adobe CX Enterprise Coworker, organisés par cas d’utilisation dans les campagnes d’acquisition, d’engagement, d’événements, de conversion et de rétention.
-title: Cas D’Utilisation Des Campagnes De Collègues
+description: Parcourez les modèles d’invites réels pour les équipes d’Adobe CX Enterprise Coworker, organisés par cas d’utilisation dans les campagnes d’acquisition, d’engagement, d’événements, de conversion et de rétention.
+title: Collègue pour les cas d’utilisation d’équipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '512'
 ht-degree: 0%
 ---
 # Cas d’utilisation {#use-cases}
 
-Vous trouverez ci-dessous des modèles d’invites réels que les spécialistes du marketing du cycle de vie et de la croissance utilisent dans les campagnes Adobe CX Enterprise Coworker. Chacune est conçue pour être copiée, échangée avec vos propres détails d’audience et de marque, et affinée dans la conversation.
+Vous trouverez ci-dessous des modèles d’invites réels que les spécialistes du marketing du cycle de vie et de la croissance utilisent dans Adobe CX Enterprise Coworker pour les équipes. Chacune est conçue pour être copiée, échangée avec vos propres détails d’audience et de marque, et affinée dans la conversation.
 
 ## Utilisation
 
-Choisissez un cas d’utilisation qui correspond à votre objectif, copiez l’exemple d’invite et collez-le dans les campagnes de vos collègues, remplacez les espaces réservés par vos détails et affinez la sortie via la discussion. Pour une présentation détaillée, accédez à Créer et générer des campagnes .
+Choisissez un cas d’utilisation qui correspond à votre objectif, copiez l’exemple d’invite et collez-le dans Coworker for Teams, remplacez les espaces réservés par vos détails, puis affinez la sortie via la discussion. Pour une présentation détaillée, accédez à Créer et générer des campagnes .
 
 ## Acquisition et intégration
 
@@ -74,7 +74,7 @@ Idéal pour : formation sur les produits, adoption des fonctionnalités, réduct
 
 Idéal pour : notifications push saisonnières de vente au détail, pertes de collection, moments de rafraîchissement.
 
-`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## Les événements et les moments
 

@@ -1,5 +1,5 @@
 ---
-description: 'Découvrez les campagnes des collaborateurs qui demandent des bonnes pratiques : le framework CO-STAR, ce qu’il faut faire et ne pas faire, le contenu non pris en charge et une liste de contrôle qualité pour les invites.'
+description: 'Apprenez à travailler avec les équipes qui vous invitent à suivre les bonnes pratiques : le cadre CO-STAR, les choses à faire et à ne pas faire, le contenu non pris en charge et une liste de contrôle de qualité pour les invites.'
 title: Bonnes pratiques en matière de prompt
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,18 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '785'
 ht-degree: 23%
 ---
 # Bonnes pratiques en matière de promotion {#best-practices}
 
-Pour tirer le meilleur parti des campagnes Coworker, commencez par afficher l’invite suivante. Découvrez les pratiques qui produisent les meilleurs résultats : le cadre CO-STAR pour structurer vos invites, ce qu&#39;il faut inclure et ce qu&#39;il faut éviter, ainsi que des exemples basés sur des scénarios qui donnent à l&#39;IA le contexte dont elle a besoin pour générer du contenu pertinent et ciblé.
+Tirer le meilleur parti de Coworker for Teams commence par l’invite. Découvrez les pratiques qui produisent les meilleurs résultats : le cadre CO-STAR pour structurer vos invites, ce qu&#39;il faut inclure et ce qu&#39;il faut éviter, ainsi que des exemples basés sur des scénarios qui donnent à l&#39;IA le contexte dont elle a besoin pour générer du contenu pertinent et ciblé.
 
 >[!NOTE]
 >
->Actuellement, vous pouvez uniquement vous connecter aux intégrations prises en charge par les campagnes Coworker. Si vous disposez déjà d&#39;applications d&#39;entreprise Adobe, dans lesquelles vous stockez des audiences ou créez des parcours, nous vous encourageons à utiliser [CX Enterprise Coworker](/help/chat/use-cases/workflows.md) à la place.
+>Actuellement, vous pouvez uniquement vous connecter à Coworker pour les intégrations prises en charge par les équipes. Si vous disposez déjà d&#39;applications d&#39;entreprise Adobe, dans lesquelles vous stockez des audiences ou créez des parcours, nous vous encourageons à utiliser [CX Enterprise Coworker](/help/chat/use-cases/workflows.md) à la place.
 
 ## Utiliser le framework CO-STAR
 
@@ -179,4 +179,4 @@ Fournissez toujours du contexte et la proposition de valeur afin que l’IA puis
 
 >[!MORELIKETHIS]
 >
->Parcourez d’autres [modèles d’invite](use-cases.md) pour les campagnes Coworker.
+>Parcourez d’autres [modèles d’invite](use-cases.md) pour les équipes de Coworker.

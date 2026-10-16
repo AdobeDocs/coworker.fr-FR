@@ -5,10 +5,10 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 18%
+source-wordcount: '233'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -16,7 +16,7 @@ ht-degree: 18%
 - [Présentation des collègues](home.md)
 - Chat {#chat}
   - [Vue d’ensemble](./chat/overview.md)
-  - [Guide de l’interface utilisateur du](./chat/ui-guide.md)
+  - [Prise en main du chat](./chat/ui-guide.md)
   - {hide-from-toc}[Conversation avec un collègue dans un terrain de jeu](./playground-coworker-chat.md)
   - Cas d’utilisation {#use-cases}
     - [Workflows de conversation avec un collègue](./chat/use-cases/workflows.md)
@@ -66,15 +66,15 @@ ht-degree: 18%
     - [Gestion des modules externes pour votre organisation](./customizations/plugins/manage-plugins-for-your-org.md)
   - Mémoire {#memory}
     - [Qu&#39;est-ce que la mémoire ?](./customizations/memory/what-is-memory.md)
-- Campagnes {#campaigns}
-  - {hide-from-toc}[Nouvelle expérience Équipes](./campaigns/new-teams-experience.md)
-  - [Vue d’ensemble](./campaigns/overview.md)
-  - [Créer une campagne par e-mail](./campaigns/create-an-email-campaign.md)
-  - [Lancement et gestion d’une campagne](./campaigns/launch-manage-campaign.md)
-  - [Cas d’utilisation](./campaigns/use-cases.md)
-  - [Bonnes pratiques en matière de promotion](./campaigns/prompting-best-practices.md)
-  - [Métadonnées C2PA](./campaigns/c2pa-metadata.md)
+- Collègue pour les équipes {#coworker-for-teams}
+  - {hide-from-toc}[Nouvelle expérience Équipes](./coworker-for-teams/new-teams-experience.md)
+  - [Vue d’ensemble](./coworker-for-teams/overview.md)
+  - [Créer une campagne par e-mail](./coworker-for-teams/create-an-email-campaign.md)
+  - [Lancement et gestion d’une campagne](./coworker-for-teams/launch-manage-campaign.md)
+  - [Cas d’utilisation](./coworker-for-teams/use-cases.md)
+  - [Bonnes pratiques en matière de promotion](./coworker-for-teams/prompting-best-practices.md)
+  - [Métadonnées C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Connecteurs {#connectors}
-    - [Marketo Engage](./campaigns/connectors/marketo.md)
-    - [Point De Raccordement](./campaigns/connectors/hubspot.md)
-  - [Notes de mise à jour](./campaigns/release-notes.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Point De Raccordement](./coworker-for-teams/connectors/hubspot.md)
+  - [Notes de mise à jour](./coworker-for-teams/release-notes.md)

@@ -1,5 +1,5 @@
 ---
-description: Guide détaillé sur la génération d’une campagne par e-mail dans les campagnes Adobe CX Enterprise Coworker, de la rédaction d’invites à la révision et l’exportation de votre campagne.
+description: Guide détaillé sur la génération d’une campagne par e-mail dans Adobe CX Enterprise Coworker pour les équipes, de la rédaction d’invites à la révision et l’exportation de votre campagne.
 title: Création d’une campagne par e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '983'
 ht-degree: 0%
 ---
 # Créer une campagne par e-mail {#create-an-email-campaign}
@@ -24,7 +24,7 @@ Découvrez comment générer et examiner des campagnes par e-mail complètes en 
 
 Vérifiez que vous disposez des éléments suivants :
 
-* Un compte Adobe CX Enterprise Coworker Campagnes actif ([inscrivez-vous ici](https://coworker-campaigns.experience.adobe.com/){target="_blank"} si ce n’est pas déjà fait).
+* Un compte Adobe CX Enterprise Coworker pour les équipes actif ([inscrivez-vous ici](https://coworker-campaigns.experience.adobe.com/){target="_blank"} si ce n’est pas déjà fait).
 
 * Votre marque ajoutée sous **Vos affaires** > **Marques**.
 
@@ -46,7 +46,7 @@ _Quand l’utiliser : quand vous savez exactement ce que vous voulez._
 
 _Quand l’utiliser : quand vous n’êtes pas sûr de ce que vous voulez._
 
-**Option trois** : utilisez l’option « Aide à l’invite » du menu déroulant de la barre d’invite pour que les campagnes de collègues vous guident tout au long de la rédaction de l’invite.
+**Option trois** : utilisez l&#39;option « Aide-moi à m&#39;informer » du menu déroulant de la barre d&#39;invite pour que Coworker for Teams vous guide tout au long de la rédaction de votre invite.
 
 _Quand l&#39;utiliser : Quand vous avez une idée de ce que vous voulez, mais que vous voulez un peu d&#39;aide (ou, utilisez « Surprise Me » pour être surpris)._
 
@@ -54,7 +54,7 @@ _Quand l&#39;utiliser : Quand vous avez une idée de ce que vous voulez, mais qu
 
 ## Étape 2 : créer votre invite
 
-Une invite de campagnes Collègues puissante inclut les éléments suivants :
+Une invite de collaboration solide pour les équipes comprend les éléments suivants :
 
 * L’objectif de la campagne (ce que vous essayez d’atteindre).
 * L’audience (son destinataire ou l’origine des données de l’audience).
@@ -75,7 +75,7 @@ Exemple:
 
 ![Saisie dans votre propre invite](./assets/create-an-email-campaign-2.png)
 
-Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Les campagnes des collaborateurs :
+Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Le collaborateur des équipes :
 
 * Générez un plan de campagne structuré.
 * Demandez votre audience cible, qui sera également utilisée pour la personnalisation du contenu.
@@ -115,7 +115,7 @@ Il existe deux façons de mettre à jour votre contenu.
 
 -ou-
 
-* Utilisez l’interface de conversation pour apporter des modifications en parlant directement aux campagnes de vos collègues. Voici quelques exemples :
+* Utilisez l’interface de conversation pour apporter des modifications en parlant directement à vos collègues pour les équipes. Voici quelques exemples :
 
   * « Rendre l’objet plus urgent. »
   * « Raccourcissez la copie du corps. »
@@ -149,7 +149,7 @@ La fonctionnalité Launch (envoi de votre campagne par e-mail) sera bientôt dis
 
 Il génère pour vous une campagne complète comprenant la stratégie, l’audience dont vous avez besoin, le workflow, etc. La durée moyenne de la première réponse avec votre contenu généré est généralement d’environ une minute.
 
-**Que faire si la sortie des campagnes de mes collègues n’est pas tout à fait correcte ?**
+**Que faire si la sortie de Coworker for Teams n’est pas tout à fait correcte ?**
 
 Cliquez sur l’icône de retour d’informations dans l’en-tête et informez-nous afin que nous puissions améliorer la plateforme.
 

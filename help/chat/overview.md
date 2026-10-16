@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '751'
 ht-degree: 4%
 ---
 # Présentation du chat Adobe CX Enterprise Coworker {#overview}
@@ -18,13 +18,15 @@ Le Module de conversation des collègues est une interface conversationnelle per
 
 La valeur : le travail qui s’étendait sur plusieurs écrans, équipes et jours se produit désormais en une seule conversation, en quelques minutes. Vous déléguez les résultats et gardez le contrôle par le biais de la révision et de l’approbation ; le Module de conversation des collègues effectue les étapes, récupère des erreurs en cours de route et devient plus net lorsqu’il apprend comment fonctionne votre équipe.
 
+Pour commencer, voir [Prise en main du chat des collègues](ui-guide.md).
+
 >[!AVAILABILITY]
 >
 >Le Chat des collègues est généralement disponible. Les capacités et les applications connectées continuent de se développer. Consultez les sections Compétences et connecteurs disponibles pour connaître les fonctionnalités prises en charge aujourd’hui.
 
 >[!NOTE]
 >
->La discussion avec les collègues est un module d’Adobe CX Enterprise Coworker. Deux autres modules étendent la même base : Campagnes des collègues (lancez une campagne complète à partir d’une seule conversation) et Projets des collègues (espace de travail permanent pour des workflows multi-équipes de bout en bout). Cette page couvre le Module de conversation des collègues.
+>La discussion avec les collègues est un module d’Adobe CX Enterprise Coworker. Deux autres modules étendent la même base : Coworker pour les équipes (se lever et lancer une campagne complète à partir d’une seule conversation) et Coworker Projects (un espace de travail permanent pour des workflows multi-équipes de bout en bout). Cette page couvre le Module de conversation des collègues.
 
 ## Une évolution de l’assistant d’IA
 

@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ebed9c3e740939a7f7520ab3bf1a6bbe5ba84019
+source-git-commit: 8c59f556cc9ea347c8f934507ac0db97fc7cb697
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 5%
+source-wordcount: '383'
+ht-degree: 4%
 ---
 # Ajouter un sous-domaine et des expéditeurs {#subdomain-senders}
 
@@ -54,19 +54,19 @@ Ce faisant, vous contribuerez à préserver la réputation de votre domaine et d
    >
    >Si votre fournisseur DNS vous permet de charger les champs en bloc, vous pouvez cliquer sur **Exporter au format CSV** pour exporter tous les champs.
 
-1. Une fois que vous avez terminé de saisir les informations dans votre fournisseur DNS, cliquez sur **J’ai ajouté ces enregistrements** dans Campagnes de collègues pour continuer.
+1. Une fois que vous avez terminé de saisir les informations dans votre fournisseur DNS, cliquez sur **J’ai ajouté ces enregistrements** dans Coworker pour que les équipes puissent continuer.
 
    CAPTURE D’ÉCRAN
 
    >[!NOTE]
    >
-   >La propagation des modifications DNS peut prendre jusqu’à 30 minutes. Si un X rouge s’affiche au lieu d’une vérification verte dans l’une des lignes, les campagnes collaboratrices vérifient toutes les deux minutes jusqu’à la fin.
+   >La propagation des modifications DNS peut prendre jusqu’à 30 minutes. Si vous voyez un X rouge au lieu d&#39;une vérification verte dans l&#39;une des lignes, le collaborateur des équipes vérifiera toutes les deux minutes jusqu&#39;à ce que vous ayez terminé.
 
 1. Une fois tous les enregistrements validés, un tableau _Enregistrement de validation_ s&#39;affiche au bas de la fenêtre. Faites défiler vers le bas et copiez toutes les valeurs répertoriées et ajoutez-les à votre fournisseur DNS.
 
    CAPTURE D’ÉCRAN
 
-1. Lorsque vous avez terminé, cliquez sur **J’ai ajouté cet enregistrement** (ou **ces enregistrements** s’il en existe plusieurs) dans les campagnes Collègues pour continuer.
+1. Une fois que vous avez terminé, cliquez sur **J&#39;ai ajouté cet enregistrement** (ou **ces enregistrements** s&#39;il en existe plusieurs) dans Coworker pour que les équipes puissent continuer.
 
    CAPTURE D’ÉCRAN
 
@@ -85,4 +85,3 @@ Ce faisant, vous contribuerez à préserver la réputation de votre domaine et d
 ## Comment ajouter un expéditeur
 
 Texte
-

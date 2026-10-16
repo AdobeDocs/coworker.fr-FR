@@ -1,5 +1,5 @@
 ---
-description: Connectez votre compte HubSpot aux campagnes Collègues à l’aide d’une clé de service pour synchroniser les listes de contacts, puis gérez ou déconnectez l’intégration à tout moment.
+description: Connectez votre compte HubSpot à Coworker pour les équipes à l’aide d’une clé de service afin de synchroniser les listes de contacts, puis gérez ou déconnectez l’intégration à tout moment.
 title: Se connecter à HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '261'
 ht-degree: 0%
 ---
 # Se connecter à HubSpot {#hubspot}
 
-Les campagnes Adobe Coworker vous permettent de connecter votre compte HubSpot pour extraire des listes de contacts.
+Adobe Coworker pour les équipes vous permet de connecter votre compte HubSpot pour extraire des listes de contacts.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Les campagnes Adobe Coworker vous permettent de connecter votre compte HubSpot p
 
 ## Comment se connecter
 
-1. Sur la [page d’accueil des campagnes de collègues](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Personnaliser** et sélectionnez **Connecteurs**.
+1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Personnaliser** et sélectionnez **Connecteurs**.
 
    ![Menu Personnaliser développé dans la barre latérale avec l’option Connecteurs sélectionnée](./assets/hubspot-1.png)
 

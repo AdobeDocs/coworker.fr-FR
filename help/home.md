@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
+source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 18%
@@ -23,7 +23,7 @@ Coworker déplace l&#39;IA de _assistant_ à _agissant_. Au lieu de basculer ent
 [!DNL Coworker] est proposé à travers trois expériences :
 
 * **[Conversation [!UICONTROL Chat]](./chat/overview.md) :** demandez des informations, du contenu et des actions sur les applications Adobe en langage naturel.
-* **[Collègue [!UICONTROL Campagnes]](./campaigns/overview.md) :** permet aux équipes marketing agiles de passer d’un objectif de campagne à une exécution coordonnée.
+* **[Collègue [!UICONTROL pour les équipes]](./coworker-for-teams/overview.md) :** permet aux équipes marketing agiles de passer d’un objectif de campagne à une exécution coordonnée.
 * **Projets de collègue (bientôt disponible) :** pour les workflows d’entreprise interfonctionnels et de longue durée dans lesquels les équipes définissent les processus, les approbations et le niveau d’autonomie du collègue.
 
 ## Comment activer un collègue
@@ -36,7 +36,7 @@ Pour activer les collaborateurs (y compris la conversation avec les collaborateu
 
 * **Accès :** attribuez des rôles et un accès aux fonctionnalités de vos collègues dans Adobe [Admin Console](https://experienceleague.adobe.com/fr/docs/core-services/interface/administration/admin-console).
 
-* **Prise en main :** une fois que Coworker est activé, consultez le [guide de l’interface utilisateur](./chat/ui-guide.md) pour découvrir comment naviguer dans l’interface de conversation des collègues, y compris la zone de saisie, les réponses, l’historique des conversations, les compétences, les serveurs MCP et les paramètres de mémoire.
+* **Prise en main :** une fois que le Chat Coworker est activé, consultez [Prise en main du Chat Coworker](./chat/ui-guide.md) pour découvrir l’interface du Chat Coworker, y compris la zone de saisie, les réponses, l’historique des conversations et les compétences, les serveurs MCP et les paramètres de mémoire.
 
 ## Vidéos sur l’utilisation du Module de conversation des collègues
 
@@ -106,20 +106,20 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Campagnes des collègues
-
-Campagnes collaboratrices est une fonctionnalité modélisée pour que les petites équipes agiles puissent se mettre en place et exécuter des campagnes.
-
-* [Vue d’ensemble](./campaigns/overview.md)
-* [Créer une campagne par e-mail](./campaigns/create-an-email-campaign.md)
-* [Cas d’utilisation](./campaigns/use-cases.md)
-* [Bonnes pratiques en matière de promotion](./campaigns/prompting-best-practices.md)
-* [Connexion à Marketo Engage](./campaigns/connectors/marketo.md)
-* [Se connecter à Hubspot](./campaigns/connectors/hubspot.md)
-
 ## Projets (bientôt disponibles)
 
 Projets collègues est un espace de travail partagé permettant d’automatiser les workflows d’expérience client, de la stratégie à la diffusion. Les équipes l’utilisent pour coordonner les tâches, les validations et l’exécution.
+
+## Collègue pour les équipes
+
+Coworker for Teams est une fonctionnalité modélisée pour que les petites équipes agiles puissent se mettre en place et exécuter des campagnes.
+
+**Articles populaires**
+
+* [Vue d’ensemble](./coworker-for-teams/overview.md)
+* [Créer une campagne par e-mail](./coworker-for-teams/create-an-email-campaign.md)
+* [Cas d’utilisation](./coworker-for-teams/use-cases.md)
+* [Bonnes pratiques en matière de promotion](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE : série déverrouillée Coworker
 

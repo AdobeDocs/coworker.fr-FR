@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '224'
 ht-degree: 1%
 ---
 # Connexion à Salesforce {#salesforce}
 
-Les campagnes Adobe Coworker vous permettent de connecter votre compte Salesforce pour accéder à vos prospects et contacts.
+Adobe Coworker pour les équipes vous permet de connecter votre compte Salesforce pour accéder à vos prospects et contacts.
 
 >[!PREREQUISITES]
 >
@@ -26,9 +26,9 @@ Les campagnes Adobe Coworker vous permettent de connecter votre compte Salesforc
 
 ## Comment se connecter
 
-1. Sur la [page d’accueil des campagnes de collègues](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Personnaliser** et sélectionnez **Connecteurs**.
+1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Personnaliser** et sélectionnez **Connecteurs**.
 
-   ![Volet de navigation de gauche des campagnes des collègues avec Personnaliser développé et Connecteurs mis en surbrillance](./assets/salesforce-1.png)
+   ![Volet de navigation de gauche Coworker for Teams avec les options Personnaliser développé et Connecteurs mises en surbrillance](./assets/salesforce-1.png)
 
 1. Cliquez sur **Ajouter une intégration**.
 
