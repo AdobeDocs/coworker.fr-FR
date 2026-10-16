@@ -1,5 +1,5 @@
 ---
-title: Validation et gouvernance des données Analytics avec la conversation des collègues
+title: Implémentation et administration d’Analytics avec la discussion entre collègues
 description: Planifiez votre implémentation, suivez-la dans une liste de contrôle et validez les données Adobe Analytics, Customer Journey Analytics et Experience Platform avec le chat des collègues.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,17 +7,17 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1126'
 ht-degree: 0%
 ---
 
-# Présentation de la gouvernance et de la validation des données
+# Présentation de l’implémentation et de l’administration intelligentes
 
 Utilisez le Module de conversation Adobe CX Enterprise Coworker pour configurer, migrer et gérer votre implémentation d’analyses, et pour vous assurer que vous pouvez faire confiance aux données qui se cachent derrière chaque réponse. Un collègue peut planifier votre implémentation, transformer ce plan en liste de contrôle que votre équipe peut suivre et valider vos données après leur collecte.
 
-La gouvernance et la validation des données sont l’un des nombreux domaines d’analyse dans le chat des collègues. Pour afficher tous les domaines, voir [Commencer à analyser dans le chat des collègues](/help/chat/use-cases/data-insights/analytics-overview.md#start-analyzing-in-coworker-chat) dans Analyser les données avec le chat des collègues.
+La mise en œuvre et l’administration intelligentes font partie des nombreux domaines d’analyse abordés dans le chat Coworker. Pour afficher tous les domaines, voir [Commencer à analyser dans le chat des collègues](/help/chat/use-cases/data-insights/analytics-overview.md#start-analyzing-in-coworker-chat) dans Analyser les données avec le chat des collègues.
 
 **Idéal pour :** Admin
 
@@ -26,7 +26,7 @@ La gouvernance et la validation des données sont l’un des nombreux domaines d
 Les cas d’utilisation de cette page suivent un workflow en trois étapes facultatif. Vous pouvez utiliser n’importe quelle étape seule. Par exemple, vous pouvez valider vos données sans générer au préalable de plan ou de liste de contrôle.
 
 1. **Plan :** obtenez un plan de mise en œuvre ou de mise à niveau personnalisé et ordonné. Voir [Planifier la mise en œuvre avec un collègue](/help/chat/use-cases/data-insights/implementation-guide.md).
-1. **Implémenter :** transformer votre plan en liste de contrôle dans les projets de collègues que votre équipe peut affecter et suivre. Voir [&#x200B; Générer une liste de contrôle d’implémentation avec les projets de collègues](/help/chat/use-cases/data-insights/intelligent-checklist.md).
+1. **Implémenter :** transformer votre plan en liste de contrôle dans les projets de collègues que votre équipe peut affecter et suivre. Voir [ Générer une liste de contrôle d’implémentation avec les projets de collègues](/help/chat/use-cases/data-insights/intelligent-checklist.md).
 1. **Valider :** vérifiez que vos données sont correctement configurées et collectées. Voir les cas d’utilisation de validation dans le tableau [Cas d’utilisation](#use-cases).
 
 ## Conditions préalables
