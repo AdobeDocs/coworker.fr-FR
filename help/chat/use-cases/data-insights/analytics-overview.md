@@ -5,9 +5,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '1915'
+source-wordcount: '1969'
 ht-degree: 1%
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Les informations de cette page donnent un aperçu du Module de conversation Adobe CX Enterprise Coworker et de la manière dont il peut vous aider à analyser les données pour votre organisation.
 
-La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [&#128279;](/help/home.md).
+La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [](/help/home.md).
 
 ## Fonctionnement de l’analyse des données
 
@@ -50,6 +50,7 @@ Les cas d&#39;utilisation suivants sont regroupés par domaine d&#39;analyse. Ch
 | [Valider la mise en œuvre de Streaming Media](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![Valider la mise en œuvre de Streaming Media](../../assets/ui-guide-8.png)</p> <p>Expérimental</p> | Vérifie le flux de données, le schéma, le jeu de données, la vue de données et les données de session pour confirmer que le suivi des médias en flux continu est configuré et que la collecte de données est correcte.<p>**Exemple d’invite :** « Dans quelle mesure mon implémentation des médias en flux continu est-elle globalement saine ? »</p><p>Pour plus d’informations, voir [Valider l’implémentation de Streaming Media avec vos collègues](/help/chat/use-cases/data-insights/streaming-media-validation.md).</p> |
 | [Valider la qualité du jeu de données pour Customer Journey Analytics](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![Valider la qualité du jeu de données pour Customer Journey Analytics](../../assets/data-validation-aep/dataset-validation.png)</p> <p>Expérimental (la semaine prochaine)</p> | Identifie les jeux de données qui alimentent vos rapports Customer Journey Analytics, puis vérifie les schémas, la qualité des identités et la qualité des champs afin que vous puissiez résoudre les problèmes avant de créer des tableaux de bord.<p>Pour plus d’informations, voir [Validation des données de Customer Journey Analytics avec les compétences de validation des données dans Coworker](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md).</p> |
 | [Valider les données après ingestion dans Experience Platform](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![Valider les données après ingestion dans Experience Platform](../../assets/data-validation-aep/null-values.png)</p> | Exécute des contrôles statistiques et sémantiques sur les jeux de données et les champs d’Experience Platform pour identifier les problèmes de qualité des données, tels que des valeurs non valides ou des problèmes de mappage.<p>**Exemple d’invite :** « Valider le jeu de données Electronics Sample 1000 »</p><p>Pour plus d’informations, voir [Valider vos données Experience Platform avec un collègue](/help/chat/use-cases/data-insights/data-validation-aep.md).</p> |
+| [Accélérer les informations sur les données](/help/chat/use-cases/data-insights/accelerate-data-insights.md) | Montre dans une vidéo comment Coworker planifie votre implémentation, exécute les actions prises en charge et guide les étapes de produit et de développement sur Adobe Experience Manager, Experience Platform, Web SDK et Customer Journey Analytics jusqu’à ce que les données d’engagement de votre site web soient prêtes à être analysées.<p>Pour plus d’informations, voir [Accélérer les informations sur les données avec Coworker, AEM et CJA](/help/chat/use-cases/data-insights/accelerate-data-insights.md).</p> |
 
 ### analyse de parcours
 

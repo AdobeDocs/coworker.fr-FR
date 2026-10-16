@@ -1,8 +1,7 @@
 ---
 title: Générer une liste de contrôle d’implémentation dans les projets de collègues
 description: Découvrez comment les projets de collègues génèrent une liste de contrôle d’implémentation préremplie à partir de votre plan des guides d’implémentation, avec des étapes que vous pouvez affecter et suivre.
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
