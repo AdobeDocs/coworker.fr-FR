@@ -19,5 +19,5 @@ ht-degree: 0%
 Découvrez comment Adobe CX Enterprise Coworker permet de transformer un objectif d’informations sur les données en un workflow d’implémentation connecté dans Adobe Experience Manager (AEM), Adobe Experience Platform (AEP), Web SDK et Customer Journey Analytics (CJA). Découvrez comment Coworker aide à planifier l’implémentation, à exécuter les actions prises en charge, à guider les étapes de produit et de développement, et à maintenir le contexte dans tout le workflow jusqu’à ce que les données d’engagement du site WKND soient disponibles pour analyse dans CJA.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3504567/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504569/?captions=fre_fr&learn=on&enablevpops)
 
