@@ -5,9 +5,9 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '275'
 ht-degree: 17%
 ---
 
@@ -21,13 +21,28 @@ ht-degree: 17%
   - Cas d’utilisation {#use-cases}
     - [Workflows de conversation avec un collègue](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
-      - {hide-from-toc}[Vue d’ensemble](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Aperçu](./chat/use-cases/data-insights/analytics-overview.md)
       - [Prise en main](./chat/use-cases/data-insights/analytics-chat.md)
-      - [Explorer les tendances et les causes profondes](./chat/use-cases/data-insights/root-cause-analysis.md)
-      - [Valider les données AA vers CJA lors de la mise à niveau](./chat/use-cases/data-insights/data-validation-aa-cja.md)
-      - [Valider la qualité du jeu de données pour la création de rapports CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
-      - [Validation des données Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
-      - [Accélérer les informations sur les données](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - Implémentation et administration intelligentes {#intelligent-implementation-and-administration}
+        - [Vue d’ensemble](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Planification de la mise en œuvre](./chat/use-cases/data-insights/implementation-guide.md)
+        - [Générer une liste de contrôle d’implémentation](./chat/use-cases/data-insights/intelligent-checklist.md)
+        - [Valider les données AA vers CJA lors de la mise à niveau](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Validation de la mise en œuvre de Streaming Media](./chat/use-cases/data-insights/streaming-media-validation.md)
+        - [Valider la qualité du jeu de données pour la création de rapports CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
+        - [Validation des données Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
+        - [Accélérer les informations sur les données](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - analyse de parcours {#journey-analysis}
+        - [Vue d’ensemble](./chat/use-cases/data-insights/journey-analysis.md)
+      - Analyse des audiences et des segments {#audience-and-segment-analysis}
+        - [Vue d’ensemble](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+      - Performance de l’entreprise {#business-performance}
+        - [Vue d’ensemble](./chat/use-cases/data-insights/business-performance.md)
+        - [Explorer les tendances et les causes profondes](./chat/use-cases/data-insights/root-cause-analysis.md)
+      - Performances du contenu {#content-performance}
+        - [Vue d’ensemble](./chat/use-cases/data-insights/content-performance.md)
+      - Mesure et attribution marketing {#marketing-measurement-and-attribution}
+        - [Vue d’ensemble](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Intégration des données {#data-onboarding}
       - {hide-from-toc}[Intégration des données avec un collègue](./agents/data-onboarding-skill.md)
     - Data Management {#data-management}
@@ -36,6 +51,7 @@ ht-degree: 17%
       - [Évaluation de l’intégrité de la plateforme et création d’audiences](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - Parcours {#journeys}
       - [Création de parcours à l’aide du langage naturel](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Création, simulation et analyse de parcours cross-canal](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Fidélité {#loyalty}
       - [Créez un défi de fidélité et obtenez des informations](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimisation {#optimization}
@@ -72,7 +88,7 @@ ht-degree: 17%
   - [Créer une campagne par e-mail](./coworker-for-teams/create-an-email-campaign.md)
   - [Lancement et gestion d’une campagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Cas d’utilisation](./coworker-for-teams/use-cases.md)
-  - [Bonnes pratiques en matière de promotion](./coworker-for-teams/prompting-best-practices.md)
+  - [Bonnes pratiques en matière de prompts](./coworker-for-teams/prompting-best-practices.md)
   - [Métadonnées C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Connecteurs {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
