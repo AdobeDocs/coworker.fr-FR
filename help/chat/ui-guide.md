@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1801'
 ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -37,7 +37,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Pour utiliser l’expérience immersive, connectez-vous avec vos informations d’identification Adobe. Vous pouvez l’ouvrir à partir d’un lien direct ou dans CX Enterprise.
 
-1. Accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+1. Accédez à [](https://experience.adobe.com/#/coworker).
 1. Connectez-vous avec votre Adobe ID.
 1. Dans [!DNL CX Enterprise], cliquez sur le menu du sélecteur d’applications ![icône du menu Produit](./assets/apps-icon.png), puis cliquez sur **[!DNL Coworker]**.
 1. Pour ouvrir la discussion (expérience intégrée au produit), cliquez sur **[!UICONTROL icône Conversations]** ![icône Collègue](./assets/icon-coworker.png).
@@ -46,7 +46,7 @@ Pour utiliser l’expérience immersive, connectez-vous avec vos informations d�
 
 ## Vidéo - Principes de base de l’interface de conversation [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Choisissez votre organisation
 
@@ -65,7 +65,7 @@ Pour modifier votre contexte :
 
 Le menu du compte comprend également les options suivantes :
 
-| Option | Utilisez-le pour |
+| Option | Cas d’usage |
 | --- | --- |
 | **[!UICONTROL Thème]** | Basculez entre les thèmes Clair et Sombre. |
 | **[!UICONTROL Paramètres]** | Affichez les détails du compte et les paramètres de l’espace de travail. |
@@ -80,7 +80,7 @@ L’espace de travail comporte deux zones : le rail de navigation à gauche et l
 
 Utilisez le rail de navigation pour vous déplacer entre les parties du produit et revenir aux travaux récents.
 
-| Option | Utilisez-le pour |
+| Option | Cas d’usage |
 | --- | --- |
 | **[!UICONTROL Nouvelle conversation]** | Démarrer une conversation. Chat Coworker enregistre votre chat actuel dans votre historique. |
 | **[!UICONTROL Accueil]** | Revenez à la salutation, à la zone de saisie et aux invites suggérées. |
@@ -101,7 +101,7 @@ Pour envoyer un message :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
@@ -114,7 +114,7 @@ Pour pointer la conversation avec un collègue vers un objet spécifique dans vo
 
 La barre d’outils située sous la zone de saisie contrôle les éléments joints, la manière dont la discussion entre collègues aborde la tâche et le volume de travail qu’elle affiche.
 
-| Commande | Utilisez-le pour |
+| Commande | Cas d’usage |
 | --- | --- |
 | **[!UICONTROL +]** (Joindre) | Ajoutez un fichier ou un objet sandbox à votre message. |
 | **[!UICONTROL Mode Plan]** | Examinez un plan étape par étape avant que le Chat des collègues n’agisse. |
@@ -213,7 +213,7 @@ Pour épingler, renommer, archiver ou supprimer une conversation, cliquez sur le
 
 ## Personnaliser la conversation avec un collègue
 
-Les configurations vous permettent de contrôler ce que peut faire le Module de conversation des collègues. Cliquez sur **[!UICONTROL Configurations]** dans le rail de navigation, puis choisissez un onglet : **[!UICONTROL Compétences]**, **[!UICONTROL Serveurs MCP]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plugins]** ou **[!UICONTROL Memory]**.
+[!UICONTROL Personnalisations] vous permet de contrôler ce que [!UICONTROL Conversation avec vos collègues] peut faire. Cliquez sur **[!UICONTROL Personnalisations]** dans le rail de navigation, puis choisissez un onglet : **[!UICONTROL Compétences]**, **[!UICONTROL Intégrations]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plugins]** ou **[!UICONTROL Memory]**.
 
 ### Ajout et affichage des compétences
 
@@ -221,8 +221,9 @@ Les compétences sont des fonctionnalités spécialisées que le Module de conve
 
 ![Onglet Compétences](./assets/ui-guide-12.png)
 
-1. Dans l’onglet **[!UICONTROL Compétences]**, cliquez sur **[!UICONTROL Ajouter Source]** pour installer des compétences à partir d’une nouvelle source.
-1. Saisissez un nom dans **[!UICONTROL Rechercher]** pour trouver une compétence. Utilisez le bouton d’affichage pour basculer entre les dispositions de grille et de liste.
+1. Dans l’onglet **[!UICONTROL Compétences]**, cliquez sur **[!UICONTROL Ajouter des compétences]** pour installer des compétences à partir d’une nouvelle source.
+1. Saisissez un nom dans **[!UICONTROL Rechercher]** pour trouver une compétence.
+Utilisez le bouton d’affichage pour basculer entre les dispositions de grille et de liste.
 1. Sélectionnez une compétence pour voir le plug-in auquel il appartient, quand le Chat des collègues l’utilise, et les fichiers qu’il inclut.
 
    ![Vue détaillée de la compétence montrant les fichiers annexes](./assets/ui-guide-13.png)
