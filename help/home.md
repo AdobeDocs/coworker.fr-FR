@@ -11,7 +11,7 @@ ht-degree: 18%
 ---
 # Guide de CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] est le coéquipier d’Adobe agentic AI pour l’expérience client et le marketing. Il ne se contente pas de répondre à des questions ou de recommander des actions. Il exécute des workflows marketing en plusieurs étapes sur Adobe et d’autres systèmes d’entreprise. Les approbations et la gouvernance vous permettent de garder le contrôle. En savoir plus sur [](https://business.adobe.com/products/cx-enterprise-coworker.html).
+[!DNL Coworker] est le coéquipier d’Adobe agentic AI pour l’expérience client et le marketing. Il ne se contente pas de répondre à des questions ou de recommander des actions. Il exécute des workflows marketing en plusieurs étapes sur Adobe et d’autres systèmes d’entreprise. Les approbations et la gouvernance vous permettent de garder le contrôle. En savoir plus sur [&#128279;](https://business.adobe.com/products/cx-enterprise-coworker.html).
 
 ## Choisir une expérience
 
@@ -66,7 +66,7 @@ Adaptez la discussion avec vos collègues à la façon dont votre équipe travai
 
 Coworker for Teams est une application autonome destinée aux petites équipes marketing agiles qui souhaitent se mettre en place et exécuter des campagnes rapidement. Il ne fait pas partie d’une autre application CX Enterprise. Il est disponible en version d’essai gratuite jusqu’au 31 décembre 2026, en Amérique du Nord uniquement. Pour connaître les étapes d’accès, voir [Accès](./coworker-for-teams/overview.md#how-to-access).
 
-Coworker pour les équipes comprend des connecteurs pour [](./coworker-for-teams/connectors/marketo.md) et [HubSpot](./coworker-for-teams/connectors/hubspot.md).
+Coworker pour les équipes comprend des connecteurs pour [&#128279;](./coworker-for-teams/connectors/marketo.md) et [HubSpot](./coworker-for-teams/connectors/hubspot.md).
 
 Pour commencer, consultez les articles suivants :
 

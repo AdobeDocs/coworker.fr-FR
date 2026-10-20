@@ -23,7 +23,7 @@ La mise en œuvre et l’administration intelligentes font partie des nombreux d
 Les cas d’utilisation de cette page suivent un workflow en trois étapes facultatif. Vous pouvez utiliser n’importe quelle étape seule. Par exemple, vous pouvez valider vos données sans générer au préalable de plan ou de liste de contrôle.
 
 1. **Plan :** obtenez un plan de mise en œuvre ou de mise à niveau personnalisé et ordonné. Voir [Planifier la mise en œuvre avec un collègue](/help/chat/use-cases/data-insights/implementation-guide.md).
-1. **Implémenter :** transformer votre plan en liste de contrôle dans les projets de collègues que votre équipe peut affecter et suivre. Voir [ Générer une liste de contrôle d’implémentation avec les projets de collègues](/help/chat/use-cases/data-insights/intelligent-checklist.md).
+1. **Implémenter :** transformer votre plan en liste de contrôle dans les projets de collègues que votre équipe peut affecter et suivre. Voir [&#x200B; Générer une liste de contrôle d’implémentation avec les projets de collègues](/help/chat/use-cases/data-insights/intelligent-checklist.md).
 1. **Valider :** vérifiez que vos données sont correctement configurées et collectées. Voir les cas d’utilisation de validation dans le tableau [Cas d’utilisation](#use-cases).
 
 ## Conditions préalables
