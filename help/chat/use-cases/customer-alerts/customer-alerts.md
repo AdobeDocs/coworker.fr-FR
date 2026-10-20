@@ -39,7 +39,7 @@ Utilisez les compétences en alertes client dans CX Coworker pour transformer l�
 
 Les compétences en alertes clients vous permettent de passer des signaux d’alerte aux informations exploitables sans passer manuellement en revue les vues d’alerte ou mettre en corrélation les informations sur plusieurs interfaces. Commencez par une question générale sur l’activité d’alerte récente, puis utilisez les questions de suivi pour identifier les modèles d’alerte récurrents, analyser les objets affectés et vous concentrer sur les alertes que vous possédez.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504718?captions=fre_fr&learn=on)
 
 Pour plus d’informations sur les alertes client, consultez la [présentation des alertes client](https://experienceleague.adobe.com/fr/docs/experience-platform/observability/alerts/overview).
 
