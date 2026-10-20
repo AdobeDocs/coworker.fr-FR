@@ -4,15 +4,12 @@ title: Bonnes pratiques en matière de prompt
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 23%
 ---
-# Bonnes pratiques en matière de promotion {#best-practices}
+# Bonnes pratiques en matière de prompts {#best-practices}
 
 Tirer le meilleur parti de Coworker for Teams commence par l’invite. Découvrez les pratiques qui produisent les meilleurs résultats : le cadre CO-STAR pour structurer vos invites, ce qu&#39;il faut inclure et ce qu&#39;il faut éviter, ainsi que des exemples basés sur des scénarios qui donnent à l&#39;IA le contexte dont elle a besoin pour générer du contenu pertinent et ciblé.
 

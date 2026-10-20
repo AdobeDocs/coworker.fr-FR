@@ -11,10 +11,7 @@ jira: KT-22501
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -28,4 +25,4 @@ Par exemple, un collègue peut passer en revue le contenu généré automatiquem
 
 Coworker n’identifie pas seulement les problèmes ; il propose des suggestions exploitables. Par exemple, si une légende est trop générique ou ne comporte pas de call to action, elle fournit une version révisée conforme aux normes de votre marque, avec les balises appropriées. Ce processus simplifie la création de contenu et garantit la conformité de la marque avec un effort minimal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502704/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
