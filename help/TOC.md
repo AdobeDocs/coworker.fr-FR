@@ -5,24 +5,24 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: 2b61bbc29954e10515b5bbdbd7bafe48c7cbfdbd
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 17%
+source-wordcount: '282'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
 
-- [Présentation des collègues](home.md)
+- [Guide du collègue](home.md)
 - Chat {#chat}
-  - [Vue d’ensemble](./chat/overview.md)
-  - [Prise en main du chat](./chat/ui-guide.md)
+  - [À propos du chat des collègues](./chat/overview.md)
+  - [Prise en main de la conversation avec un collègue](./chat/ui-guide.md)
   - {hide-from-toc}[Conversation avec un collègue dans un terrain de jeu](./playground-coworker-chat.md)
-  - Cas d’utilisation {#use-cases}
+  - Workflows {#use-cases}
     - [Workflows de conversation avec un collègue](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
-      - [Aperçu](./chat/use-cases/data-insights/analytics-overview.md)
-      - [Prise en main](./chat/use-cases/data-insights/analytics-chat.md)
+      - [À propos de l&#39;analyse des données](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Commencer à analyser les données](./chat/use-cases/data-insights/analytics-chat.md)
       - Implémentation et administration intelligentes {#intelligent-implementation-and-administration}
         - [Vue d’ensemble](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Planification de la mise en œuvre](./chat/use-cases/data-insights/implementation-guide.md)
@@ -69,7 +69,7 @@ ht-degree: 17%
     - Workflow et planification {#workflow-and-planning}
       - [Planifier le lancement d’une campagne numérique](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Personnalisations {#customizations}
-  - [Vue d’ensemble](./customizations/overview.md)
+  - [Présentation des personnalisations](./customizations/overview.md)
   - Compétences {#skills}
     - [Que sont les compétences ?](./customizations/skills/what-are-skills.md)
     - [Créer votre première compétence](./customizations/skills/create-your-first-skill.md)

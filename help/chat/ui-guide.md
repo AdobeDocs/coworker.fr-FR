@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1801'
 ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -65,7 +65,7 @@ Pour modifier votre contexte :
 
 Le menu du compte comprend également les options suivantes :
 
-| Option | Utilisez-le pour |
+| Option | Cas d’usage |
 | --- | --- |
 | **[!UICONTROL Thème]** | Basculez entre les thèmes Clair et Sombre. |
 | **[!UICONTROL Paramètres]** | Affichez les détails du compte et les paramètres de l’espace de travail. |
@@ -80,7 +80,7 @@ L’espace de travail comporte deux zones : le rail de navigation à gauche et l
 
 Utilisez le rail de navigation pour vous déplacer entre les parties du produit et revenir aux travaux récents.
 
-| Option | Utilisez-le pour |
+| Option | Cas d’usage |
 | --- | --- |
 | **[!UICONTROL Nouvelle conversation]** | Démarrer une conversation. Chat Coworker enregistre votre chat actuel dans votre historique. |
 | **[!UICONTROL Accueil]** | Revenez à la salutation, à la zone de saisie et aux invites suggérées. |
@@ -114,7 +114,7 @@ Pour pointer la conversation avec un collègue vers un objet spécifique dans vo
 
 La barre d’outils située sous la zone de saisie contrôle les éléments joints, la manière dont la discussion entre collègues aborde la tâche et le volume de travail qu’elle affiche.
 
-| Commande | Utilisez-le pour |
+| Commande | Cas d’usage |
 | --- | --- |
 | **[!UICONTROL +]** (Joindre) | Ajoutez un fichier ou un objet sandbox à votre message. |
 | **[!UICONTROL Mode Plan]** | Examinez un plan étape par étape avant que le Chat des collègues n’agisse. |
@@ -213,7 +213,7 @@ Pour épingler, renommer, archiver ou supprimer une conversation, cliquez sur le
 
 ## Personnaliser la conversation avec un collègue
 
-Les configurations vous permettent de contrôler ce que peut faire le Module de conversation des collègues. Cliquez sur **[!UICONTROL Configurations]** dans le rail de navigation, puis choisissez un onglet : **[!UICONTROL Compétences]**, **[!UICONTROL Serveurs MCP]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plugins]** ou **[!UICONTROL Memory]**.
+[!UICONTROL Personnalisations] vous permet de contrôler ce que [!UICONTROL Conversation avec vos collègues] peut faire. Cliquez sur **[!UICONTROL Personnalisations]** dans le rail de navigation, puis choisissez un onglet : **[!UICONTROL Compétences]**, **[!UICONTROL Intégrations]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plugins]** ou **[!UICONTROL Memory]**.
 
 ### Ajout et affichage des compétences
 
@@ -221,8 +221,9 @@ Les compétences sont des fonctionnalités spécialisées que le Module de conve
 
 ![Onglet Compétences](./assets/ui-guide-12.png)
 
-1. Dans l’onglet **[!UICONTROL Compétences]**, cliquez sur **[!UICONTROL Ajouter Source]** pour installer des compétences à partir d’une nouvelle source.
-1. Saisissez un nom dans **[!UICONTROL Rechercher]** pour trouver une compétence. Utilisez le bouton d’affichage pour basculer entre les dispositions de grille et de liste.
+1. Dans l’onglet **[!UICONTROL Compétences]**, cliquez sur **[!UICONTROL Ajouter des compétences]** pour installer des compétences à partir d’une nouvelle source.
+1. Saisissez un nom dans **[!UICONTROL Rechercher]** pour trouver une compétence.
+Utilisez le bouton d’affichage pour basculer entre les dispositions de grille et de liste.
 1. Sélectionnez une compétence pour voir le plug-in auquel il appartient, quand le Chat des collègues l’utilise, et les fichiers qu’il inclut.
 
    ![Vue détaillée de la compétence montrant les fichiers annexes](./assets/ui-guide-13.png)
