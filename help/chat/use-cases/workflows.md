@@ -4,12 +4,9 @@ title: Workflows de conversation avec un collègue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '7712'
+source-wordcount: '7816'
 ht-degree: 8%
 ---
 # Workflows de conversation avec un collègue {#use-cases}
@@ -188,6 +185,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 | --- | --- | --- | --- | --- |
 | [Créer, modifier et gérer des défis de fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | Simplifier et accélérer la gestion des programmes de fidélité | `loyalty` | Adobe Journey Optimizer (AJO) | « Créez un défi pour encourager vos membres à essayer une nouvelle boisson saisonnière » <br> « Montrez-moi les défis de fidélité avec les taux de décrochage les plus élevés. » |
 | [Analyser les performances du programme de fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | Interrogez et analysez les points de fidélité, les niveaux de membre, les remboursements et les mesures de chiffre d’affaires en langage naturel | `loyalty-insights` | Adobe Journey Optimizer (AJO) | « Combien de points de fidélité ont été accordés en août 2026 ? » <br> « Affichez le chiffre d’affaires total du programme de fidélité ventilé par jour au cours du mois d’août 2026. » |
+| [Rechercher des opportunités de fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | Demandez des opportunités de défi spécifiques et fondées sur les tendances du programme de fidélité et les données de performances, puis transformez-les en défis en direct | À déterminer | Adobe Journey Optimizer (AJO) | « Quelles opportunités de fidélité pourraient augmenter les dépenses des membres ? » <br> « Montrez-moi les opportunités de reconquérir les membres inactifs. » |
 
 **Informations connexes**
 

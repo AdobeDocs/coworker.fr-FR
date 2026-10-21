@@ -4,21 +4,14 @@ title: Création d’une campagne par e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '964'
 ht-degree: 0%
 ---
 # Créer une campagne par e-mail {#create-an-email-campaign}
 
 Découvrez comment générer et examiner des campagnes par e-mail complètes en quelques minutes.
-
->[!IMPORTANT]
->
->Actuellement, vous pouvez uniquement générer des campagnes. Vous ne pouvez pas encore les envoyer (lancement). La fonctionnalité de Launch sera bientôt disponible.
 
 ## Avant de commencer
 
