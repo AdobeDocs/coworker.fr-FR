@@ -1,17 +1,19 @@
 ---
-title: Guide d’Adobe CX Enterprise Coworker
+title: Présentation d’Adobe CX Enterprise Coworker
 description: Découvrez Adobe CX Enterprise Coworker, un coéquipier optimisé par l’IA qui automatise l’expérience client et les workflows marketing à l’échelle de votre organisation.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
 workflow-type: tm+mt
-source-wordcount: '1094'
-ht-degree: 18%
+source-wordcount: '1181'
+ht-degree: 17%
 ---
-# Guide de CX Enterprise Coworker {#overview}
+# Présentation de CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] est le coéquipier d’Adobe agentic AI pour l’expérience client et le marketing. Il ne se contente pas de répondre à des questions ou de recommander des actions. Il exécute des workflows marketing en plusieurs étapes sur Adobe et d’autres systèmes d’entreprise. Les approbations et la gouvernance vous permettent de garder le contrôle. En savoir plus sur [&#128279;](https://business.adobe.com/fr/products/cx-enterprise-coworker.html).
+[!DNL Coworker] est un coéquipier propulsé par l&#39;IA qui repense la nature du travail pour les organisations, les équipes et les individus. Il automatise l’expérience client et les workflows marketing afin que les organisations puissent se concentrer sur la réalisation des objectifs commerciaux et l’amélioration des résultats plutôt que sur la coordination des tâches. En tant que moteur agentique, Coworker adopte une approche innovante de l&#39;automatisation des processus métier. Il améliore les performances et la précision des modèles d’IA en rassemblant le contexte de l’entreprise, les données, l’intelligence artificielle, la collaboration et l’exécution des compétences des agents, avec une gouvernance et une supervision humaine intégrées.
+
+Coworker est conçu pour les organisations exécutant des workflows d’expérience client complexes et interfonctionnels. Il rassemble le Module de conversation des collègues et les Projets des collègues, ce qui permet aux utilisateurs de passer d’une tâche unique à un workflow complet à plusieurs équipes au sein de l’expérience des collègues. La gouvernance, les approbations et la supervision humaine sont intégrées dès le départ. En savoir plus sur [&#128279;](https://business.adobe.com/fr/products/cx-enterprise-coworker.html).
 
 ## Choisir une expérience
 
