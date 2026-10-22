@@ -4,14 +4,130 @@ title: Notes de mise à jour de CX Enterprise Coworker pour les équipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: d3cfd773137d0fc985cff508025935727dc4566b
 workflow-type: tm+mt
-source-wordcount: '3597'
+source-wordcount: '4474'
 ht-degree: 0%
 ---
 # Notes de mise à jour d’Adobe CX Enterprise Coworker pour les équipes {#release-notes}
 
 Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive et plus progressive du déploiement des fonctionnalités.
+
+## Octobre 2026 {#oct-2026}
+
+**Date de publication : 21 octobre 2026**
+
+* Déposez les fichiers dans les invites de campagne et dans les conversations pour les joindre
+* Les pièces jointes surdimensionnées sont interceptées avant d’interrompre votre travail
+* Les tailles de fichier s’affichent dans votre langue et au format local
+* Les aperçus d’e-mail s’adaptent à des conceptions larges sans couper le contenu
+* Continuer la saisie lors de la modification des e-mails dans une conversation
+* Les détails de l’expéditeur sont renseignés automatiquement à partir de votre profil
+* Les modifications de l’expéditeur des prévisualisations de conversation sont appliquées à votre campagne
+* Les aperçus de stratégie de campagne ouverte reflètent vos dernières modifications enregistrées
+* Prévisualiser les exemples de listes de contacts lorsque des données d’exemple sont disponibles
+* Les descriptions des connecteurs sont plus faciles à lire dans votre langue.
+* Trouvez plus facilement les détails des connecteurs et des compétences dans le contexte.
+* Les filtres de canal de modèle s’adaptent plus facilement sur des écrans plus petits
+* Les actions de profil restent accessibles dans l’environnement de navigation d’Adobe
+* Les erreurs de reporting de Campaign ne suggèrent plus incorrectement que votre session a expiré
+* Choisir des filtres de compte d’évaluation correspondant aux statuts disponibles
+* Poursuivez l’ouverture et le changement de nom des conversations sans option de suppression trompeuse
+* Les dernières mises à jour des produits sont plus faciles à ignorer
+* L’activité de campagne est comptabilisée de manière plus cohérente dans les rapports
+
+**Date de publication : 16 octobre 2026**
+
+* Appliquer un modèle d’e-mail sans réécrire son contenu
+* Changer de modèle d’e-mail sans perdre vos dernières modifications
+* Changer de modèles, télécharger des e-mails et envoyer des tests à partir d’un seul menu
+* Lisez plus facilement les aperçus des e-mails avant d’apporter des modifications
+* Réessayer un message lors de l’échec de l’envoi avant son démarrage
+* Trouvez plus facilement les onglets Accueil sur les téléphones plus petits
+* Les boîtes de dialogue de lancement s’adaptent mieux aux écrans plus petits
+* Les libellés d’audience longs restent lisibles sans chevauchement
+* Voir jusqu’à six campagnes récentes sur l’Accueil
+* Home se concentre désormais sur les campagnes et les idées plutôt que sur les résumés quotidiens
+* Lancez une campagne ou parcourez les idées depuis une page d’accueil vide.
+* Les menus de campagne affichent des actions adaptées à chaque statut de campagne
+* La modification d’Adobe Express reste indisponible lorsqu’une image ne peut pas se charger
+* Les liens Anciennes campagnes vous emmènent vers des collaborateurs pour les équipes
+* Lire les réponses de conversation avec un dimensionnement du texte plus confortable
+* Rechercher les onglets Aperçu et Insights de la campagne centrés dans l’en-tête
+
+**Date de publication : 15 octobre 2026**
+
+* Filtrez la page d’accueil et les campagnes en fonction de la personne qui a créé chaque campagne.
+* Récapitulatif quotidien des campagnes, conversations et variantes d’e-mail
+* Voir le statut, le créateur et la date de création de la campagne sous son titre.
+* Relisez la configuration de la campagne à partir des idées de campagne dès que vous avez besoin de conseils
+* Redimensionnez les aperçus de la campagne et revenez plus facilement aux tableaux
+* Les liens d’e-mail persistent désormais lorsque vous enregistrez votre brouillon
+* Les brouillons d’e-mails sont enregistrés de manière fiable pendant que vous continuez à les modifier
+* Les images de remplacement restent connectées à vos brouillons d’e-mail
+* Changer de modèles d’e-mail et télécharger des e-mails directement depuis l’éditeur
+* Exporter des enregistrements DNS en tant que fichiers de zone avec des conseils de configuration en langage clair
+* Repérer les domaines et les expéditeurs fournis par le système avec des badges par défaut clairs
+* Commencez à saisir pour placer le focus sur le compositeur de conversation actif.
+* Parcourez les mises à jour de produits avec une navigation plus claire et un lien direct vers les notes de mise à jour
+
+**Date de publication : 14 octobre 2026**
+
+* Créer et changer d’espace de travail à partir du menu de votre profil
+* Recherche de campagnes et de contenu enregistré dans une navigation actualisée
+* Afficher les campagnes récentes et réessayer de les charger depuis l’Accueil
+* Découvrez qui a créé les campagnes, les modèles et les kits de marque
+* Trouvez plus facilement le statut d’évaluation et les options de mise à niveau
+* Connecter Shopify et mettre à jour les détails de connexion à votre boutique
+* Joignez des documents, des feuilles de calcul et des images directement à partir du chat à domicile.
+* Prévisualiser et modifier des e-mails sans quitter votre conversation
+* Redimensionner les aperçus des conversations en fonction de votre manière de travailler
+* Examinez les workflows, les stratégies et les audiences en plus de votre conversation
+* Changer de modèles d’e-mail, exporter des e-mails et envoyer des e-mails de test à partir des aperçus
+* Poursuivre la lecture des conversations même lorsqu’un aperçu d’e-mail ne peut pas être actualisé
+* Affichage des stratégies de campagne avec vos autres sources de connaissances
+* Afficher immédiatement les modifications de stratégie enregistrées dans les aperçus ouverts
+* Lisez les stratégies de campagne et les détails de l’audience directement dans le chat
+* Lire de grands nombres de profils des audiences dans un format plus court et plus clair
+* Suivez les mises à jour des tableaux de campagne avec des points forts plus clairs
+* Ouvrir les conversations au dernier message pendant la navigation normale
+* Retour à l’écran précédent avec une navigation améliorée.
+* Voir les noms des conversations dans l’en-tête de conversation du tableau de campagne
+* Utiliser des tableaux de campagne, des éditeurs et des chats sur de plus petits écrans
+* Démarrer une nouvelle conversation sans reprendre la conversation précédente
+* Trouver de nouvelles conversations dans l’historique plus tôt après l’envoi
+* Le chat conserve les sauts de ligne et rend les adresses web cliquables
+* Les mises à jour des workflows ne masquent plus l’explication de clôture de l’assistant
+* Les confirmations par e-mail n’apparaissent plus deux fois dans le chat
+* Les améliorations apportées aux e-mails mettent à jour les brouillons existants au lieu de créer des doublons
+* Les tâches de suivi ne remplacent plus les paramètres de la campagne ni les audiences
+* Les tableaux de campagne conservent le dernier workflow après la suppression des étapes
+* Le statut de la campagne reflète l’étape réelle de votre campagne
+* Obtenez des avertissements plus clairs sur les plannings de lancement non valides ou expirés
+* Identifier les détails de l’invite manquants avant de créer une campagne
+* Configurer des domaines d’envoi avec des enregistrements DNS plus clairs et les étapes suivantes
+* La connexion au compte personnel survit plus facilement grâce aux actualisations
+* Passer de l’intégration à l’accueil sans flash d’écran de chargement
+* La modification de la marque et les actions personnelles par défaut sont à nouveau disponibles
+* Afficher l’attribution précise du créateur sur les kits de marque
+* Comprendre quand la modification d’une marque par défaut affecte votre espace de travail
+* La génération de la marque n’est plus interrompue par la bannière de réinitialisation
+* Les commandes de variation d’e-mail sont plus faciles à distinguer
+* Les messages d’erreur de conversation utilisent un traitement visuel plus calme
+
+**Date de publication : 13 octobre 2026**
+
+* Les confirmations d’évaluation vous rappellent de vérifier votre dossier de courriers indésirables
+
+**Date de publication : 12 octobre 2026**
+
+* Ajouter votre site web et l’utilisation prévue après avoir demandé un accès d’évaluation
+* Redémarrez le processus d’inscription avec l’e-mail de votre entreprise si nécessaire
+
+**Date de publication : 7 octobre 2026**
+
+* Consultez le planning de mise à niveau des équipes et notez la réinitialisation des données à venir
+* Suivez le guide associé pour enregistrer le contenu avant la réinitialisation
 
 ## Septembre 2026 {#sep-2026}
 
