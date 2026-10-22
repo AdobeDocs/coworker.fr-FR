@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1765'
 ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -25,7 +25,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 | Real-Time CDP | Disponible maintenant | Bientôt disponible |
 | Adobe Journey Optimizer | Disponible maintenant | Bientôt disponible |
 | Customer Journey Analytics | Disponible maintenant | Bientôt disponible |
-| Workfront | Disponible maintenant | Prochainement :<br><br>* début septembre 2026 dans l’instance d’aperçu pour certains administrateurs système Workfront éligibles<br><br>* mi-septembre 2026 dans l’instance de production pour les clients Workfront à version rapide éligibles<br><br>* mi-octobre 2026 dans l’instance de production pour les clients Workfront à version trimestrielle éligibles |
+| Workfront | Disponible maintenant | Disponible maintenant |
 | Cible | Disponible maintenant | Disponible maintenant |
 | AEM | Disponible maintenant | Disponible maintenant |
 | Marketo Engage | Disponible maintenant | Bientôt disponible |
@@ -34,7 +34,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Pour utiliser l’expérience immersive, connectez-vous avec vos informations d’identification Adobe. Vous pouvez l’ouvrir à partir d’un lien direct ou dans CX Enterprise.
 
-1. Accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+1. Accédez à [](https://experience.adobe.com/#/coworker).
 1. Connectez-vous avec votre Adobe ID.
 1. Dans [!DNL CX Enterprise], cliquez sur le menu du sélecteur d’applications ![icône du menu Produit](./assets/apps-icon.png), puis cliquez sur **[!DNL Coworker]**.
 1. Pour ouvrir la discussion (expérience intégrée au produit), cliquez sur **[!UICONTROL icône Conversations]** ![icône Collègue](./assets/icon-coworker.png).
@@ -43,7 +43,7 @@ Pour utiliser l’expérience immersive, connectez-vous avec vos informations d�
 
 ## Vidéo - Principes de base de l’interface de conversation [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Choisissez votre organisation
 
@@ -98,7 +98,7 @@ Pour envoyer un message :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
