@@ -4,9 +4,9 @@ title: Présentation d’Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
+source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1027'
 ht-degree: 0%
 ---
 # Présentation des collègues pour les équipes {#overview}
@@ -97,12 +97,12 @@ L’interface Collègue pour les équipes est organisée autour d’un volet de 
 
 Collègue pour les équipes réunit cinq workflows qui s’étendent généralement sur cinq outils différents en une seule expérience de conversation :
 
-- **Transformer un brief en plan de campagne**. Déposez une invite ou chargez un résumé, et l’équipe de collaborateurs renvoie un plan structuré de bout en bout.
+- **Transformer un brief en stratégie de campagne**. Déposez une invite ou chargez un fichier : le collaborateur des équipes renvoie une stratégie initiale pour orchestrer votre campagne.
 - **Créer et affiner des audiences**. Chargez un fichier CSV ou connectez vos données, puis affinez le segment dans la conversation.
 - **Générer du contenu sur la marque**. Un collègue pour les équipes rédige des e-mails qui correspondent à la voix, aux références et aux modèles de votre marque.
 - **Conception de parcours à plusieurs étapes**. Le collaborateur des équipes assemble des séquences de maturation, pas seulement des envois ponctuels.
 - **Envoyer des e-mails de BAT**. Prévisualisez chaque message dans votre propre boîte de réception avant le lancement.
-- **Lancer et analyser**. _(Bientôt disponible)_ Envoyez des campagnes et obtenez les informations sur les meilleures étapes suivantes sans quitter Coworker pour les équipes.
+- **Lancer et analyser**. Envoyez des campagnes et obtenez les informations sur les meilleures étapes suivantes sans quitter Coworker pour les équipes.
 
 ## Fonctionnement de l’IA
 
@@ -110,7 +110,7 @@ Coworker for Teams suit une boucle de conversation simple et multi-tour :
 
 **Entrée**. Vous fournissez un objectif de campagne, votre audience (chargée ou connectée) et un contexte de marque facultatif.
 
-**Traitement**. L’IA agentic Coworker for Teams génère un plan de campagne, crée un parcours et rédige du contenu personnalisé. Auxquels vous pouvez apporter des mises à jour par conversation.
+**Traitement**. L’IA agentic Coworker for Teams génère une stratégie de campagne, crée un parcours et rédige du contenu personnalisé. Auxquels vous pouvez apporter des mises à jour par conversation.
 
 **Sortie**. Un brouillon de campagne apparaît sur votre tableau de campagne, prêt à être examiné, itéré et éventuellement lancé.
 
@@ -126,7 +126,7 @@ Les utilisateurs initiaux ont découvert quelques éléments qui font une réell
 
 - **Commencez par un cas d’utilisation réel spécifique**. « Créez une série de reconquête pour les clients qui n’ont pas commandé depuis 90 jours » bat « Faites-moi une campagne ». Voir _Cas d’utilisation_ pour des exemples spécifiques.
 - **Nettoyez les données de votre audience**. Les collègues des équipes ne peuvent personnaliser que les éléments que votre fichier CSV autorise. Excluez les contacts que vous ne devriez pas envoyer par e-mail avant de télécharger.
-- **Investissez dans la configuration de votre marque**. Un collègue pour les équipes extrait les détails de la marque lorsque vous vous inscrivez. Un aperçu rapide de **Vos affaires** > **Marques** profite à chaque campagne que vous générez.
+- **Investissez dans la configuration de votre marque**. Un collègue pour les équipes extrait les détails de la marque lorsque vous vous inscrivez. Un aperçu rapide de **Contexte** > **Marques** bénéficie à chaque campagne que vous générez.
 - **Envoyez un BAT par e-mail**. Avant de lancer, envoyez un BAT et examinez-le dans votre propre boîte de réception.
 - **Itérez, ne redémarrez pas**. Considérez la première sortie du collègue pour les équipes comme un point de départ. Le chemin le plus rapide vers le grand est quelques rondes de raffinement, pas une invite fraîche.
 - **Exporter lorsque vous avez besoin d’une trace écrite**. Exportez les e-mails individuels en tant qu’HTML ou la campagne complète en tant que document Word ou PDF pour révision par l’équipe.
@@ -146,7 +146,7 @@ Coworker for Teams est un produit en développement actif. Voici ce qu’il faut
 
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3492809?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 De nouvelles fonctionnalités seront livrées pendant l’essai. Vos commentaires aident à déterminer la suite. Envoyez vos commentaires via l’icône de commentaires sur le produit dans l’en-tête.
