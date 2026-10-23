@@ -4,9 +4,9 @@ title: Présentation d’Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 ---
 # Présentation des collègues pour les équipes {#overview}
@@ -21,7 +21,7 @@ Actuellement, toutes les interactions avec l’IA vous dirigent vers [générati
 >
 >Coworker for Teams est disponible en version d’essai gratuite jusqu’au 31 décembre 2026. Pendant la période d’évaluation, toutes les ressources et activités sont spécifiques à l’utilisateur.
 
-1. Accédez à coworker-campaigns.experience.adobe.com.
+1. Accédez à coworker-teams.adobe.com.
 
 1. Si vous disposez déjà d’un compte Adobe, cliquez sur **Se connecter**. Si ce n’est pas le cas, cliquez sur **Rejoindre la version d’évaluation gratuite** et créez un compte en utilisant l’adresse e-mail de votre entreprise.
 
@@ -35,7 +35,7 @@ Actuellement, toutes les interactions avec l’IA vous dirigent vers [générati
 
 1. (Facultatif) Chargez un modèle d’e-mail HTML sous **Modèles d’e-mail** pour que vos équipes puissent appliquer votre conception lors de la génération de contenu.
 
-   ![Écran de bienvenue pour la version d’évaluation de Coworker for Teams](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![Écran de bienvenue pour la version d’évaluation de Coworker for Teams](./assets/overview-1.gif)
 
 Vous êtes prêt à générer votre première campagne.
 
@@ -45,14 +45,49 @@ L’interface Collègue pour les équipes est organisée autour d’un volet de 
 
 ![Écran d’accueil](./assets/overview-2.gif)
 
-| Menu De Navigation De Gauche | Rôle |
-|---|---|
-| Nouvelle conversation | Démarrer une nouvelle conversation pour générer une campagne. |
-| Accueil | Votre point de départ : barre d’invite, campagnes récentes et modèles de campagne prédéfinis. |
-| Conversations | Toutes les conversations que vous avez démarrées qui n’ont pas encore été générées dans un tableau de campagne. |
-| Campagnes | Votre inventaire de toutes les campagnes actives et dans un état de brouillon. |
-| Tes affaires | Vos kits de marque et modèles d’e-mail (les ressources que Coworker for team utilise pour tout conserver dans la marque). |
-| Personnaliser | Les connecteurs (Marketo Engage au lancement) et les compétences (comportements personnalisés que vous pouvez appliquer à toutes les campagnes). |
+<table>
+  <thead>
+    <tr>
+      <th>Menu De Navigation De Gauche</th>
+      <th>Rôle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nouvelle conversation</td>
+      <td>Démarrer une nouvelle conversation pour générer une campagne.</td>
+    </tr>
+    <tr>
+      <td>Accueil</td>
+      <td>Votre point de départ : barre d’invite, campagnes récentes et modèles de campagne prédéfinis.</td>
+    </tr>
+    <tr>
+      <td>Conversations</td>
+      <td>Toutes les conversations que vous avez démarrées qui n’ont pas encore été générées dans un tableau de campagne.</td>
+    </tr>
+    <tr>
+      <td>Campagnes</td>
+      <td>Votre inventaire de toutes les campagnes actives et dans un état de brouillon.</td>
+    </tr>
+    <tr>
+      <td>Listes de contacts</td>
+      <td>Gérez vos listes d’audience et de suppression.</td>
+    </tr>
+    <tr>
+      <td>Insights</td>
+      <td>Affichez les mesures de toutes les campagnes actives, suivies au cours d’une période sélectionnée.</td>
+    </tr>
+    <tr>
+      <td>Contexte</td>
+      <td>Cliquez sur <i>Contexte</i> pour afficher son sous-menu :<br><br>
+      <li><b>Marques</b> - Gérez et ajoutez des kits de marque, puis définissez une valeur par défaut pour votre espace de travail.</li>
+      <li><b>Modèles d’e-mail</b> - Gérez et chargez des modèles HTML personnalisés et indiquez à vos collègues quand les utiliser.</li>
+      <li><b>Connecteurs</b> - Intégrations externes telles que des briques de données et Salesforce pour apporter des audiences ou du contexte.</li>
+      <li><b>Compétences</b> - Instructions réutilisables qui façonnent la manière dont Coworker crée et personnalise vos campagnes.</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -111,7 +146,7 @@ Coworker for Teams est un produit en développement actif. Voici ce qu’il faut
 
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3492809?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 De nouvelles fonctionnalités seront livrées pendant l’essai. Vos commentaires aident à déterminer la suite. Envoyez vos commentaires via l’icône de commentaires sur le produit dans l’en-tête.
