@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Les informations de cette page donnent un aperçu du Module de conversation Adobe CX Enterprise Coworker et de la manière dont il peut vous aider à analyser les données pour votre organisation.
 
-La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [](/help/home.md).
+La discussion entre collègues permet aux équipes d’automatiser les tâches des produits Adobe en langage naturel, transformant rapidement les idées en actions grâce à une planification flexible, des compétences personnalisables et une exécution intelligente. Pour plus d&#39;informations générales sur Coworker, voir Présentation de [&#128279;](/help/home.md).
 
 ## Fonctionnement de l’analyse des données
 
@@ -22,7 +22,7 @@ La discussion avec les collègues peut effectuer une analyse avancée des donné
 
 La discussion avec les collègues hérite des autorisations de Customer Journey Analytics ou d’Adobe Analytics. Vous pouvez accéder uniquement aux vues de données, suites de rapports, dimensions, mesures et segments disponibles dans Analysis Workspace.
 
-Lorsque vous créez une visualisation dans le chat de vos collègues, vous pouvez l’ouvrir dans Analysis Workspace à tout moment pour une commande plus manuelle. Voir [ Analyser dans Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
+Lorsque vous créez une visualisation dans le chat de vos collègues, vous pouvez l’ouvrir dans Analysis Workspace à tout moment pour une commande plus manuelle. Voir [&#x200B; Analyser dans Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
 
 ## Des réponses rapides et un travail approfondi
 
@@ -40,10 +40,10 @@ Les cas d&#39;utilisation suivants sont regroupés par domaine d&#39;analyse. Ch
 | Domaine | Ce que vous pouvez faire | Idéal pour |
 | --- | --- | --- |
 | [Implémentation et administration intelligentes](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | Configurez, migrez et gérez votre implémentation , et assurez-vous que vous pouvez faire confiance aux données derrière chaque réponse. | Administration |
-| [analyse de Parcours ](/help/chat/use-cases/data-insights/journey-analysis.md) | Recherchez où les clients quittent le parcours pour la conversion et pourquoi, sur l’ensemble des canaux, des appareils et des segments. | Analyste, Utilisateur professionnel |
+| [analyse de Parcours &#x200B;](/help/chat/use-cases/data-insights/journey-analysis.md) | Recherchez où les clients quittent le parcours pour la conversion et pourquoi, sur l’ensemble des canaux, des appareils et des segments. | Analyste, Utilisateur professionnel |
 | [Analyse des audiences et des segments](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | Identifiez les groupes de clients qui se comportent différemment et comment ils se comportent, afin de pouvoir vous concentrer sur ceux qui comptent le plus. | Analyste, Utilisateur professionnel |
 | [Performance commerciale](/help/chat/use-cases/data-insights/business-performance.md) | Découvrez comment se porte l’entreprise, pourquoi une mesure a été déplacée, où elle se dirige et ce qu’il faut faire ensuite. | Analyste, Utilisateur professionnel |
-| [ Performances du contenu ](/help/chat/use-cases/data-insights/content-performance.md) | Identifiez le contenu gagnant et pourquoi, en fonction des attributs de chaque ressource, afin de pouvoir investir dans ce qui fonctionne. | Utilisateur professionnel |
+| [&#x200B; Performances du contenu &#x200B;](/help/chat/use-cases/data-insights/content-performance.md) | Identifiez le contenu gagnant et pourquoi, en fonction des attributs de chaque ressource, afin de pouvoir investir dans ce qui fonctionne. | Utilisateur professionnel |
 | [Mesure et attribution marketing](/help/chat/use-cases/data-insights/marketing-measurement-and-attribution.md) | Découvrez l’impact incrémentiel de chaque canal marketing et campagne afin de pouvoir allouer des dépenses pour optimiser le retour sur investissement. | Analyste, Utilisateur professionnel |
 
 ## Compétences et limitations
