@@ -5,9 +5,9 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: f4682967f0bed2f9a538c41903a32555fe2abbb1
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '298'
 ht-degree: 14%
 ---
 
@@ -52,7 +52,8 @@ ht-degree: 14%
     - Audiences {#audiences}
       - [Évaluation de l’intégrité de la plateforme et création d’audiences](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - Parcours {#journeys}
-      - [Création de parcours à l’aide du langage naturel](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Création d’un parcours à l’aide du langage naturel](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Création d’un parcours à partir d’une image](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Création, simulation et analyse de parcours cross-canal](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Fidélité {#loyalty}
       - [Créez un défi de fidélité et obtenez des informations](./chat/use-cases/journeys/create-loyalty-challenge.md)
