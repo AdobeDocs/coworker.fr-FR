@@ -5,9 +5,9 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 30f95a7fac5ee0c507c0b1858a322165abb5fcbb
+source-git-commit: 9f9ec676986d190bdc104aff848c7d4289bb13a6
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '287'
 ht-degree: 14%
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 14%
         - [Validation de la mise en œuvre de Streaming Media](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Valider la qualité du jeu de données pour la création de rapports CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validation des données Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
+        - [Détection des anomalies Experience Platform](./chat/use-cases/data-insights/anomaly-detection.md)
         - [Accélérer les informations sur les données](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - analyse de parcours {#journey-analysis}
         - [Vue d’ensemble](./chat/use-cases/data-insights/journey-analysis.md)
