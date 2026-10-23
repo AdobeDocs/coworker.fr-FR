@@ -5,10 +5,10 @@ user-guide-description: Découvrez Adobe CX Enterprise Coworker, un coéquipier 
 description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez vos connaissances sur les produits et obtenez des informations opérationnelles à l’aide de l’IA dans CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: f4682967f0bed2f9a538c41903a32555fe2abbb1
+source-git-commit: ab3fd688f3a83afb0a4d058cc86d5ac8ec5f5977
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 14%
+source-wordcount: '305'
+ht-degree: 13%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,7 @@ ht-degree: 14%
     - Alertes {#alerts}
       - [Compétences en alerte client](./chat/use-cases/customer-alerts/customer-alerts.md)
     - Visibilité de la marque {#brand-visibility}
+      - [Création et affinement d’une landing page AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Vérification de la conformité de la marque](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Créer des pages AEM Sites](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [Intégration d’AEM Assets](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
