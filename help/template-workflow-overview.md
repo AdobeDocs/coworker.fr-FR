@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '337'
 ht-degree: 4%
 ---
 <!--
@@ -72,6 +72,8 @@ Utilisez le Module de conversation Adobe CX Enterprise Coworker pour [ ce que le
 **Idéal pour :** [rôle un, rôle deux]
 
 ## Conditions préalables {#prerequisites}
+
+[Supprimez cette section si aucune condition préalable ne s’applique.]
 
 Pour utiliser les cas pratiques de ce groupe, vous avez besoin des éléments suivants :
 

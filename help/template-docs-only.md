@@ -13,9 +13,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '304'
 ht-degree: 1%
 ---
 <!--
@@ -58,7 +58,7 @@ WRITING RULES THAT MATTER MOST HERE
 
 ## Avant de commencer {#before-you-begin}
 
-[Indiquez ce dont le lecteur a besoin avant de commencer : les autorisations, les licences, l’accès à une application ou à un sandbox, ou à une page associée à lire en premier. Supprimez cette section pour les pages de concept.]
+[Indiquez ce dont le lecteur a besoin avant de commencer : les autorisations, les licences, l’accès à une application ou à un sandbox, ou à une page associée à lire en premier. Supprimez cette section si aucune condition préalable ne s’applique.]
 
 * [Prérequis 1.]
 * [Prérequis 2.]
