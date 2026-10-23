@@ -4,9 +4,9 @@ title: Création d’une campagne par e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Créer une campagne par e-mail {#create-an-email-campaign}
@@ -19,9 +19,9 @@ Vérifiez que vous disposez des éléments suivants :
 
 * Un compte Adobe CX Enterprise Coworker pour les équipes actif ([inscrivez-vous ici](https://coworker-campaigns.experience.adobe.com/){target="_blank"} si ce n’est pas déjà fait).
 
-* Votre marque ajoutée sous **Vos affaires** > **Marques**.
+* Votre marque ajoutée sous **Contexte** > **Marques**.
 
-* (Facultatif mais recommandé) Un modèle d’e-mail HTML téléchargé sous **Vos affaires** > **Modèles d’e-mail**.
+* (Facultatif mais recommandé) Un modèle d’e-mail HTML téléchargé sous **Contexte** > **Modèles d’e-mail**.
 
 * Un CSV d’audience prêt à être chargé.
 
@@ -70,13 +70,13 @@ Exemple:
 
 Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Le collaborateur des équipes :
 
-* Générez un plan de campagne structuré.
+* Générer une stratégie de campagne structurée.
 * Demandez votre audience cible, qui sera également utilisée pour la personnalisation du contenu.
 * Rédiger un contenu d’e-mail personnalisé pour chaque étape.
 * Créez le parcours de manière dynamique en cours de route.
 * Regroupez tous les éléments sur un seul tableau de campagne.
 
-## Étape 3 : charger votre audience
+## Étape 3 : mettre à jour votre audience
 
 Les audiences sont chargées au moyen de fichiers CSV. Toutes les audiences sont spécifiques à leurs campagnes respectives (elles ne sont pas stockées ailleurs dans votre environnement pour le moment).
 
@@ -161,10 +161,6 @@ Oui, la limite de taille est de 8 Mo.
 **Que se passe-t-il si mon fichier CSV d’audience renvoie des erreurs ?**
 
 Assurez-vous que votre fichier CSV ne contient pas de caractères masqués « riches ».
-
-**Comment utiliser les modèles de campagne ?**
-
-Sélectionnez le modèle souhaité, puis cliquez sur **Remix**. Vous pouvez ensuite mettre à jour tous les jetons de personnalisation et cliquer sur l’icône **envoyer** en bas à droite.
 
 **Comment partager un brouillon de campagne avec un coéquipier pour révision ?**
 

@@ -4,7 +4,7 @@ title: Lancement et gestion d’une campagne
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 2%
@@ -92,14 +92,6 @@ Vous pouvez arrêter une campagne qui envoie activement (une campagne « active 
 >[!CAUTION]
 >
 >L’arrêt d’une campagne est permanent. Les destinataires cessent immédiatement de progresser dans la campagne et la campagne ne peut pas reprendre ni redémarrer par la suite. Pour envoyer à nouveau, vous devez créer une campagne et la lancer.
-
-<!--
-
-### Prerequisites
-
-- [NEEDS INPUT - to confirm with engineer: does stopping a campaign require a specific role or permission, or can any user with campaign access do this?]
-
--->
 
 ### Comment arrêter une campagne
 
