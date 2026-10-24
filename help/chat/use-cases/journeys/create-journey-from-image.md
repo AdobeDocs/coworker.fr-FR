@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Découvrez comment CX Enterprise Coworker transforme une image de diagramme de flux, telle qu’une diapositive PowerPoint de votre équipe marketing, en un parcours prêt à être modifié dans Adobe Journey Optimizer. Vous découvrirez comment Coworker extrait une invite de l’image, vous permet de la réviser et de l’ajuster, demande l’événement déclencheur et enregistre le résultat en tant que brouillon correspondant à la conception d’origine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504867/?captions=fre_fr&learn=on&enablevpops)
