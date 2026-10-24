@@ -1,7 +1,7 @@
 ---
 title: Planification de la mise en œuvre de Customer Journey Analytics ou de Streaming Media avec Coworker
 description: Découvrez comment les compétences du guide d’implémentation de Coworker transforment une conversation de présentation en un plan d’implémentation personnalisé et ordonné avec des listes de contrôle exportables.
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
@@ -56,7 +56,7 @@ Avant d’utiliser ces compétences, gardez à l’esprit les restrictions suiva
 
 1. Connectez-vous à un collègue.
 
-1. Sélectionnez [!UICONTROL **Nouvelle conversation**].
+1. Sélectionnez **[!UICONTROL Nouvelle conversation]**.
 
 1. Dans le champ de texte, décrivez l’implémentation ou la migration que vous souhaitez planifier. Par exemple :
 

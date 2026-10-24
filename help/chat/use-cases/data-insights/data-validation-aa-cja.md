@@ -11,9 +11,9 @@ jira: KT-22083
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1528'
 ht-degree: 0%
 ---
 # Valider les données avec un collègue lors de la mise à niveau d’Adobe Analytics vers Customer Journey Analytics
@@ -32,7 +32,7 @@ Cette compétence compare automatiquement :
 
 Après avoir effectué ces comparaisons, les compétences génèrent des informations et des recommandations pilotées par l’IA que vous pouvez implémenter pour faciliter votre mise à niveau vers Customer Journey Analytics.
 
-## Avant de commencer
+## Conditions préalables
 
 Pour valider les données dans le cadre de la mise à niveau, vous avez besoin des éléments suivants :
 
@@ -48,7 +48,7 @@ Vous n’avez pas besoin de savoir comment votre implémentation est conçue. La
 
 1. Connectez-vous à un collègue.
 
-1. Sélectionnez [!UICONTROL **Nouvelle conversation**].
+1. Sélectionnez **[!UICONTROL Nouvelle conversation]**.
 
 1. Dans le champ de texte, demandez à l’agent de valider votre mise à niveau d’Adobe Analytics vers Customer Journey Analytics :
 

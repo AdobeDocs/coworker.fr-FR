@@ -4,9 +4,9 @@ description: Utilisez le Module de conversation des collaborateurs pour créer d
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 2%
 ---
 
@@ -62,7 +62,7 @@ Mon collègue utilise les compétences suivantes pour les cas d’utilisation d�
 * Spécifiez les segments, canaux ou appareils que vous souhaitez inclure, exclure ou comparer.
 * Mentionnez toute hypothèse que vous avez déjà, telle qu’un changement de site récent, afin que le Chat des collègues puisse la valider ou l’exclure.
 * Demandez les étapes suivantes recommandées si vous souhaitez que le Chat des collègues vous suggère des questions de suivi.
-* Ouvrez n’importe quelle visualisation dans Analysis Workspace lorsque vous souhaitez un meilleur contrôle manuel.
+* Ouvrez n’importe quelle visualisation dans Analysis Workspace lorsque vous souhaitez un meilleur contrôle manuel. Voir [Ouvrir une visualisation dans Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
 
 ## Étapes suivantes
 
