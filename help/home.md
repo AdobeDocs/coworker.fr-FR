@@ -155,11 +155,11 @@ Regardez des épisodes à la demande de la série Coworker Unlocked pour découv
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-09-24-26
+* https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-09-24-26
   {title = Transforming CX Workflows with Adobe CX Enterprise Coworker}
   {description = Explore real-world use cases that demonstrate how organizations can put Coworker to work to uncover insights, create audiences, optimize journeys, and deliver customer experiences faster and more efficiently.}
   {cta = Watch}
-*  https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26
+*  https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-10-08-26
   {title = Audience and Journey B2C capabilities in Coworker}
   {description = See how Coworker can execute end-to-end workflows for customer experience orchestration, increasing productivity and simplifying otherwise technical or complex tasks.}
   {cta = Watch}
@@ -170,7 +170,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-09-24-26" title="Transformation des workflows CX avec Adobe CX Enterprise Coworker" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-09-24-26" title="Transformation des workflows CX avec Adobe CX Enterprise Coworker" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503884/?format=jpeg&nocache=1791907736815" alt="Transformation des workflows CX avec Adobe CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -179,11 +179,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-09-24-26" target="_blank" rel="referrer" title="Transformation des workflows CX avec Adobe CX Enterprise Coworker">Transformation des workflows CX avec Adobe CX Enterprise Coworker</a>
+                        <a href="https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-09-24-26" target="_blank" rel="referrer" title="Transformation des workflows CX avec Adobe CX Enterprise Coworker">Transformation des workflows CX avec Adobe CX Enterprise Coworker</a>
                     </p>
                     <p class="is-size-6">Explorez des cas d’utilisation réels qui montrent comment les entreprises peuvent mettre Coworker au service de la découverte d’informations, de la création d’audiences, de l’optimisation des parcours et de la diffusion plus rapide et plus efficace des expériences client.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-09-24-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-09-24-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -193,7 +193,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-10-08-26" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504278/?format=jpeg&nocache=1791907736813" alt="Fonctionnalités B2C d’audience et de Parcours dans Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -202,11 +202,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker">Audience et Parcours des fonctionnalités B2C dans Coworker</a>
+                        <a href="https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" title="Fonctionnalités B2C d’audience et de Parcours dans Coworker">Audience et Parcours des fonctionnalités B2C dans Coworker</a>
                     </p>
                     <p class="is-size-6">Découvrez comment Coworker peut exécuter des workflows de bout en bout pour l’orchestration de l’expérience client, ce qui augmente la productivité et simplifie les tâches autrement techniques ou complexes.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
