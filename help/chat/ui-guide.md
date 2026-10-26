@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1902'
 ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -34,7 +34,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Pour utiliser l’expérience immersive, connectez-vous avec vos informations d’identification Adobe. Vous pouvez l’ouvrir à partir d’un lien direct ou dans CX Enterprise.
 
-1. Accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+1. Accédez à [](https://experience.adobe.com/#/coworker).
 1. Connectez-vous avec votre Adobe ID.
 1. Dans [!DNL CX Enterprise], cliquez sur le menu du sélecteur d’applications ![icône du menu Produit](./assets/apps-icon.png), puis cliquez sur **[!DNL Coworker]**.
 1. Pour ouvrir la discussion (expérience intégrée au produit), cliquez sur **[!UICONTROL icône Conversations]** ![icône Collègue](./assets/icon-coworker.png).
@@ -43,7 +43,7 @@ Pour utiliser l’expérience immersive, connectez-vous avec vos informations d�
 
 ## Vidéo - Principes de base de l’interface de conversation [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Choisissez votre organisation
 
@@ -82,7 +82,7 @@ Utilisez le rail de navigation pour vous déplacer entre les parties du produit 
 | **[!UICONTROL Nouvelle conversation]** | Démarrer une conversation. Chat Coworker enregistre votre chat actuel dans votre historique. |
 | **[!UICONTROL Accueil]** | Revenez à la salutation, à la zone de saisie et aux invites suggérées. |
 | **[!UICONTROL Conversations]** | Rechercher, épingler, archiver ou supprimer des conversations antérieures. |
-| **[!UICONTROL Configurations]** | Gérez les compétences, les serveurs MCP, les places de marché, les modules externes et la mémoire. |
+| **[!UICONTROL Personnalisations]** | Gérez les compétences, les intégrations, les places de marché, les modules externes et la mémoire. |
 | **[!UICONTROL Épinglé]** | Ouvrez les conversations que vous avez démarrées. Cliquez sur **[!UICONTROL Afficher tout]** pour les voir sur la page Conversations. |
 | **[!UICONTROL Récents]** | Ouvrez vos dernières conversations. Cliquez sur **[!UICONTROL Afficher tout]** pour ouvrir la page Conversations . |
 
@@ -98,7 +98,7 @@ Pour envoyer un message :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
@@ -229,7 +229,7 @@ Utilisez le bouton d’affichage pour basculer entre les dispositions de grille 
 
    ![Visionneuse SKILL.md](./assets/ui-guide-14.png)
 
-### Connexion à un serveur
+### Connexion à un serveur {#server}
 
 L’intégration du serveur a connecte le Module de conversation des collaborateurs à des outils et services externes, tels que Adobe Journey Optimizer, Real-Time CDP, Target et Workfront. L’onglet **[!UICONTROL Personnalisations]** > **[!UICONTROL Utilisateur]** > **[!UICONTROL Intégrations]** répertorie les serveurs connectés et le nombre de connexions actives. Chaque carte affiche le nom du serveur, son point d’entrée et les balises qui décrivent ce qu’elle fournit.
 
@@ -272,7 +272,7 @@ Un plug-in regroupe les compétences et les serveurs afin que vous puissiez les 
 
 La mémoire permet au Module de conversation des collègues de mémoriser vos préférences dans les conversations, afin que les réponses restent pertinentes au fil du temps. Utilisez l’onglet **[!UICONTROL Memory]** pour contrôler ce qu’il conserve.
 
-1. Cliquez sur **[!UICONTROL Mémoire]** sur la page Configurations.
+1. Cliquez sur **[!UICONTROL Mémoire]** dans la page Personnalisations.
 1. Activez **[!UICONTROL Activer la mémoire]**. Désactivez-le pour empêcher le Module de conversation des collègues de se souvenir d’une session à l’autre.
 1. Sous **[!UICONTROL Préférences stockées]**, passez en revue les informations enregistrées dans la conversation des collègues. Vous pouvez modifier, supprimer ou inspecter chaque entrée, et filtrer les entrées par catégorie.
 1. Utilisez **[!UICONTROL Historique des mémoires enregistrées]** pour afficher une chronologie des modifications apportées à vos mémoires.
