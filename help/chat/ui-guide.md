@@ -1,13 +1,13 @@
 ---
-description: Découvrez comment ouvrir le Chat des collaborateurs, définir votre organisation et votre sandbox, envoyer votre premier message et personnaliser les compétences, les serveurs MCP et la mémoire. Commencez une conversation en quelques minutes.
+description: Découvrez comment ouvrir le Chat des collaborateurs, définir votre organisation et votre sandbox, envoyer votre premier message et personnaliser les compétences, les serveurs d’intégration et la mémoire.
 title: Prise en main du chat des collègues
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
+source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
 workflow-type: tm+mt
-source-wordcount: '1765'
+source-wordcount: '1903'
 ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -34,7 +34,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Pour utiliser l’expérience immersive, connectez-vous avec vos informations d’identification Adobe. Vous pouvez l’ouvrir à partir d’un lien direct ou dans CX Enterprise.
 
-1. Accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+1. Accédez à [](https://experience.adobe.com/#/coworker).
 1. Connectez-vous avec votre Adobe ID.
 1. Dans [!DNL CX Enterprise], cliquez sur le menu du sélecteur d’applications ![icône du menu Produit](./assets/apps-icon.png), puis cliquez sur **[!DNL Coworker]**.
 1. Pour ouvrir la discussion (expérience intégrée au produit), cliquez sur **[!UICONTROL icône Conversations]** ![icône Collègue](./assets/icon-coworker.png).
@@ -43,7 +43,7 @@ Pour utiliser l’expérience immersive, connectez-vous avec vos informations d�
 
 ## Vidéo - Principes de base de l’interface de conversation [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Choisissez votre organisation
 
@@ -98,7 +98,7 @@ Pour envoyer un message :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
@@ -148,7 +148,7 @@ La vue des transcriptions contrôle la proportion du raisonnement et de l’acti
 1. Cliquez sur **[!UICONTROL Vue Transcription]** dans la barre d’outils de saisie.
 1. Cliquez sur une vue :
 
-   | Afficher | Ce que vous voyez |
+   | Voir | Ce que vous voyez |
    | --- | --- |
    | **[!UICONTROL Normal]** | Résumé des principales étapes de réflexion et de l’activité des outils. |
    | **[!UICONTROL Focus]** | Surtout la réponse. La conversation avec un collègue masque la plupart des étapes intermédiaires. |
@@ -229,13 +229,28 @@ Utilisez le bouton d’affichage pour basculer entre les dispositions de grille 
 
    ![Visionneuse SKILL.md](./assets/ui-guide-14.png)
 
-### Connexion des serveurs MCP
+### Connexion à un serveur
 
-Les serveurs MCP (Model Context Protocol) connectent le Module de conversation des collaborateurs à des outils et services externes, tels que Adobe Journey Optimizer, Real-Time CDP, Target et Workfront. L’onglet **[!UICONTROL Serveurs MCP]** répertorie les serveurs connectés et le nombre de connexions actives. Chaque carte affiche le nom du serveur, son point d’entrée et les balises qui décrivent ce qu’elle fournit.
+L’intégration du serveur a connecte le Module de conversation des collaborateurs à des outils et services externes, tels que Adobe Journey Optimizer, Real-Time CDP, Target et Workfront. L’onglet **[!UICONTROL Personnalisations]** > **[!UICONTROL Utilisateur]** > **[!UICONTROL Intégrations]** répertorie les serveurs connectés et le nombre de connexions actives. Chaque carte affiche le nom du serveur, son point d’entrée et les balises qui décrivent ce qu’elle fournit.
 
-Pour connecter un serveur, cliquez sur **[!UICONTROL Ajouter un serveur]** et suivez les invites.
+1. Accédez à **[!UICONTROL Personnalisations]** > **[!UICONTROL Utilisateur]** > **[!UICONTROL Intégrations]**
 
-![Onglet Serveurs MCP](./assets/ui-guide-15.png)
+   ![Onglet Serveurs](./assets/get-started-customizations.png)
+
+1. Dans Personnalisations, cliquez sur **[!UICONTROL Ajouter un serveur]**.
+
+   ![Ajouter des intégrations](./assets/get-started-add-integrations.png)
+
+1. Renseignez les champs et options suivants :
+
+   * **[!UICONTROL Nom du serveur]** (obligatoire) : saisissez un nom qui identifie le serveur dans votre liste d’intégrations, par exemple `github` ou `slack`.
+   * **[!UICONTROL URL ou commande]** (obligatoire) : saisissez l’adresse à laquelle se connecte le Module de conversation des collègues, par exemple `https://mcp.example.com/sse`.
+   * **[!UICONTROL Type de connexion]** : sélectionnez le protocole utilisé par le serveur pour communiquer avec la conversation des collègues, soit **[!UICONTROL SSE]** (événements envoyés par le serveur), soit **[!UICONTROL HTTP]**. La valeur par défaut est **[!UICONTROL SSE]**.
+   * **[!UICONTROL Délai d’expiration de l’outil (secondes)]** : définissez la durée pendant laquelle le Module de conversation des collègues attend qu’un outil de ce serveur réponde avant d’arrêter la requête. La valeur par défaut est de 60 secondes.
+   * **[!UICONTROL Authentification]** : sélectionnez la manière dont le Module de conversation des collègues prouve son identité au serveur. La valeur par défaut est **[!UICONTROL Aucune]**, ce qui n’envoie aucune information d’identification. Sélectionnez une autre méthode si le serveur requiert des informations d’identification.
+   * **[!UICONTROL En-têtes]** : cliquez sur **[!UICONTROL Ajouter un en-tête]** pour envoyer des en-têtes HTTP supplémentaires, tels qu’une clé API, avec chaque requête au serveur. Cette option est facultative.
+
+1. Cliquez sur **[!UICONTROL Ajouter]**.
 
 ### Ajouter un marketplace
 
@@ -245,7 +260,7 @@ Un marketplace est un registre de modules externes que vous pouvez parcourir et 
 
 ### Gestion des modules externes
 
-Un plug-in regroupe les compétences et les serveurs MCP afin que vous puissiez les installer et les gérer ensemble. L’onglet **[!UICONTROL Modules externes]** affiche les modules externes installés.
+Un plug-in regroupe les compétences et les serveurs afin que vous puissiez les installer et les gérer ensemble. L’onglet **[!UICONTROL Modules externes]** affiche les modules externes installés.
 
 * Cliquez sur **[!UICONTROL Parcourir les marchés]** pour trouver de nouveaux modules externes.
 * Filtrez par marketplace pour voir d&#39;où vient chaque plug-in.
