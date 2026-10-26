@@ -35,7 +35,7 @@ Adobe Coworker for Teams vous permet de connecter vos briques de données à ...
 
    CAPTURE D’ÉCRAN
 
-1. Saisissez votre hôte Workspace ****, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
+1. Saisissez votre hôte Workspace **&#x200B;**, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
 
    CAPTURE D’ÉCRAN
 
