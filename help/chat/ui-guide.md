@@ -46,7 +46,7 @@ Connectez-vous à [!DNL Coworker] à l’aide de vos informations d’identifica
 
 ## En savoir plus sur les principes de base du chat des collègues
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
 
 ## Spécifier les préférences de vos collègues {#preferences}
 
