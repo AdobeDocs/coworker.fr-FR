@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d2526c349e6015d754e3379d7208e0e24fa23dd1
+source-git-commit: 6f3146fafcfd39c349f43f961e065b86ed304421
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2088'
 ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -34,19 +34,19 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Connectez-vous à [!DNL Coworker] à l’aide de vos informations d’identification Adobe.
 
-1. [Connectez-vous](https://experienceleague.adobe.com/fr/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) à CX Enterprise à l’aide de votre Adobe ID.
+1. [Connectez-vous](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) à CX Enterprise à l’aide de votre Adobe ID.
 
    Après vous être connecté, vous pouvez ouvrir le [!DNL Coworker] à partir du menu de l’application [!DNL CX Enterprise] ou à l’aide d’un lien direct :
 
    * Dans [!DNL CX Enterprise], cliquez sur le menu du sélecteur d’applications ![icône du menu Produit](./assets/apps-icon.png), puis cliquez sur **[!DNL Coworker]**.
 
-   * Pour utiliser un lien direct, accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+   * Pour utiliser un lien direct, accédez à [](https://experience.adobe.com/#/coworker).
 
 1. Pour démarrer une conversation, cliquez sur **[!UICONTROL Nouvelle conversation]** dans le rail de navigation.
 
 ## En savoir plus sur les principes de base du chat des collègues
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Spécifier les préférences de vos collègues {#preferences}
 
@@ -57,7 +57,7 @@ En bas à gauche de l’interface, vous pouvez spécifier les options et les pr�
 | Paramètre / option | Cas d’usage |
 | --- | --- |
 | Nom et adresse e-mail du compte | Confirmez le compte Adobe avec lequel vous êtes connecté. |
-| **[!UICONTROL Notifications]** (icône représentant une cloche) | Affichez vos [notifications](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notifications]** (icône représentant une cloche) | Affichez vos [notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Thème]** | Basculez entre les thèmes Clair et Sombre. |
 | **[!UICONTROL Paramètres de l’application]** | Affichez les détails du compte et les paramètres de l’espace de travail. |
 | **[!UICONTROL Préférences]** | Ouvrez votre compte [préférences](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/account-preferences). La flèche indique que la page s’ouvre en dehors de Coworker. |
@@ -86,7 +86,7 @@ Dans le rail de navigation, les fonctionnalités suivantes vous permettent de di
 | **[!UICONTROL Accueil]** | Revenez à la salutation, à la zone de saisie et aux invites suggérées. |
 | **[!UICONTROL Conversations]** | Rechercher, épingler, archiver ou supprimer des conversations antérieures. |
 | **[!UICONTROL Artefacts]** | Ouvrez les artefacts créés par le Module de conversation des collègues dans vos conversations. |
-| **[!UICONTROL Experience Context]** | <!-- TODO: describe Experience Context --> |
+| **[!UICONTROL Experience Context]** | Connectez Coworker à vos applications Adobe existantes (telles que Marketo Engage) et à d’autres systèmes d’entreprise, afin qu’il puisse accéder à toutes les données client et de compte pertinentes et les raisonner. |
 | **[!UICONTROL Personnalisations]** | Gérez les compétences, les intégrations, les places de marché, les modules externes et la mémoire. |
 | **[!UICONTROL Récents]** | Ouvrez vos dernières conversations. Cliquez sur **[!UICONTROL Afficher tout]** pour ouvrir la page Conversations . |
 | **[!UICONTROL Épinglé]** | Ouvrez les conversations que vous avez démarrées. Cliquez sur **[!UICONTROL Afficher tout]** pour les voir sur la page Conversations. |
@@ -103,7 +103,7 @@ Pour poser une question à Coworker :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
