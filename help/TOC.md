@@ -6,10 +6,10 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: 43080128c8b3eeaa712334c3fff2fa89c157efea
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 14%
+source-wordcount: '312'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,8 @@ ht-degree: 14%
       - [Compétences en agent pour l’outil Sandbox](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Alertes {#alerts}
       - [Compétences en alerte client](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - Notifications {#notifications}
+      - [Compétences en notification](./chat/use-cases/notifications/notification-skills.md)
     - Visibilité de la marque {#brand-visibility}
       - [Création et affinement d’une landing page AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Vérification de la conformité de la marque](./chat/use-cases/brand-visibility/brand-compliance.md)
