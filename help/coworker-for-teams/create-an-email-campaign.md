@@ -4,9 +4,9 @@ title: Création d’une campagne par e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '935'
 ht-degree: 0%
 ---
 # Créer une campagne par e-mail {#create-an-email-campaign}
@@ -80,15 +80,13 @@ Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Le colla
 
 Les audiences sont chargées au moyen de fichiers CSV. Toutes les audiences sont spécifiques à leurs campagnes respectives (elles ne sont pas stockées ailleurs dans votre environnement pour le moment).
 
-1. Après avoir envoyé votre invite, passez en revue les tâches que Coworker exécutera et cliquez sur **Créer**.
+1. Après avoir envoyé votre invite, Collègue pour les équipes génère (généralement) un exemple d’audience pour vous. Dans le cas contraire, il vous invite à importer une audience.
 
-1. Dans le volet _Conversion de Campaign_ à gauche, cliquez sur **Télécharger CSV**.
-
-   ![](./assets/create-an-email-campaign-3.png)
+1. Importez votre propre audience en chargeant un fichier CSV ou en important des données à partir d’un connecteur disponible.
 
    >[!NOTE]
    >
-   >* L’adresse e-mail est un champ obligatoire, le prénom, la date du dernier achat et tout autre champ pouvant être utilisé à des fins de personnalisation est recommandé.
+   >Alors que Collègue pour les équipes vous permet de continuer à créer votre campagne à l’aide d’un exemple d’audience, vous devez ajouter une audience réelle pour lancer votre campagne.
 
 1. Importez votre fichier CSV.
 
@@ -132,9 +130,9 @@ Avant de lancer la campagne, envoyez-la vous-même afin de pouvoir la consulter 
 
 ![](./assets/create-an-email-campaign-6.png)
 
-## Étape 6 : étapes suivantes
+## Étape 6 : lancer votre campagne
 
-La fonctionnalité Launch (envoi de votre campagne par e-mail) sera bientôt disponible. D’ici là, vous pouvez examiner le contenu avec votre équipe et commencer votre prochaine campagne.
+Vous êtes maintenant prêt à [lancer votre campagne](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign).
 
 ## Questions fréquentes
 
