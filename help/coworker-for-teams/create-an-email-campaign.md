@@ -4,9 +4,9 @@ title: Création d’une campagne par e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Créer une campagne par e-mail {#create-an-email-campaign}
@@ -68,7 +68,7 @@ Exemple:
 
 ![Saisie dans votre propre invite](./assets/create-an-email-campaign-2.png)
 
-Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Le collaborateur des équipes :
+Lorsque votre invite est prête, cliquez sur l&#39;icône de flèche vers le haut. Le collaborateur des équipes :
 
 * Générer une stratégie de campagne structurée.
 * Demandez votre audience cible, qui sera également utilisée pour la personnalisation du contenu.
@@ -88,8 +88,6 @@ Les audiences sont chargées au moyen de fichiers CSV. Toutes les audiences sont
    >
    >Alors que Collègue pour les équipes vous permet de continuer à créer votre campagne à l’aide d’un exemple d’audience, vous devez ajouter une audience réelle pour lancer votre campagne.
 
-1. Importez votre fichier CSV.
-
    >[!IMPORTANT]
    >
    >Excluez les contacts que vous ne souhaitez pas envoyer par e-mail (utilisateurs désabonnés, adresses internes, comptes de test) avant le chargement. Bien que nous activerons progressivement la fonctionnalité pour exclure des utilisateurs spécifiques ou ajouter des attributs au cours de l’évaluation, elle n’est pas disponible immédiatement à partir de la date de lancement.
@@ -98,7 +96,7 @@ Les audiences sont chargées au moyen de fichiers CSV. Toutes les audiences sont
 
 Pour apporter des modifications à votre e-mail, faites défiler l’écran vers la droite. Sous _Campaign Assets_, cliquez sur **Ouvrir l’éditeur**.
 
-![](./assets/create-an-email-campaign-4.png)
+![](./assets/create-an-email-campaign-3.png)
 
 Il existe deux façons de mettre à jour votre contenu.
 
@@ -114,7 +112,7 @@ Il existe deux façons de mettre à jour votre contenu.
 
 Vous pouvez également utiliser les boutons d’IA pour affiner votre Objet ou votre Pré-titre.
 
-![](./assets/create-an-email-campaign-5.png)
+![](./assets/create-an-email-campaign-4.png)
 
 >[!TIP]
 >
@@ -128,7 +126,7 @@ Avant de lancer la campagne, envoyez-la vous-même afin de pouvoir la consulter 
 >
 >Actuellement, vous ne pouvez envoyer qu’un seul e-mail de test à vous-même, et un seul à la fois.
 
-![](./assets/create-an-email-campaign-6.png)
+![](./assets/create-an-email-campaign-5.png)
 
 ## Étape 6 : lancer votre campagne
 

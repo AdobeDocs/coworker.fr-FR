@@ -4,9 +4,9 @@ title: Lancement et gestion d’une campagne
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '683'
 ht-degree: 2%
 ---
 # Lancement et gestion d’une campagne {#launch-campaign}
@@ -31,11 +31,15 @@ Une fois votre campagne créée, apprenez à la lancer, à planifier son lanceme
 
 1. Cliquez sur **Lancer la campagne** lorsque vous avez terminé.
 
->[!NOTE]
->
->- Une campagne ne peut pas être lancée avec un exemple d’audience (non réelle), des brouillons d’e-mails qui n’ont pas été vérifiés ou des paramètres d’envoi non configurés.
->
->- Si vous planifiez une campagne, vous pouvez toujours la modifier avant son lancement. Il n’est pas nécessaire de passer en mode brouillon.
+### Éléments à noter - lancement
+
+- Une campagne ne peut pas être lancée avec un exemple d’audience (non réelle), des brouillons d’e-mails qui n’ont pas été vérifiés ou des paramètres d’envoi non configurés.
+
+- Si vous planifiez une campagne, vous pouvez toujours la modifier avant son lancement. Il n’est pas nécessaire de passer en mode brouillon.
+
+- Votre version d’évaluation comprend 5 000 envois d’e-mails par mois. Le _impact limite estimé_ s’affiche au lancement afin que vous puissiez suivre le nombre d’e-mails restants.
+
+- Lorsque votre campagne est active, les insights sont disponibles dans deux heures dans l’onglet _Insights_ situé en haut du tableau de votre campagne. Les insights comprennent le nombre d’envois, d’ouvertures, de clics, de bounces, de désabonnements et d’erreurs, ainsi que les performances quotidiennes et votre workflow.
 
 ## Planning du lancement d’une campagne {#schedule-when-a-campaign-launches}
 
@@ -80,7 +84,7 @@ La campagne doit être prête à être lancée (toute configuration requise est 
 | Jour du mois | Le jour du mois où la campagne se répète | Oui, pour la fréquence mensuelle |
 | Terminer la campagne | Jamais, ou à une date de fin spécifique | Oui, pour récurrent |
 
-### Éléments à noter
+### Éléments à noter - planification
 
 - Les campagnes récurrentes peuvent être définies pour s’exécuter indéfiniment ou jusqu’à une date de fin spécifique. Les campagnes ponctuelles et immédiates ne comportent pas d’option de date de fin, puisqu’elles s’exécutent une seule fois.
 - La planification ne prend pas en charge les intervalles de répétition personnalisés, tels que « toutes les 2 semaines » ou « tous les 3 jours ». Il ne prend pas non plus en charge la périodicité mensuelle relative, telle que « le deuxième lundi du mois ».
