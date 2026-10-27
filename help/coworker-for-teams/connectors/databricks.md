@@ -35,7 +35,7 @@ Adobe Coworker pour les équipes vous permet de connecter et d’interroger les 
 
    CAPTURE D’ÉCRAN
 
-1. Saisissez votre hôte Workspace ****, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
+1. Saisissez votre hôte Workspace **&#x200B;**, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
 
    CAPTURE D’ÉCRAN
 
