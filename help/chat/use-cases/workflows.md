@@ -4,9 +4,9 @@ title: Workflows de conversation avec un collègue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b85f470f860795f9a3960f5a4e36d0584e2b6a81
+source-git-commit: 5acb9a62c94486e0487cc7805ebc9ef6e25e2079
 workflow-type: tm+mt
-source-wordcount: '8358'
+source-wordcount: '8465'
 ht-degree: 8%
 ---
 # Workflows de conversation avec un collègue {#use-cases}
@@ -147,6 +147,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 | [Analyse de l’hygiène des parcours &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Effectuez un audit de votre inventaire de parcours pour rechercher les parcours aux noms manquants ou génériques, les parcours actifs ou à version préliminaire obsolètes, les parcours surdimensionnés, les parcours fermés de longue date et les noms d’actions et d’événements similaires, avec des recommandations pour nettoyer et stabiliser votre configuration | Analyse de parcours | Adobe Journey Optimizer (AJO) | « Contrôler la configuration de mes parcours ». <br> « Lequel de mes parcours est périmé ou a besoin d&#39;être nettoyé ? » |
 | [Comparer les versions de parcours &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Comparez deux versions de parcours et passez en revue une comparaison structurée des modifications des propriétés au niveau du nœud, de la connexion et du parcours | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | « Comparez les versions 2 et 3 de mon parcours de bienvenue » <br> « Qu’est-ce qui a changé entre ces deux versions de parcours ? » |
 | [Tracer les profils via un parcours &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | Obtenez des données d’exécution au niveau du profil et en lecture seule pour un parcours publié : consultez le nombre de profils entrés dans chaque nœud et la manière dont ils se répartissent entre les branches, identifiez les profils erronés et pourquoi, ou suivez le chemin d’accès nœud par nœud d’un seul profil via le parcours | Trace du profil de Parcours | Adobe Journey Optimizer (AJO) | « Tracer les profils via [Nom du Parcours ]. » <br> « Quels profils ont rencontré une erreur dans [Nom du Parcours ] au cours des 7 derniers jours, à quel nœud, et pourquoi ? » <br> « Afficher le profil [ID ou e-mail] chemin d’accès via [Nom du Parcours ]. » |
+| [Analyser la chronologie d’exécution du parcours &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | Obtenez la chronologie de bout en bout d’un lot de parcours Lecture d’audience : consultez la durée nécessaire, le moment où l’exportation de l’audience, l’exécution du parcours et la diffusion ont commencé et se sont terminées, ainsi que les profils P95 et P99 pour l’entrée, la sortie ou le temps d’exécution | Parcours Execution Timeline | Adobe Journey Optimizer (AJO) | « Combien de temps a pris l’exécution du parcours Lecture d’audience [Nom du Parcours ] ? » <br> « Afficher les délais d’exportation de l’audience, d’exécution du parcours et de diffusion pour [Nom du Parcours ] par lot. » <br> « Quel lot de [Parcours Name] a pris le plus de temps et quelle étape a provoqué le retard ? » |
 
 **Informations connexes**
 

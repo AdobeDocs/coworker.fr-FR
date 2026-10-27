@@ -4,10 +4,10 @@ description: Découvrez Adobe CX Enterprise Coworker, un coéquipier optimisé p
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1181'
-ht-degree: 17%
+source-wordcount: '1213'
+ht-degree: 16%
 ---
 # Présentation de CX Enterprise Coworker {#overview}
 
@@ -63,6 +63,8 @@ Adaptez la discussion avec vos collègues à la façon dont votre équipe travai
 * [Intégrations](./customizations/integrations/understanding-integrations-in-coworker.md)
 * [Plug-ins](./customizations/plugins/what-are-plugins.md)
 * [Mémoire](./customizations/memory/what-is-memory.md)
+
+Pour connecter le Module de conversation des collègues à un outil ou service externe, ajoutez-le en tant que serveur sous **[!UICONTROL Personnalisations]** > **[!UICONTROL Utilisateur]** > **[!UICONTROL Intégrations]**. Pour les étapes et la description de chaque champ, voir [Connexion d’un serveur](./chat/ui-guide.md#server).
 
 ## Collègue pour les équipes
 

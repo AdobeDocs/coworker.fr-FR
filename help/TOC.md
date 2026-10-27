@@ -6,10 +6,10 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 13%
+source-wordcount: '312'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,8 @@ ht-degree: 13%
       - [Compétences en agent pour l’outil Sandbox](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Alertes {#alerts}
       - [Compétences en alerte client](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - Notifications {#notifications}
+      - [Compétences en notification](./chat/use-cases/notifications/notification-skills.md)
     - Visibilité de la marque {#brand-visibility}
       - [Création et affinement d’une landing page AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Vérification de la conformité de la marque](./chat/use-cases/brand-visibility/brand-compliance.md)
@@ -88,7 +90,6 @@ ht-degree: 13%
   - Mémoire {#memory}
     - [Qu&#39;est-ce que la mémoire ?](./customizations/memory/what-is-memory.md)
 - Collègue pour les équipes {#coworker-for-teams}
-  - {hide-from-toc}[Nouvelle expérience Équipes](./coworker-for-teams/new-teams-experience.md)
   - [Vue d’ensemble](./coworker-for-teams/overview.md)
   - [Créer une campagne par e-mail](./coworker-for-teams/create-an-email-campaign.md)
   - [Lancement et gestion d’une campagne](./coworker-for-teams/launch-manage-campaign.md)
@@ -98,4 +99,8 @@ ht-degree: 13%
   - Connecteurs {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Point De Raccordement](./coworker-for-teams/connectors/hubspot.md)
+    - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
   - [Notes de mise à jour](./coworker-for-teams/release-notes.md)
+- Plus de ressources {#more-resources}
+  - [Mises à jour de la documentation](./more-resources/documentation-updates.md)
+  - [Notes de mise à jour](./more-resources/release-notes.md)

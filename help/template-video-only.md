@@ -19,10 +19,10 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 ---
 <!--
 TEMPLATE GUIDANCE. Delete this comment block before you commit a new page.
@@ -80,18 +80,3 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 
 [Facultatif. Supprimez cette section si la vidéo ne nécessite aucune configuration. Indiquez la version de l’interface affichée, l’application ou le sandbox utilisé, ou une vidéo antérieure à regarder en premier.]
 
-## Chapitres {#chapters}
-
-[Facultatif. Supprimez cette section pour les courtes vidéos. Liste des modifications de rubrique avec horodatage.]
-
-* 0:00 [Introduction]
-* 13 h 30 [Thème 1]
-* 15 h [thème 2]
-
-## Plus d’aide sur cette rubrique {#more-help}
-
-[Lien vers la page de documentation contenant les étapes écrites. Cette section est obligatoire. Utilisez un texte de lien descriptif et conservez les éléments parallèles.]
-
-* [Titre de la page de documentation, pour les étapes écrites]
-* [Texte du lien qui décrit une page associée]
-* [Texte du lien qui décrit une vidéo associée]

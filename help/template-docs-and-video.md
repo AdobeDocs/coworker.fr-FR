@@ -21,9 +21,9 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
+source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '243'
 ht-degree: 2%
 ---
 <!--
@@ -123,10 +123,3 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 <!-- Owner: Documentation. Delete this section if it does not apply. -->
 
 [Décrivez un problème que le lecteur pourrait rencontrer, puis comment le résoudre.]
-
-## Plus d’aide sur cette rubrique {#more-help}
-
-<!-- Owner: Documentation -->
-
-* [Texte du lien qui décrit la page cible]
-* [Texte du lien qui décrit une autre page cible]

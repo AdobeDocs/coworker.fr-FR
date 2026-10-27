@@ -4,16 +4,16 @@ description: Configurez le Module de conversation Adobe CX Enterprise Coworker p
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '2184'
+source-wordcount: '2182'
 ht-degree: 4%
 ---
 # Commencer à analyser les données avec le chat des collègues
 
 Configurez le Module de conversation Adobe CX Enterprise Coworker pour analyser vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics, puis suivez un exemple pratique. Pour une présentation de ce que vous pouvez faire avec le Chat Coworker, y compris les cas d’utilisation, les compétences et les bonnes pratiques, voir [Analyse des données avec le Chat Coworker](/help/chat/use-cases/data-insights/analytics-overview.md).
 
-Avant de commencer, découvrez l’interface et les options de configuration de la conversation avec un collègue, puis assurez-vous que ce dernier est connecté à Customer Journey Analytics ou Adobe Analytics et aux vues de données ou suites de rapports appropriées.
+Avant de commencer, découvrez l’interface et les options de personnalisation de la conversation avec un collègue, puis assurez-vous que ce dernier est connecté à Customer Journey Analytics ou Adobe Analytics et aux vues de données ou suites de rapports appropriées.
 
 ## Avant de commencer
 
@@ -28,7 +28,7 @@ Avant d’utiliser la discussion avec des collègues avec vos données Customer 
 * Entrées de conversation
 * Conversations
 * Places de marché
-* Serveurs MCP
+* Serveurs d’intégration
 * Mémoire
 * Plug-ins
 * Compétences
@@ -42,11 +42,15 @@ La discussion avec les collègues se connecte à Customer Journey Analytics et A
 
 1. Dans Collègue, sélectionnez [!UICONTROL **Personnalisations**] dans le rail de gauche.
 
-1. Sélectionnez l’onglet [!UICONTROL **Intégrations**], puis assurez-vous que [!UICONTROL **cja-mcp**] et [!UICONTROL **aa-mcp**] sont disponibles dans la liste des serveurs MCP connectés. Utilisez le champ de recherche pour filtrer rapidement la liste des intégrations disponibles.
+1. Sélectionnez l’onglet [!UICONTROL **Intégrations**], puis assurez-vous que [!UICONTROL **cja-mcp**] et [!UICONTROL **aa-mcp**] sont disponibles dans votre liste de serveurs connectés.
+
+   Utilisez le champ de recherche pour filtrer rapidement la liste des intégrations disponibles.
 
    ![Onglet Intégrations de la page Personnalisations, filtré pour afficher aa-mcp](assets/coworker-mcp-aa.png)
 
-1. (Conditionnel) Si l’intégration n’est pas répertoriée, sélectionnez [!UICONTROL **Ajouter un serveur**] pour l’ajouter. Pour plus d’informations, consultez [Connexion des serveurs MCP](/help/chat/ui-guide.md#connect-mcp-servers) dans le guide de l’interface utilisateur de conversation de Coworker.
+1. (Conditionnel) Si l’intégration n’est pas répertoriée, sélectionnez [!UICONTROL **Ajouter un serveur**] pour l’ajouter.
+
+   Pour plus d’informations, voir [Connexion d’un serveur](/help/chat/ui-guide.md#server) dans le guide de prise en main.
 
 ## Se connecter à la vue de données ou à la suite de rapports appropriée
 
