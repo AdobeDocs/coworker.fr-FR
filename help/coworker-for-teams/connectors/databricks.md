@@ -1,17 +1,17 @@
 ---
-description: Adobe Coworker pour les équipes vous permet de connecter et d’interroger les tables du catalogue Unity dans votre espace de travail des briques de données pour créer et activer des audiences de campagne.
+description: Collègue pour les équipes vous permet de connecter et d’interroger les tables du catalogue Unity dans votre espace de travail des briques de données pour créer et activer des audiences de campagne.
 title: Connexion aux briques de données
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 ---
 # Connexion aux briques de données {#databricks}
 
-Adobe Coworker pour les équipes vous permet de connecter et d’interroger les tables du catalogue Unity dans votre espace de travail des briques de données pour créer et activer des audiences de campagne.
+Collègue pour les équipes vous permet de connecter et d’interroger les tables du catalogue Unity dans votre espace de travail des briques de données pour créer et activer des audiences de campagne.
 
 >[!PREREQUISITES]
 >
@@ -38,7 +38,7 @@ Adobe Coworker pour les équipes vous permet de connecter et d’interroger les 
 
    ![Mosaïque du connecteur Databricks avec le bouton Connexion](./assets/databricks-3.png)
 
-1. Saisissez votre hôte Workspace **&#x200B;**, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
+1. Saisissez votre hôte Workspace ****, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
 
    >[!NOTE]
    >

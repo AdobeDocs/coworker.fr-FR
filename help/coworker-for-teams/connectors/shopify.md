@@ -1,17 +1,17 @@
 ---
-description: Adobe Coworker pour les équipes vous permet de connecter votre compte Shopify pour extraire des clients et des segments.
+description: Coworker for Teams vous permet de connecter votre compte Shopify pour extraire des clients et des segments.
 title: Se connecter à Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # Se connecter à Shopify {#shopify}
 
-Adobe Coworker pour les équipes vous permet de connecter votre compte Shopify pour extraire des clients et des segments.
+Coworker for Teams vous permet de connecter votre compte Shopify pour extraire des clients et des segments.
 
 >[!PREREQUISITES]
 >

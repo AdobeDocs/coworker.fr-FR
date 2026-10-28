@@ -4,14 +4,14 @@ title: Connexion à Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 ---
 # Connexion à Salesforce {#salesforce}
 
-Adobe Coworker pour les équipes vous permet de connecter votre compte Salesforce pour accéder à vos prospects et contacts.
+Coworker for Teams vous permet de connecter votre compte Salesforce pour accéder à vos prospects et contacts.
 
 >[!PREREQUISITES]
 >
