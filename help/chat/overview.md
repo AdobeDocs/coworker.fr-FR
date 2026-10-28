@@ -4,9 +4,9 @@ title: Présentation du chat Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '721'
 ht-degree: 6%
 ---
 # À propos du chat des collègues {#overview}
@@ -45,7 +45,8 @@ Les applications CX Enterprise ci-dessous sont compatibles avec le Module de con
 * Real-Time CDP B2C Edition
 * Adobe Journey Optimizer B2C Edition
 * Édition B2C de Customer Journey Analytics
-* Adobe Target
+* Adobe Analytics
+* Adobe Target
 * AEM
 * Workfront
 * Marketo Engage
@@ -65,4 +66,4 @@ Le Chat Coworker est optimisé par les blocs de création Coworker. Les blocs de
 
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3495969?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}

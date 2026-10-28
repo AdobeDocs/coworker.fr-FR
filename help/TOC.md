@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
+source-git-commit: 3c7f31930e1c742d81ca0c9fee731f6edd6b6952
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '326'
 ht-degree: 15%
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 15%
         - [Planification de la mise en œuvre](./chat/use-cases/data-insights/implementation-guide.md)
         - [Générer une liste de contrôle d’implémentation](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Valider les données AA vers CJA lors de la mise à niveau](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Migration de projets AA vers CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [Validation de la mise en œuvre de Streaming Media](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Valider la qualité du jeu de données pour la création de rapports CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validation des données Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)

@@ -4,7 +4,7 @@ description: Configurez le Module de conversation Adobe CX Enterprise Coworker p
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -42,7 +42,7 @@ La discussion avec les collègues se connecte à Customer Journey Analytics et A
 
 1. Dans Collègue, sélectionnez [!UICONTROL **Personnalisations**] dans le rail de gauche.
 
-1. Sélectionnez l’onglet [!UICONTROL **Intégrations**], puis assurez-vous que [!UICONTROL **cja-mcp**] et [!UICONTROL **aa-mcp**] sont disponibles dans votre liste de serveurs connectés.
+1. Sélectionnez l’onglet [!UICONTROL **Intégrations**], puis assurez-vous que les [!UICONTROL **cja-mcp**] et [!UICONTROL **aa-mcp**] sont disponibles dans votre liste de serveurs connectés.
 
    Utilisez le champ de recherche pour filtrer rapidement la liste des intégrations disponibles.
 
@@ -335,7 +335,7 @@ Pour ouvrir une visualisation dans un nouveau projet Analysis Workspace :
 
 1. (Facultatif) Partagez votre projet Workspace avec toute personne de votre choix.
 
-   Pour plus d’informations sur Analysis Workspace, consultez [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/home) dans la documentation de Customer Journey Analytics, ou [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/home) dans la documentation d’Adobe Analytics.
+   Pour plus d’informations sur Analysis Workspace, consultez [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/home) dans la documentation de Customer Journey Analytics, ou [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) dans la documentation d’Adobe Analytics.
 
 ## Étapes suivantes
 
