@@ -22,7 +22,7 @@ Les compétences sont des playbooks réutilisables qui aident Adobe CX Coworker 
  
 Dans cette vidéo, vous découvrirez le fonctionnement des compétences, quand les utiliser et comment elles aident les équipes à adapter les pratiques répétables en matière d’expérience client.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502325/?captions=fre_fr&learn=on&enablevpops)
 
 Une compétence permet d’effectuer les opérations suivantes :
 

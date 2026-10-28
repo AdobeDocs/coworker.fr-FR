@@ -31,7 +31,7 @@ Plutôt que de créer manuellement des rapports et d’interpréter des mesures,
 
 Le résultat est un workflow répétable qui peut être exécuté à la demande avec une simple invite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502334/?captions=fre_fr&learn=on&enablevpops)
 
 ## Transformer l’analyse en compétence réutilisable
 
