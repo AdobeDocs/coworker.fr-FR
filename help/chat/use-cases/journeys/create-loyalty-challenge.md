@@ -10,13 +10,17 @@ jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 645cb0c837d9320c3a908b580b10397532900070
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '187'
 ht-degree: 1%
 ---
 
 # Adobe Journey Optimizer &amp; Coworker : créez un défi de fidélité et obtenez des informations
+
+>[!AVAILABILITY]
+>
+>Le plug-in de fidélité et ses compétences de gestion des défis ne sont disponibles que si votre organisation dispose des droits Adobe Journey Optimizer Loyalty. Si vous avez besoin d’un accès, contactez l’équipe de votre compte Adobe pour demander les droits nécessaires.
 
 Dans cette démonstration, vous découvrirez comment la fidélité Adobe Journey Optimizer (AJO) est utilisée dans Coworker pour simplifier et accélérer la gestion du programme de fidélité.
  
