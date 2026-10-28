@@ -109,7 +109,7 @@ Pour migrer un projet et ses composants associés, procédez comme suit :
    | Option | Description |
    | --- | --- |
    | [!UICONTROL **Un projet AA spécifique**] | Migrez un projet que vous nommez. Suivez les étapes restantes de cette section. |
-   | [!UICONTROL **Vérifier les mappages uniquement**] | Vérifiez comment les mesures et dimensions d’une suite de rapports sont mappées à une vue de données, sans migrer quoi que ce soit. Consultez la section [ Vérification des mappages de suites de rapports avant de migrer](#review-report-suite-mappings-before-you-migrate). |
+   | [!UICONTROL **Vérifier les mappages uniquement**] | Vérifiez comment les mesures et dimensions d’une suite de rapports sont mappées à une vue de données, sans migrer quoi que ce soit. Consultez la section [&#x200B; Vérification des mappages de suites de rapports avant de migrer](#review-report-suite-mappings-before-you-migrate). |
    | [!UICONTROL **Planifiez une mise à niveau complète**] | Obtenez un plan de bout en bout pour passer d’Adobe Analytics à Customer Journey Analytics. Voir [Planifier la mise en œuvre avec un collègue](/help/chat/use-cases/data-insights/implementation-guide.md). |
 
 1. (Facultatif) Répondez aux questions sur l’onglet [!UICONTROL **Source et cible**], puis sélectionnez [!UICONTROL **Suivant**].
@@ -200,7 +200,7 @@ Les migrations s’exécutent en arrière-plan, de sorte que le nouveau projet p
 
 1. Une fois la migration terminée, ouvrez le nouveau projet dans la liste de vos projets dans Customer Journey Analytics Workspace.
 
-1. (Facultatif) Transférez la propriété du projet à tout utilisateur dans Customer Journey Analytics. Pour plus d’informations, voir [ Transfert de ressources ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets).
+1. (Facultatif) Transférez la propriété du projet à tout utilisateur dans Customer Journey Analytics. Pour plus d’informations, voir [&#x200B; Transfert de ressources &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets).
 
 Une fois la migration terminée, Coworker peut suggérer un autre projet de migration.
 
