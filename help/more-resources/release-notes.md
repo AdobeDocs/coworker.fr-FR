@@ -15,7 +15,7 @@ Recherchez les notes de mise à jour d’Adobe CX Enterprise Coworker. Sélectio
 
 ## Notes de mise à jour de mes collègues {#coworker-release-notes}
 
-* [Notes de mise à jour de CX Enterprise Coworker &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest#cx-enterprise-coworker) : améliorations et correctifs des fonctionnalités de conversation avec les collègues, répertoriés dans les notes de mise à jour d’Experience Platform.
+* [Notes de mise à jour de CX Enterprise Coworker &#x200B;](https://experienceleague.adobe.com/fr/docs/experience-platform/release-notes/latest#cx-enterprise-coworker) : améliorations et correctifs des fonctionnalités de conversation avec les collègues, répertoriés dans les notes de mise à jour d’Experience Platform.
 * [[!UICONTROL Notes de mise à jour de Coworker for Teams] &#x200B;](../coworker-for-teams/release-notes.md) : améliorations et correctifs de fonctionnalités pour Coworker for Teams. Les versions sont diffusées en continu.
 
 ## Notes de mise à jour centrales de CX Enterprise {#cx-enterprise-release-notes}
