@@ -13,7 +13,7 @@ product_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Utilisez Adobe CX Enterprise Coworker pour créer des pages AEM Sites en décrivant ce que vous souhaitez en langage clair. Dans cette vidéo, Coworker ajoute une nouvelle promotion à la page d’accueil WKND, créée à partir d’un fragment de contenu visuel, à l’aide d’une invite de conversation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503865/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503863/?learn=on)
 
 >[!NOTE]
 >

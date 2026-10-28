@@ -1,5 +1,5 @@
 ---
-title: Prise En Main Du Chat Entre Collègues Dans Playground
+title: Prise en main du Chat avec un collègue dans Playground
 description: Découvrez comment utiliser le Module de conversation des collègues dans Playground pour découvrir comment les invites en langage naturel peuvent vous aider à apprendre, à étudier et à affiner votre travail.
 hide: true
 autotag-review: '2026-09-02T16:21:52.199Z'
@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%
