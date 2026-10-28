@@ -19,7 +19,7 @@ Coworker for Teams vous permet de connecter votre compte Marketo Engage pour ext
 >
 >* Un compte Marketo Engage actif
 >* Votre Marketo **URL d’instance**
->* Un [service personnalisé](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} créé pour les équipes de travail dans Marketo, avec son [ID client et son secret client](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"} à portée de main
+>* Un [service personnalisé](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} créé pour les équipes de travail dans Marketo, avec son [ID client et son secret client](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"} à portée de main
 
 ## Comment se connecter
 
