@@ -13,7 +13,7 @@ ht-degree: 16%
 
 [!DNL Coworker] est un coéquipier propulsé par l&#39;IA qui repense la nature du travail pour les organisations, les équipes et les individus. Il automatise l’expérience client et les workflows marketing afin que les organisations puissent se concentrer sur la réalisation des objectifs commerciaux et l’amélioration des résultats plutôt que sur la coordination des tâches. En tant que moteur agentique, Coworker adopte une approche innovante de l&#39;automatisation des processus métier. Il améliore les performances et la précision des modèles d’IA en rassemblant le contexte de l’entreprise, les données, l’intelligence artificielle, la collaboration et l’exécution des compétences des agents, avec une gouvernance et une supervision humaine intégrées.
 
-Coworker est conçu pour les organisations exécutant des workflows d’expérience client complexes et interfonctionnels. Il rassemble le Module de conversation des collègues et les Projets des collègues, ce qui permet aux utilisateurs de passer d’une tâche unique à un workflow complet à plusieurs équipes au sein de l’expérience des collègues. La gouvernance, les approbations et la supervision humaine sont intégrées dès le départ. En savoir plus sur [](https://business.adobe.com/products/cx-enterprise-coworker.html).
+Coworker est conçu pour les organisations exécutant des workflows d’expérience client complexes et interfonctionnels. Il rassemble le Module de conversation des collègues et les Projets des collègues, ce qui permet aux utilisateurs de passer d’une tâche unique à un workflow complet à plusieurs équipes au sein de l’expérience des collègues. La gouvernance, les approbations et la supervision humaine sont intégrées dès le départ. En savoir plus sur [&#128279;](https://business.adobe.com/products/cx-enterprise-coworker.html).
 
 ## Choisir une expérience
 
@@ -70,7 +70,7 @@ Pour connecter le Module de conversation des collègues à un outil ou service e
 
 Coworker for Teams est une application autonome destinée aux petites équipes marketing agiles qui souhaitent se mettre en place et exécuter des campagnes rapidement. Il ne fait pas partie d’une autre application CX Enterprise. Il est disponible en version d’essai gratuite jusqu’au 31 décembre 2026, en Amérique du Nord uniquement. Pour connaître les étapes d’accès, voir [Accès](./coworker-for-teams/overview.md#how-to-access).
 
-Coworker pour les équipes comprend des connecteurs pour [](./coworker-for-teams/connectors/marketo.md) et [HubSpot](./coworker-for-teams/connectors/hubspot.md).
+Coworker pour les équipes comprend des connecteurs pour [&#128279;](./coworker-for-teams/connectors/marketo.md) et [HubSpot](./coworker-for-teams/connectors/hubspot.md).
 
 Pour commencer, consultez les articles suivants :
 
