@@ -1,13 +1,13 @@
 ---
-description: Description
+description: Adobe Coworker pour les équipes vous permet de connecter votre compte Shopify pour extraire des clients et des segments.
 title: Se connecter à Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
+source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '243'
+ht-degree: 0%
 ---
 # Se connecter à Shopify {#shopify}
 
@@ -19,17 +19,17 @@ Adobe Coworker pour les équipes vous permet de connecter votre compte Shopify p
 >
 >* Un compte Shopify actif
 >* L’autorisation suivante dans Shopify : `read_customers`
->* L’URL de votre boutique Shopify et le jeton d’accès [API d’administration](https://shopify.dev/docs/apps/build/authentication-authorization) sont pratiques
+>* L’URL de votre boutique Shopify et le jeton d’accès [API d’administration](https://shopify.dev/docs/apps/build/authentication-authorization){target="_blank"} sont pratiques
 
 ## Comment se connecter
 
-1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Contexte** et sélectionnez **Connecteurs**.
+1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, cliquez sur **Contexte** et sélectionnez **Connecteurs**.
 
-   CAPTURE D’ÉCRAN
+   ![Volet de navigation de gauche Coworker for Teams avec le champ Contexte développé et les Connecteurs mis en surbrillance](./assets/shopify-1.png)
 
 1. Cliquez sur **Ajouter une intégration**.
 
-   CAPTURE D’ÉCRAN
+   ![Bouton Ajouter une intégration dans l’écran Connecteurs](./assets/shopify-2.png)
 
    >[!NOTE]
    >
@@ -37,11 +37,19 @@ Adobe Coworker pour les équipes vous permet de connecter votre compte Shopify p
 
 1. Dans la ligne Shopify, cliquez sur **Connecter**.
 
-   CAPTURE D’ÉCRAN
+   ![Vignette du connecteur Shopify avec le bouton Se connecter](./assets/shopify-3.png)
 
-1. Saisissez votre hôte Shopify **&#x200B;**, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
+1. Vérifiez l’autorisation requise, puis cliquez sur **Continuer**.
 
-   CAPTURE D’ÉCRAN
+   ![Écran de révision des autorisations requises Shopify avec le bouton Continuer](./assets/shopify-4.png)
+
+1. Saisissez votre **URL de magasin** Shopify et **Jeton d’accès de l’API d’administration**. Cliquez sur **Connecter**.
+
+>[!NOTE]
+>
+>Dans Shopify, obtenez votre jeton d’accès à l’API d’administration via **Paramètres** › **Applications** › **Développement d’applications** › **Création d’une application personnalisée héritée** › **Configuration de l’API d’administration** › **Ajout des portées requises**.
+
+![Boîte de dialogue Connecter Shopify aux champs pour URL de magasin et Jeton d’accès de l’API d’administration](./assets/shopify-5.png)
 
 Après la connexion, Shopify apparaît dans la liste Connecteurs .
 
@@ -49,12 +57,6 @@ Après la connexion, Shopify apparaît dans la liste Connecteurs .
 
 1. Dans l’écran Connecteurs, recherchez la mosaïque Shopify et cliquez sur **Gérer**.
 
-   CAPTURE D’ÉCRAN
-
-1. Cliquez sur **Déconnecter** (il n’est pas nécessaire de saisir à nouveau votre jeton d’accès personnel pour le moment).
-
-   CAPTURE D’ÉCRAN
+1. Cliquez sur **Déconnecter** (il n’est pas nécessaire de saisir à nouveau votre jeton d’accès à l’API d’administration pour le moment).
 
 1. Cliquez de nouveau sur **Déconnecter** pour confirmer.
-
-   CAPTURE D’ÉCRAN

@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '321'
 ht-degree: 15%
 ---
 
@@ -98,9 +98,11 @@ ht-degree: 15%
   - [Bonnes pratiques en matière de prompts](./coworker-for-teams/prompting-best-practices.md)
   - [Métadonnées C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Connecteurs {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - {hide-from-toc}[Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Point De Raccordement](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - {hide-from-toc}[Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Notes de mise à jour](./coworker-for-teams/release-notes.md)
 - Plus de ressources {#more-resources}
   - [Mises à jour de la documentation](./more-resources/documentation-updates.md)
