@@ -11,7 +11,7 @@ jira: KT-22080
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 L’audit de la manière dont vos audiences, parcours, jeux de données et destinations se connectent est généralement un exercice manuel qui prend du temps. Dans cette vidéo, découvrez comment Coworker peut générer une vue opérationnelle complète de votre environnement Adobe Experience Platform (AEP), le comparer aux bonnes pratiques du secteur et utiliser ces résultats pour créer une nouvelle audience, le tout dans une seule conversation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496869/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)

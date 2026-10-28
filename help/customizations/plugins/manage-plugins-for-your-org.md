@@ -42,7 +42,7 @@ topic_v2:
     internal-label: Customer experience
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 Découvrez comment les administrateurs peuvent étendre le Chat des collaborateurs Adobe avec des plug-ins approuvés, gérer les places de marché et régir l’accès aux compétences et aux outils connectés tout en conservant l’alignement avec les autorisations Adobe existantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504184/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
 
 ## Ce que vous apprendrez
  

@@ -4,7 +4,7 @@ description: Consultez les articles et vidéos nouveaux et mis à jour de la doc
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 **16 octobre 2026**
 
 * Nouveau : [création, simulation et analyse de parcours cross-canal](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
-* Nouveau : [aperçu de l&#39;analyse de Parcours &#x200B;](../chat/use-cases/data-insights/journey-analysis.md)
+* Nouveau : [aperçu de l&#39;analyse de Parcours ](../chat/use-cases/data-insights/journey-analysis.md)
 * Nouveau : [présentation de l’analyse des audiences et des segments](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Nouveau : [présentation des performances commerciales](../chat/use-cases/data-insights/business-performance.md)
 * Nouveau : [présentation des performances du contenu](../chat/use-cases/data-insights/content-performance.md)

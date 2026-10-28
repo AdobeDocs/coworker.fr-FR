@@ -10,7 +10,7 @@ jira: KT-22502
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Par exemple, pour créer un post-café Instagram, vous pouvez fournir une brève
 
 Coworker offre également une certaine flexibilité pour une personnalisation plus poussée. Vous pouvez modifier des ressources, créer des variations ou adapter du contenu à différents formats, tels que les histoires Instagram. Cette approche vous permet de vous concentrer sur vos objectifs pendant que Coworker gère les détails techniques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502710/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)

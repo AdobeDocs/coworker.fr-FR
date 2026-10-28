@@ -10,7 +10,7 @@ jira: KT-22770
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser Coworker pour configurer efficacement la gestion des ressources numériques (DAM) dans Adobe Experience Manager Assets. Cette vidéo décrit les étapes à suivre pour intégrer votre marque, en simplifiant le processus de configuration et en optimisant l’utilisation d’AEM Assets pour votre entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504160/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504157/?learn=on&enablevpops)
