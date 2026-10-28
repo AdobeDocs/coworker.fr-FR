@@ -3,11 +3,8 @@ title: Adobe CX Enterprise Coworker pour les plateformes d’IA
 description: En savoir plus sur Adobe CX Enterprise Coworker pour les plateformes d’IA. Explorez les plateformes prises en charge, les instructions de configuration et les exemples d’invites pour obtenir des informations marketing.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: cc2d5256952ce20cda57f7274a5dc1d879d4a6a0
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1011'
 ht-degree: 2%
@@ -68,7 +65,7 @@ Avant de commencer, vérifiez que vous avez accès à [!DNL Microsoft 365 Copilo
 Un administrateur doit effectuer ces étapes avant que les utilisateurs finaux puissent accéder à Coworker dans [!DNL Microsoft 365 Copilot].
 
 1. Dans la [!DNL Microsoft 365 admin center], vérifiez que vos paramètres client autorisent les applications et les agents créés par des éditeurs externes.
-1. Approuvez **&#x200B;**&#x200B;à la fois dans le [!DNL Microsoft 365 admin center] et dans le [!DNL Teams admin center]. En règle générale, vous pouvez trouver l’agent par le biais du [!DNL Microsoft Commercial Marketplace] ou de la liste **[!UICONTROL Applications intégrées]** de votre organisation.
+1. Approuvez **** à la fois dans le [!DNL Microsoft 365 admin center] et dans le [!DNL Teams admin center]. En règle générale, vous pouvez trouver l’agent par le biais du [!DNL Microsoft Commercial Marketplace] ou de la liste **[!UICONTROL Applications intégrées]** de votre organisation.
 1. Déployez l’agent auprès des utilisateurs finaux. Vous pouvez le déployer sur des utilisateurs ou groupes spécifiques, ou sur l’ensemble de votre organisation. Le nombre d’utilisateurs que vous activez n’a aucune incidence sur la configuration ou le coût.
 
 >[!NOTE]
@@ -83,7 +80,7 @@ Dans [!DNL Microsoft 365 Copilot], sélectionnez **[!UICONTROL Agents]**, puis s
 
 ![Copilote Microsoft 365 avec le menu Agents ouvert et Plus d&#39;agents mis en surbrillance.](./assets/ai-platforms/copilot/copilot-agents.png)
 
-Sélectionnez ensuite **&#x200B;**&#x200B;dans le catalogue d’agents.
+Sélectionnez ensuite **** dans le catalogue d’agents.
 
 ![Catalogue de l&#39;agent Copilot Microsoft 365 avec la liste Adobe CX Enterprise Coworker mise en surbrillance.](./assets/ai-platforms/copilot/copilot-select-agent.png)
 
@@ -107,7 +104,7 @@ Dans [!DNL ChatGPT], sélectionnez **[!UICONTROL Modules externes]**.
 
 ![Navigation ChatGPT avec les modules externes mis en surbrillance.](./assets/ai-platforms/chatgpt/gpt-plugins.png)
 
-Recherchez et sélectionnez ensuite **&#x200B;**&#x200B;dans le catalogue de modules externes.
+Recherchez et sélectionnez ensuite **** dans le catalogue de modules externes.
 
 ![Catalogue de modules externes ChatGPT avec la liste Adobe CX Enterprise Coworker mise en surbrillance dans les résultats de recherche pour Adobe.](./assets/ai-platforms/chatgpt/gpt-select-plugins.png)
 
@@ -135,7 +132,7 @@ Avant de commencer, vérifiez que vous avez accès à [!DNL Claude].
 
    ![Claude Personnaliser la page avec l’onglet Connecteurs en surbrillance et le catalogue Discover ouvert.](./assets/ai-platforms/claude/claude-connectors.png)
 
-1. Sélectionnez **&#x200B;**, puis sélectionnez **[!UICONTROL Se connecter à Claude]**.
+1. Sélectionnez ****, puis sélectionnez **[!UICONTROL Se connecter à Claude]**.
 
    ![Détails du connecteur Adobe CX Enterprise Coworker dans Claude avec Se connecter à Claude mis en surbrillance.](./assets/ai-platforms/claude/claude-connect-coworker.png)
 

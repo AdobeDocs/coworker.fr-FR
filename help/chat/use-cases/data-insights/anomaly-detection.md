@@ -8,11 +8,8 @@ doc-type: Tutorial
 jira: PLAT-313965
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 9f9ec676986d190bdc104aff848c7d4289bb13a6
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1657'
 ht-degree: 1%
@@ -100,8 +97,8 @@ Cet exemple regroupe les anomalies de flux par risque et suggère d’étudier l
 | --- | --- |
 | [!UICONTROL Lorsque (UTC)] | Heure ou fenêtre de l’événement en temps universel coordonné. |
 | [!UICONTROL Phase] | Étape de traitement affectée, telle que l’ingestion ou la destination. |
-| [!UICONTROL &#x200B; Flux &#x200B;] | Flux affecté, identifié par son nom ou son identifiant. |
-| [!UICONTROL Que s’est-il passé &#x200B;] | Modification détectée, telle qu’un pic ou une chute de volume. |
+| [!UICONTROL  Flux ] | Flux affecté, identifié par son nom ou son identifiant. |
+| [!UICONTROL Que s’est-il passé ] | Modification détectée, telle qu’un pic ou une chute de volume. |
 | [!UICONTROL Réel ou attendu] | Valeur observée par rapport à la ligne de base ou à l’intervalle attendu. |
 
 Examinez l’explication à côté du regroupement des risques. Pour les anomalies d’audience, une valeur élevée indique un écart important par rapport à la normale. Medium indique un départ clair mais modéré. Seules les anomalies High et Medium sont renvoyées.
@@ -176,7 +173,7 @@ Pour les tâches actuellement en échec, un résultat vide signifie qu’aucune 
 
 Continuez à enquêter avec les compétences de contrôle de l’intégrité ou utilisez les compétences d’alerte pour activer une alerte pour une ressource prise en charge. Ces actions utilisent des compétences distinctes, et non la détection des anomalies elle-même.
 
-Pour les workflows d’alerte associés, voir [&#x200B; Compétences en alerte client &#x200B;](/help/chat/use-cases/customer-alerts/customer-alerts.md).
+Pour les workflows d’alerte associés, voir [ Compétences en alerte client ](/help/chat/use-cases/customer-alerts/customer-alerts.md).
 
 <!-- Author review: Validate a complete public example response and the supported alert assets and setup before adding an alert procedure. -->
 

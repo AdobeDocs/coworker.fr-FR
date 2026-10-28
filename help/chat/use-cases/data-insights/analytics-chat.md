@@ -3,8 +3,8 @@ title: Prise en main de l’analyse des données avec le chat des collègues
 description: Configurez le Module de conversation Adobe CX Enterprise Coworker pour analyser les données de Customer Journey Analytics ou d’Adobe Analytics, puis suivez un exemple qui montre le taux de retour des clients.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -335,7 +335,7 @@ Pour ouvrir une visualisation dans un nouveau projet Analysis Workspace :
 
 1. (Facultatif) Partagez votre projet Workspace avec toute personne de votre choix.
 
-   Pour plus d’informations sur Analysis Workspace, consultez [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/home) dans la documentation de Customer Journey Analytics, ou [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/home) dans la documentation d’Adobe Analytics.
+   Pour plus d’informations sur Analysis Workspace, consultez [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/home) dans la documentation de Customer Journey Analytics, ou [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) dans la documentation d’Adobe Analytics.
 
 ## Étapes suivantes
 

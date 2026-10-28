@@ -3,8 +3,8 @@ title: Analysez les performances commerciales et les KPI avec le chat des collè
 description: Utilisez le Module de conversation des collègues pour expliquer pourquoi les mesures ont été déplacées, prévoir leur évolution, préparer des évaluations de performances et transformer des analyses de répétition en compétences réutilisables.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 2%

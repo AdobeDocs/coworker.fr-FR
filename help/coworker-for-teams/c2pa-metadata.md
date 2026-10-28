@@ -3,8 +3,8 @@ description: Découvrez comment Coworker for Teams joint et conserve automatique
 title: Métadonnées C2PA dans Coworker pour les équipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 27%
@@ -40,4 +40,4 @@ Coworker for Teams conserve les métadonnées C2PA associées aux ressources d�
 
 * [Transparence du contenu d’IA générative](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
 * [Instructions d’utilisation de l’IA générative d’Adobe Experience Cloud](https://www.adobe.com/fr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
-* [Mécanismes de sécurisation et limites](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
+* [Mécanismes de sécurisation et limites](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}

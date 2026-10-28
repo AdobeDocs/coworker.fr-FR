@@ -3,8 +3,8 @@ title: Implémentation et administration d’Analytics avec la discussion entre 
 description: Planifiez votre implémentation, suivez-la dans une liste de contrôle et validez les données Adobe Analytics, Customer Journey Analytics et Experience Platform avec le chat des collègues.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1235'
 ht-degree: 0%
@@ -23,7 +23,7 @@ La mise en œuvre et l’administration intelligentes font partie des nombreux d
 Les cas d’utilisation de cette page suivent un workflow en trois étapes facultatif. Vous pouvez utiliser n’importe quelle étape seule. Par exemple, vous pouvez valider vos données sans générer au préalable de plan ou de liste de contrôle.
 
 1. **Plan :** obtenez un plan de mise en œuvre ou de mise à niveau personnalisé et ordonné. Voir [Planifier la mise en œuvre avec un collègue](/help/chat/use-cases/data-insights/implementation-guide.md).
-1. **Implémenter :** transformer votre plan en liste de contrôle dans les projets de collègues que votre équipe peut affecter et suivre. Voir [&#x200B; Générer une liste de contrôle d’implémentation avec les projets de collègues](/help/chat/use-cases/data-insights/intelligent-checklist.md).
+1. **Implémenter :** transformer votre plan en liste de contrôle dans les projets de collègues que votre équipe peut affecter et suivre. Voir [ Générer une liste de contrôle d’implémentation avec les projets de collègues](/help/chat/use-cases/data-insights/intelligent-checklist.md).
 1. **Valider :** vérifiez que vos données sont correctement configurées et collectées. Voir les cas d’utilisation de validation dans le tableau [Cas d’utilisation](#use-cases).
 
 ## Conditions préalables

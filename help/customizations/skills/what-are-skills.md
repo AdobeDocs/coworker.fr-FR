@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-26T00:00:00.000Z
 jira: KT-22377
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Les compétences sont des playbooks réutilisables qui aident Adobe CX Coworker 
  
 Dans cette vidéo, vous découvrirez le fonctionnement des compétences, quand les utiliser et comment elles aident les équipes à adapter les pratiques répétables en matière d’expérience client.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502325/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
 
 Une compétence permet d’effectuer les opérations suivantes :
 
@@ -45,7 +45,6 @@ De nombreuses organisations effectuent les mêmes types de tâches à plusieurs 
 
 Les compétences aident les équipes à capturer et à réutiliser ces bonnes pratiques sans avoir à réexpliquer manuellement le processus à chaque fois.
  
-
 ## Compétences et gouvernance des données
 
 Les compétences ne stockent pas les données client.

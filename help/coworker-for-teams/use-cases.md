@@ -3,8 +3,8 @@ description: Parcourez les modèles d’invites réels pour les équipes d’Ado
 title: Collègue pour les cas d’utilisation d’équipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -159,4 +159,4 @@ Idéal pour : toute audience qui s’est arrêtée.
 
 ## Prêt pour la création ?
 
-Sélectionnez un cas d’utilisation ci-dessus, consultez [Création d’une campagne par e-mail] (./) pour obtenir une présentation détaillée et essayez-la.
+Sélectionnez un cas d’utilisation ci-dessus, consultez [Création d’une campagne par e-mail](./) pour obtenir une présentation détaillée et essayez-la.

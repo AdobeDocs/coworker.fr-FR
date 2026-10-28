@@ -10,8 +10,8 @@ last-substantial-update: 2026-08-10T00:00:00.000Z
 jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%
@@ -23,9 +23,9 @@ La création de parcours client nécessite généralement une configuration comp
  
 En automatisant le processus de configuration initial, les équipes peuvent passer moins de temps à créer des parcours à partir de zéro et plus de temps à affiner les expériences client et les résultats commerciaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496878/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Voir également
 
-- [&#128279;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans le chat des collègues.
+- [](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans le chat des collègues.
 - [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)

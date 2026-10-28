@@ -3,8 +3,8 @@ title: Poser des questions sur votre contenu avec le chat de vos collègues
 description: Demandez à vos collègues de discuter de votre contenu dans un langage simple, du général au spécifique, et obtenez des réponses Content Analytics précises sans l’expertise d’un analyste.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 3%
@@ -34,7 +34,7 @@ Pour poser des questions sur votre contenu, vous avez besoin de :
 
 * La conversation avec un collègue est connectée à vos vues de données Customer Journey Analytics. Voir [Commencer à analyser les données avec la discussion entre collègues](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Accès en affichage aux vues de données à analyser. La discussion avec un collègue hérite de vos autorisations de Customer Journey Analytics.
-* Une vue de données configurée pour Content Analytics. Voir [Configuration de Content Analytics](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/content-analytics/configuration/configuration) dans le guide de Customer Journey Analytics.
+* Une vue de données configurée pour Content Analytics. Voir [Configuration de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) dans le guide de Customer Journey Analytics.
 
 ## Poser une question sur le contenu
 
@@ -97,11 +97,11 @@ La compétence comprend la structure des données Content Analytics. Par exemple
 * **ID d’expérience :** lorsque vous posez des questions sur une page spécifique, les compétences sont filtrées par l’ID d’expérience de contenu qui identifie cette page.
 * **Attributs générés par l’IA :** chaque ressource et expérience est décrite par des attributs tels que le style, les couleurs, le ton et la stratégie de persuasion de la photographie. La compétence utilise ces attributs pour expliquer pourquoi le contenu fonctionne bien, et pas seulement quel contenu fonctionne bien.
 
-Pour obtenir la liste complète des composants, voir [Composants &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/content-analytics/report/components) dans le guide de Customer Journey Analytics.
+Pour obtenir la liste complète des composants, voir [Composants ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components) dans le guide de Customer Journey Analytics.
 
 ### Attribution
 
-La compétence choisit le modèle d’attribution qui correspond à votre question. Par exemple, la réponse à une question sur les clics sur une image est différente de celle sur le chiffre d’affaires généré par cette image. Pour plus d’informations, voir [Modèles d’attribution](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) dans le guide de Customer Journey Analytics.
+La compétence choisit le modèle d’attribution qui correspond à votre question. Par exemple, la réponse à une question sur les clics sur une image est différente de celle sur le chiffre d’affaires généré par cette image. Pour plus d’informations, voir [Modèles d’attribution](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) dans le guide de Customer Journey Analytics.
 
 ### Analyses et workflows courants
 
@@ -130,5 +130,5 @@ Les compétences sélectionnent les visualisations qui correspondent à votre qu
 ## Étapes suivantes
 
 * Pour d’autres cas d’utilisation de performances de contenu, voir [Présentation des performances du contenu](/help/chat/use-cases/data-insights/content-performance.md).
-* Pour en savoir plus sur Content Analytics, consultez la présentation de Content Analytics [&#128279;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/content-analytics/content-analytics) dans le guide de Customer Journey Analytics.
+* Pour en savoir plus sur Content Analytics, consultez la présentation de Content Analytics [](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/content-analytics/content-analytics) dans le guide de Customer Journey Analytics.
 * Pour obtenir un aperçu de l’analyse des données avec le Chat des collègues, y compris des bonnes pratiques, consultez [Analyse des données avec le Chat des collègues](/help/chat/use-cases/data-insights/analytics-overview.md).
