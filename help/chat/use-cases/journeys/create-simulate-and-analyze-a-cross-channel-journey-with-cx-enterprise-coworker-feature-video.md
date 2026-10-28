@@ -22,4 +22,4 @@ Découvrez comment CX Enterprise Coworker crée un parcours cross-canal à parti
 
 Dans cette vidéo, découvrez comment simuler les chemins d’embranchement du parcours et analyser les diagnostics pour identifier les problèmes de configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504708?captions=fre_fr&learn=on)
