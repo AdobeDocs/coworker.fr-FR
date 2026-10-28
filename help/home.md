@@ -4,9 +4,9 @@ description: Découvrez Adobe CX Enterprise Coworker, un coéquipier optimisé p
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '1213'
+source-wordcount: '1231'
 ht-degree: 16%
 ---
 # Présentation de CX Enterprise Coworker {#overview}
@@ -216,3 +216,9 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Plateformes d’IA
+
+Utilisez [!DNL Adobe CX Enterprise Coworker for AI Platforms] pour obtenir des informations marketing dans vos outils d’IA.
+
+* [Adobe CX Enterprise Coworker pour les plateformes d’IA](/help/ai-platforms.md)

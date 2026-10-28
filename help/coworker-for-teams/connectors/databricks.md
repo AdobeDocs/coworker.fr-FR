@@ -4,14 +4,14 @@ title: Connexion aux briques de données
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 2%
 ---
 # Connexion aux briques de données {#databricks}
 
-Adobe Coworker for Teams vous permet de connecter vos briques de données à ...........
+Adobe Coworker pour les équipes vous permet de connecter et d’interroger les tables du catalogue Unity dans votre espace de travail des briques de données pour créer et activer des audiences de campagne.
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ Adobe Coworker for Teams vous permet de connecter vos briques de données à ...
 
 ## Comment se connecter
 
-1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Personnaliser** et sélectionnez **Connecteurs**.
+1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Contexte** et sélectionnez **Connecteurs**.
 
    CAPTURE D’ÉCRAN
 
@@ -39,7 +39,7 @@ Adobe Coworker for Teams vous permet de connecter vos briques de données à ...
 
    CAPTURE D’ÉCRAN
 
-Après la connexion, les briques de données apparaissent dans la liste Connecteurs et ...................
+Après la connexion, les briques de données apparaissent dans la liste Connecteurs.
 
 **Pour vous déconnecter :**
 
