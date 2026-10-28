@@ -40,7 +40,7 @@ Connectez-vous à [!DNL Coworker] à l’aide de vos informations d’identifica
 
    * Dans [!DNL CX Enterprise], cliquez sur le menu du sélecteur d’applications ![icône du menu Produit](./assets/apps-icon.png), puis cliquez sur **[!DNL Coworker]**.
 
-   * Pour utiliser un lien direct, accédez à [](https://experience.adobe.com/#/coworker).
+   * Pour utiliser un lien direct, accédez à [&#128279;](https://experience.adobe.com/#/coworker).
 
 1. Pour démarrer une conversation, cliquez sur **[!UICONTROL Nouvelle conversation]** dans le rail de navigation.
 
@@ -103,7 +103,7 @@ Pour poser une question à Coworker :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]

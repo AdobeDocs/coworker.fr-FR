@@ -38,7 +38,7 @@ Collègue pour les équipes vous permet de connecter et d’interroger les table
 
    ![Mosaïque du connecteur Databricks avec le bouton Connexion](./assets/databricks-3.png)
 
-1. Saisissez votre hôte Workspace ****, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
+1. Saisissez votre hôte Workspace **&#x200B;**, **chemin d’accès de l’entrepôt de données SQL**, **Jeton d’accès personnel** et **Catalogues Unity**. Cliquez sur **Connecter**.
 
    >[!NOTE]
    >
