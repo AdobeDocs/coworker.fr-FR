@@ -5,7 +5,7 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
 source-wordcount: '2088'
 ht-degree: 3%
@@ -24,7 +24,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 |---|---|---|
 | Real-Time CDP | Disponible maintenant | Bientôt disponible |
 | Adobe Journey Optimizer | Disponible maintenant | Bientôt disponible |
-| Customer Journey Analytics | Disponible maintenant | Bientôt disponible |
+| Customer Journey Analytics | Disponible maintenant | Disponible maintenant |
 | Workfront | Disponible maintenant | Disponible maintenant |
 | Cible | Disponible maintenant | Disponible maintenant |
 | AEM | Disponible maintenant | Disponible maintenant |
@@ -34,19 +34,19 @@ Le tableau suivant indique où chaque expérience est disponible.
 
 Connectez-vous à [!DNL Coworker] à l’aide de vos informations d’identification Adobe.
 
-1. [Connectez-vous](https://experienceleague.adobe.com/fr/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) à CX Enterprise à l’aide de votre Adobe ID.
+1. [Connectez-vous](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) à CX Enterprise à l’aide de votre Adobe ID.
 
    Après vous être connecté, vous pouvez ouvrir le [!DNL Coworker] à partir du menu de l’application [!DNL CX Enterprise] ou à l’aide d’un lien direct :
 
    * Dans [!DNL CX Enterprise], cliquez sur le menu du sélecteur d’applications ![icône du menu Produit](./assets/apps-icon.png), puis cliquez sur **[!DNL Coworker]**.
 
-   * Pour utiliser un lien direct, accédez à [&#128279;](https://experience.adobe.com/#/coworker).
+   * Pour utiliser un lien direct, accédez à [](https://experience.adobe.com/#/coworker).
 
 1. Pour démarrer une conversation, cliquez sur **[!UICONTROL Nouvelle conversation]** dans le rail de navigation.
 
 ## En savoir plus sur les principes de base du chat des collègues
 
->[!VIDEO](https://video.tv.adobe.com/v/3498569?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Spécifier les préférences de vos collègues {#preferences}
 
@@ -57,7 +57,7 @@ En bas à gauche de l’interface, vous pouvez spécifier les options et les pr�
 | Paramètre / option | Cas d’usage |
 | --- | --- |
 | Nom et adresse e-mail du compte | Confirmez le compte Adobe avec lequel vous êtes connecté. |
-| **[!UICONTROL Notifications]** (icône représentant une cloche) | Affichez vos [notifications](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notifications]** (icône représentant une cloche) | Affichez vos [notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Thème]** | Basculez entre les thèmes Clair et Sombre. |
 | **[!UICONTROL Paramètres de l’application]** | Affichez les détails du compte et les paramètres de l’espace de travail. |
 | **[!UICONTROL Préférences]** | Ouvrez votre compte [préférences](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/account-preferences). La flèche indique que la page s’ouvre en dehors de Coworker. |
@@ -103,7 +103,7 @@ Pour poser une question à Coworker :
    * Sélectionnez une invite sous **[!UICONTROL Suggérée pour vous]**. La discussion avec les collègues l’ajoute à la zone de saisie, où vous pouvez le modifier.
    * Saisissez votre propre demande dans le champ **[!UICONTROL Demander à un collègue]**.
 
-1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [&#x200B; Ajouter du contexte et choisir un style de réponse](#input-options).
+1. (Facultatif) Ajoutez du contexte, choisissez la manière dont le Module de conversation des collègues répond ou dictez votre message. Voir [ Ajouter du contexte et choisir un style de réponse](#input-options).
 1. Cliquez sur **[!UICONTROL Envoyer]**.
 
 >[!TIP]
@@ -149,7 +149,7 @@ La vue des transcriptions contrôle la proportion du raisonnement et de l’acti
 1. Dans la barre d’outils de saisie, cliquez sur le contrôle d’affichage de transcription. Il affiche la vue actuelle, telle que **[!UICONTROL Normal]**.
 1. Cliquez sur une vue :
 
-   | Afficher | Ce que vous voyez |
+   | Voir | Ce que vous voyez |
    | --- | --- |
    | **[!UICONTROL Normal]** | Résumé des principales étapes de réflexion et de l’activité des outils. |
    | **[!UICONTROL Focus]** | Surtout la réponse. La conversation avec un collègue masque la plupart des étapes intermédiaires. |
