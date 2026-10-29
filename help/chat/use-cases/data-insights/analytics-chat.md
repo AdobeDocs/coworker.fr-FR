@@ -11,7 +11,7 @@ ht-degree: 4%
 ---
 # Commencer à analyser les données avec le chat des collègues
 
-Configurez le Module de conversation Adobe CX Enterprise Coworker pour analyser vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics, puis suivez un exemple pratique. Pour une présentation de ce que vous pouvez faire avec le Chat Coworker, y compris les cas d’utilisation, les compétences et les bonnes pratiques, voir [Analyse des données avec le Chat Coworker](/help/chat/use-cases/data-insights/analytics-overview.md). Pour utiliser plutôt Coworker dans un panneau de conversation dans Customer Journey Analytics Analysis Workspace, voir [Utiliser l’expérience intégrée au produit pour Coworker](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/coworker) dans le guide de Customer Journey Analytics.
+Configurez le Module de conversation Adobe CX Enterprise Coworker pour analyser vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics, puis suivez un exemple pratique. Pour une présentation de ce que vous pouvez faire avec le Chat Coworker, y compris les cas d’utilisation, les compétences et les bonnes pratiques, voir [Analyse des données avec le Chat Coworker](/help/chat/use-cases/data-insights/analytics-overview.md). Pour utiliser plutôt Coworker dans un panneau de conversation dans Customer Journey Analytics Analysis Workspace, voir [Utiliser l’expérience intégrée au produit pour Coworker](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/coworker) dans le guide de Customer Journey Analytics.
 
 Avant de commencer, découvrez l’interface et les options de personnalisation de la conversation avec un collègue, puis assurez-vous que ce dernier est connecté à Customer Journey Analytics ou Adobe Analytics et aux vues de données ou suites de rapports appropriées.
 
@@ -335,7 +335,7 @@ Pour ouvrir une visualisation dans un nouveau projet Analysis Workspace :
 
 1. (Facultatif) Partagez votre projet Workspace avec toute personne de votre choix.
 
-   Pour plus d’informations sur Analysis Workspace, consultez [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/home) dans la documentation de Customer Journey Analytics, ou [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) dans la documentation d’Adobe Analytics.
+   Pour plus d’informations sur Analysis Workspace, consultez [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/home) dans la documentation de Customer Journey Analytics, ou [Présentation d’Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/home) dans la documentation d’Adobe Analytics.
 
 ## Étapes suivantes
 
