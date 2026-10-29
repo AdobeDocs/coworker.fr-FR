@@ -116,5 +116,5 @@ Utilisez ces invites lorsque vous connaissez le nom de l&#39;audience.
 
 Après avoir lu ce guide, vous devriez comprendre comment utiliser les compétences Agentic de l’outil Sandbox pour découvrir, regrouper et migrer les objets pris en charge entre les sandbox.
 
-Pour plus d’informations sur l’outil Sandbox, consultez le [Guide de l’outil Sandbox](https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/ui/sandbox-tooling).
+Pour plus d’informations sur l’outil Sandbox, consultez le [Guide de l’outil Sandbox](https://experienceleague.adobe.com/fr/docs/experience-platform/sandbox/ui/sandbox-tooling).
 
