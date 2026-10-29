@@ -4,9 +4,9 @@ title: Workflows de conversation avec un collègue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
 workflow-type: tm+mt
-source-wordcount: '8566'
+source-wordcount: '8673'
 ht-degree: 7%
 ---
 # Workflows de conversation avec un collègue {#use-cases}
@@ -48,6 +48,8 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 | Gestion des environnements Cloud Manager | Création, configuration et maintenance des environnements AEM Cloud Manager, y compris les RDE, les variables d’environnement, les journaux et les sauvegardes | `cloud-manager-environment-management` | Adobe Experience Manager (AEM) | « Répertorier mes environnements pour les 12345 de programme »<br><br>« Réinitialiser mon RDE » |
 | Gestion des programmes Cloud Manager | Répertorier, inspecter et supprimer des programmes AEM Cloud Manager, y compris leurs pipelines et environnements | `cloud-manager-program-management` | Adobe Experience Manager (AEM) | « Répertorier mes programmes Cloud Manager« <br><br>« Obtenir des détails sur les 12345 du programme » |
 | Gestion des plannings de mise à jour des versions d’AEM | Configurez des heures creuses quotidiennes et des périodes sans mise à jour pour une maintenance automatisée et affichez les fenêtres de gel de code globales d’Adobe. | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | « Quelle est ma fenêtre d’heures creuses actuelle ? »<br><br>« Planifiez une période sans mise à jour du 20 décembre au 2 janvier » |
+| Inspection des workflows AEM | Vérifiez l’activité du workflow pour savoir ce qui est en cours d’exécution, suspendu ou en échec. Vérifiez votre boîte de réception de workflow et parcourez les modèles de workflow disponibles. | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | « Quels workflows sont en cours d’exécution ? »<br><br>« Des workflows en cours d’exécution ou suspendus affichent-ils des erreurs ? »<br><br>« Que contient ma boîte de réception de workflows ? » |
+| Explorer les informations sur Dispatcher | Analysez les performances du cache, recherchez les problèmes de trafic et de diffusion et passez en revue la configuration de sécurité de Dispatcher sans rechercher manuellement les fichiers journaux. | `aem-edge-dispatcher-operations` | Adobe Experience Manager (AEM) | « Résumez les performances du cache Dispatcher pour la production aujourd’hui et comparez-les à hier »<br><br>« Examinez les réponses 502 et 503 intermittentes en production entre 10 h et 11 h UTC aujourd’hui »<br><br> « Recherchez les failles de sécurité dans la configuration Dispatcher que j’ai partagée. » |
 
 **Informations connexes**
 
