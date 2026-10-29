@@ -19,7 +19,7 @@ ht-degree: 5%
 
 Utilisez les compétences Agentic de l’outil Sandbox pour déplacer les types d’objet pris en charge dans les environnements Adobe Experience Platform en décrivant ce que vous souhaitez accomplir en langage naturel. Grâce à Coworker, vous pouvez découvrir les métadonnées requises, identifier automatiquement les dépendances, créer des packages de migration et migrer des objets par le biais d’une expérience de conversation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496710?captions=fre_fr&learn=on)
 
 ## Conditions préalables {#prerequisites}
 
