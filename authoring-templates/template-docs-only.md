@@ -1,19 +1,13 @@
 ---
-# TEMPLATE ONLY. Delete this line and the "hide" line below when you copy this file.
 hide: true
-
-# TITLE AND DESCRIPTION
-# Title: title case, 60 characters or fewer.
-# Description: one or two sentences, about 150-160 characters. Start with "Learn about..." for concepts or "Learn how to..." for tasks.
 title: Titre de la page en Title Case
 description: Découvrez comment [effectuer la tâche] avec Adobe CX Enterprise Coworker. [Deuxième phrase qui invite à l'action.]
-
 role: User
 level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 951c534c04e9d431b4db71e3d999685629821194
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 1%

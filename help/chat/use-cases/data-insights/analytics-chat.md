@@ -3,8 +3,8 @@ title: Prise en main de l’analyse des données avec le chat des collègues
 description: Configurez le Module de conversation Adobe CX Enterprise Coworker pour analyser les données de Customer Journey Analytics ou d’Adobe Analytics, puis suivez un exemple qui montre le taux de retour des clients.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -42,7 +42,7 @@ La discussion avec les collègues se connecte à Customer Journey Analytics et A
 
 1. Dans Collègue, sélectionnez [!UICONTROL **Personnalisations**] dans le rail de gauche.
 
-1. Sélectionnez l’onglet [!UICONTROL **Intégrations**], puis assurez-vous que [!UICONTROL **cja-mcp**] et [!UICONTROL **aa-mcp**] sont disponibles dans votre liste de serveurs connectés.
+1. Sélectionnez l’onglet [!UICONTROL **Intégrations**], puis assurez-vous que les [!UICONTROL **cja-mcp**] et [!UICONTROL **aa-mcp**] sont disponibles dans votre liste de serveurs connectés.
 
    Utilisez le champ de recherche pour filtrer rapidement la liste des intégrations disponibles.
 

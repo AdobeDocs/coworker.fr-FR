@@ -1,27 +1,19 @@
 ---
-# TEMPLATE ONLY. Delete this line and the "hide" line below when you copy this file.
 hide: true
-
-# TITLE AND DESCRIPTION
-# Title: title case, 60 characters or fewer.
-# Description: one or two sentences, about 150-160 characters. Start with "Learn how to..." or "Learn about...", and end with what the viewer can do next.
 title: Titre de la page vidéo en majuscules
 description: Découvrez comment [effectuer la tâche] avec Adobe CX Enterprise Coworker. [Deuxième phrase qui invite à l'action.]
-
-# VIDEO FIELDS
 doc-type: Feature Video
 duration: 180
 last-substantial-update: 2026-01-01T00:00:00.000Z
 jira: KT-00000
-
 role: User
 level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '121'
 ht-degree: 0%
 ---
 <!--

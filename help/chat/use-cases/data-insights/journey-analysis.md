@@ -3,8 +3,8 @@ title: Analyse des Parcours clients et du taux de déperdition avec le chat des 
 description: Utilisez le Module de conversation des collaborateurs pour créer des entonnoirs, déterminer où les clients reviennent, diagnostiquer les baisses de conversion et comparer les parcours entre les périodes dans vos données Analytics.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 2%

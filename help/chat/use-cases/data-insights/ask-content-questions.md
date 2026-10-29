@@ -3,8 +3,8 @@ title: Poser des questions sur votre contenu avec le chat de vos collègues
 description: Demandez à vos collègues de discuter de votre contenu dans un langage simple, du général au spécifique, et obtenez des réponses Content Analytics précises sans l’expertise d’un analyste.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 3%

@@ -3,10 +3,10 @@ description: Parcourez les workflows et les exemples d’invites de conversation
 title: Workflows de conversation avec un collègue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
-source-wordcount: '8510'
+source-wordcount: '8566'
 ht-degree: 7%
 ---
 # Workflows de conversation avec un collègue {#use-cases}
@@ -119,6 +119,7 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 | Résumés exécutifs et résumés des KPI | Produisez des résumés de performances prêts pour les parties prenantes, des recommandations normatives et des résumés de diapositives. | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | « Donnez-moi un résumé analytique du mois dernier » <br> « Créez un aperçu du jeu de diapositives à partir des données de ce trimestre » |
 | [Analyse de contenu](data-insights/ask-content-questions.md) (disponibilité limitée) | Répondez à des questions générales ou spécifiques sur votre contenu à l’aide des données Content Analytics : quel contenu donner la priorité, quels attributs sont les moteurs de l’engagement et quelles ressources et expériences sont les moteurs du chiffre d’affaires | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | « Quel type de contenu dois-je privilégier ? » <br> « Qu’ont en commun nos images les plus performantes ? » |
 | [Validation des données AA ↔ CJA](data-insights/data-validation-aa-cja.md) | Comparez, auditez et réconciliez les données entre Adobe Analytics et Customer Journey Analytics, en particulier lors de la mise à niveau d’Adobe Analytics vers Customer Journey Analytics | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | « Comparer ma suite de rapports AA à ma vue de données CJA » <br> « Valider les pages vues entre AA et CJA » |
+| [Migration de projets AA vers CJA](data-insights/migrate-projects-aa-cja.md) (disponibilité limitée) | Validez, mappez et migrez des projets Adobe Analytics et leurs composants associés vers Customer Journey Analytics, puis vérifiez le statut de migration <!-- FLAG: No dedicated skill yet; the tools run through the aa-mcp integration. Update the Skills column when a skill is released. --> | Aucune <br/> (utilise l’intégration `aa-mcp`) | ADOBE ANALYTICS + CJA | « Je souhaite migrer les composants d’AA vers CJA » <br> « Quelles dimensions et mesures de ma suite de rapports ne sont pas mappées à ma vue de données ? » |
 | [Valider la qualité du jeu de données et du champ](data-insights/data-validation-aep.md) | Exécutez une validation statistique et sémantique sur les jeux de données et les champs Experience Platform pour détecter les problèmes de qualité des données après l’implémentation ou de manière continue <!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | « Valider le jeu de données Electronics Sample 1000 » <br> « Valider le champ d’e-mail dans le jeu de données Customers_2024 » |
 | Séries chronologiques opérationnelles et analyse causale | Interroger et analyser les données historiques de séries temporelles pour les audiences, les jeux de données et les parcours avec attribution causale | `operational-stats-causal-analysis` | Toutes les applications éligibles | « Afficher les tendances de la taille de l’audience au cours des 90 derniers jours » <br> « Pourquoi ma ligne de jeu de données a-t-elle connu un pic le 3 mars ? » |
 | Création de compétences CJA personnalisées | Transformer les modèles analytiques en compétences réutilisables et répétables qui persistent entre les sessions | `cja-skill-creator` | Customer Journey Analytics (CJA) | « Transformer cette analyse hebdomadaire du chiffre d’affaires en une compétence réutilisable » <br> « Enregistrer cette compétence en tant que compétence pour les rapports funnel mensuels » |

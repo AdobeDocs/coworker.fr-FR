@@ -3,26 +3,26 @@ description: Connectez votre compte HubSpot à Coworker pour les équipes à l�
 title: Se connecter à HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 # Se connecter à HubSpot {#hubspot}
 
-Adobe Coworker pour les équipes vous permet de connecter votre compte HubSpot pour extraire des listes de contacts.
+Un collègue pour les équipes vous permet de connecter votre compte HubSpot pour extraire des listes de contacts.
 
 >[!PREREQUISITES]
 >
 >Pour utiliser ce connecteur, vous devez d’abord disposer des éléments suivants :
 >
 >* Un compte HubSpot actif
->* Une [clé de service](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key) créée avec les portées suivantes ajoutées : `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`
+>* Une [clé de service](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"} créée avec les portées suivantes ajoutées : `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`
 
 ## Comment se connecter
 
-1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/), cliquez sur **Contexte** et sélectionnez **Connecteurs**.
+1. Sur la page d’accueil [Collègue pour les équipes](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, cliquez sur **Contexte** et sélectionnez **Connecteurs**.
 
    ![Menu Personnaliser développé dans la barre latérale avec l’option Connecteurs sélectionnée](./assets/hubspot-1.png)
 

@@ -3,8 +3,8 @@ title: Notes de mise à jour de CX Enterprise Coworker
 description: Recherchez les notes de mise à jour d’Adobe CX Enterprise Coworker, y compris Coworker pour les équipes et les notes de mise à jour d’Experience Cloud.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: fd69d41fa38c993fce1f32815f5badfd4714a270
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 11%

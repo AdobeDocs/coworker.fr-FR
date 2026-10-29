@@ -4,8 +4,8 @@ title: Prise en main du chat des collègues
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6f3146fafcfd39c349f43f961e065b86ed304421
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2088'
 ht-degree: 3%
@@ -149,7 +149,7 @@ La vue des transcriptions contrôle la proportion du raisonnement et de l’acti
 1. Dans la barre d’outils de saisie, cliquez sur le contrôle d’affichage de transcription. Il affiche la vue actuelle, telle que **[!UICONTROL Normal]**.
 1. Cliquez sur une vue :
 
-   | Voir | Ce que vous voyez |
+   | Afficher | Ce que vous voyez |
    | --- | --- |
    | **[!UICONTROL Normal]** | Résumé des principales étapes de réflexion et de l’activité des outils. |
    | **[!UICONTROL Focus]** | Surtout la réponse. La conversation avec un collègue masque la plupart des étapes intermédiaires. |

@@ -3,11 +3,8 @@ title: Adobe CX Enterprise Coworker pour les plateformes d’IA
 description: En savoir plus sur Adobe CX Enterprise Coworker pour les plateformes d’IA. Explorez les plateformes prises en charge, les instructions de configuration et les exemples d’invites pour obtenir des informations marketing.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: cc2d5256952ce20cda57f7274a5dc1d879d4a6a0
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1011'
 ht-degree: 2%

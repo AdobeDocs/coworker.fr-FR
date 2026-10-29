@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '326'
 ht-degree: 15%
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 15%
         - [Planification de la mise en œuvre](./chat/use-cases/data-insights/implementation-guide.md)
         - [Générer une liste de contrôle d’implémentation](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Valider les données AA vers CJA lors de la mise à niveau](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Migration de projets AA vers CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [Validation de la mise en œuvre de Streaming Media](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Valider la qualité du jeu de données pour la création de rapports CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validation des données Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
@@ -98,9 +99,11 @@ ht-degree: 15%
   - [Bonnes pratiques en matière de prompts](./coworker-for-teams/prompting-best-practices.md)
   - [Métadonnées C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Connecteurs {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Point De Raccordement](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Notes de mise à jour](./coworker-for-teams/release-notes.md)
 - Plus de ressources {#more-resources}
   - [Mises à jour de la documentation](./more-resources/documentation-updates.md)
