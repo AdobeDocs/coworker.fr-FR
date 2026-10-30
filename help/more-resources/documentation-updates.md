@@ -4,9 +4,9 @@ description: Consultez les articles et vidéos nouveaux et mis à jour de la doc
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # Mises à jour de la documentation {#documentation-updates}
@@ -15,7 +15,9 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 
 ## Octobre 2026 {#oct-2026}
 
-<!-- FLAG: Update the date to the publish date of the migration article. Rollout and GA dates are TBD. -->
+**29 octobre 2026**
+
+* Mise à jour : [Prise en main du chat des collègues](../chat/ui-guide.md). Le tableau de disponibilité indique désormais que l’expérience intégrée au produit est disponible dans Customer Journey Analytics.
 
 **28 octobre 2026**
 

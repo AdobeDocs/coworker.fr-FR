@@ -4,9 +4,9 @@ description: Utilisez le Module de conversation Adobe CX Enterprise Coworker pou
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
-source-wordcount: '1363'
+source-wordcount: '1438'
 ht-degree: 1%
 ---
 
@@ -23,6 +23,8 @@ La discussion avec les collègues peut effectuer une analyse avancée des donné
 La discussion avec les collègues hérite des autorisations de Customer Journey Analytics ou d’Adobe Analytics. Vous pouvez accéder uniquement aux vues de données, suites de rapports, dimensions, mesures et segments disponibles dans Analysis Workspace.
 
 Lorsque vous créez une visualisation dans le chat de vos collègues, vous pouvez l’ouvrir dans Analysis Workspace à tout moment pour une commande plus manuelle. Voir [Ouvrir une visualisation dans Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
+
+Dans Customer Journey Analytics, vous pouvez également utiliser Coworker dans un panneau de conversation dans Analysis Workspace. Dans ce cas, il utilise le projet ouvert comme contexte et peut ajouter des panneaux, des tableaux et des composants directement au projet. Pour décider laquelle utiliser, voir [Choisir entre un collègue dans Workspace et l’application Coworker](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/cja-workspace/coworker#choose-between-coworker-in-workspace-and-the-coworker-application) dans le guide de Customer Journey Analytics.
 
 ## Des réponses rapides et un travail approfondi
 
