@@ -25,4 +25,4 @@ En utilisant le langage naturel, les analystes et les spécialistes du marketing
 
 La vidéo utilise les données de Customer Journey Analytics, mais vous pouvez explorer les tendances et les causes profondes dans vos suites de rapports Adobe Analytics de la même manière. Collègue utilise les compétences `cja-root-cause-analysis` pour les vues de données et les compétences `aa-root-cause-analysis` pour les suites de rapports. Pour plus d’informations, voir [Analyse des données avec la conversation des collègues](/help/chat/use-cases/data-insights/analytics-overview.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496853/?captions=fre_fr&learn=on&enablevpops)
