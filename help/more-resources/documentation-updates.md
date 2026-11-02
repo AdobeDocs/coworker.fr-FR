@@ -4,16 +4,22 @@ description: Consultez les articles et vidéos nouveaux et mis à jour de la doc
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '295'
+ht-degree: 1%
 ---
 # Mises à jour de la documentation {#documentation-updates}
 
 Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis à jour dans la documentation de CX Enterprise Coworker. Les mises à jour sont répertoriées par mois, les plus récentes en premier. Pour les modifications du produit apportées à Coworker for Teams, consultez les notes de mise à jour de [Coworker for Teams](../coworker-for-teams/release-notes.md).
 
-## Octobre 2026 {#oct-2026}
+## Novembre 2026 {#nov-2026}
+
+**2 novembre 2026**
+
+* Mise à jour : [Présentation de ](../home.md) et [Prise en main du chat des collègues](../chat/ui-guide.md). Adobe Analytics est désormais répertorié comme une application où la conversation avec un collègue est disponible.
+
+## Octobre 2026 {#oct-2026}
 
 **29 octobre 2026**
 
@@ -38,7 +44,7 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 **16 octobre 2026**
 
 * Nouveau : [création, simulation et analyse de parcours cross-canal](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
-* Nouveau : [aperçu de l&#39;analyse de Parcours &#x200B;](../chat/use-cases/data-insights/journey-analysis.md)
+* Nouveau : [aperçu de l&#39;analyse de Parcours ](../chat/use-cases/data-insights/journey-analysis.md)
 * Nouveau : [présentation de l’analyse des audiences et des segments](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Nouveau : [présentation des performances commerciales](../chat/use-cases/data-insights/business-performance.md)
 * Nouveau : [présentation des performances du contenu](../chat/use-cases/data-insights/content-performance.md)
