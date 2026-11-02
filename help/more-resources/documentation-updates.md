@@ -17,7 +17,7 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 
 **2 novembre 2026**
 
-* Mise à jour : [Présentation de ](../home.md) et [Prise en main du chat des collègues](../chat/ui-guide.md). Adobe Analytics est désormais répertorié comme une application où la conversation avec un collègue est disponible.
+* Mise à jour : [Présentation de &#x200B;](../home.md) et [Prise en main du chat des collègues](../chat/ui-guide.md). Adobe Analytics est désormais répertorié comme une application où la conversation avec un collègue est disponible.
 
 ## Octobre 2026 {#oct-2026}
 
@@ -44,7 +44,7 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 **16 octobre 2026**
 
 * Nouveau : [création, simulation et analyse de parcours cross-canal](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
-* Nouveau : [aperçu de l&#39;analyse de Parcours ](../chat/use-cases/data-insights/journey-analysis.md)
+* Nouveau : [aperçu de l&#39;analyse de Parcours &#x200B;](../chat/use-cases/data-insights/journey-analysis.md)
 * Nouveau : [présentation de l’analyse des audiences et des segments](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Nouveau : [présentation des performances commerciales](../chat/use-cases/data-insights/business-performance.md)
 * Nouveau : [présentation des performances du contenu](../chat/use-cases/data-insights/content-performance.md)
