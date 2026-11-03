@@ -44,7 +44,7 @@ Les administrateurs rendent le connecteur [!DNL Google Ads] disponible pour tous
 
 1. Ouvrez **[!UICONTROL Personnalisations]**, sélectionnez **[!UICONTROL Organisation]**, puis **[!UICONTROL Connecteurs externes]**. Sur la carte **[!UICONTROL Google Ads]**, sélectionnez **[!UICONTROL Configurer]**.
 
-1. Dans la boîte de dialogue **[!UICONTROL Configurer Google Ads pour votre organisation]**, vérifiez que l’application **[!UICONTROL OAuth]** est **[!UICONTROL une application OAuth gérée par Adobe]**. Adobe fournit l’application [!DNL Google Ads], vous n’avez donc pas besoin de saisir les informations d’identification de l’application. Sous **[!UICONTROL Outils disponibles pour les utilisateurs]**, sélectionnez les outils dont votre entreprise a besoin. Pour plus d’informations, voir [ Outils disponibles ](#available-tools). Vérifiez le **[!UICONTROL Chaque personne se connecte séparément]** notez-le, puis sélectionnez **[!UICONTROL Enregistrer la connexion]**.
+1. Dans la boîte de dialogue **[!UICONTROL Configurer Google Ads pour votre organisation]**, vérifiez que l’application **[!UICONTROL OAuth]** est **[!UICONTROL une application OAuth gérée par Adobe]**. Adobe fournit l’application [!DNL Google Ads], vous n’avez donc pas besoin de saisir les informations d’identification de l’application. Sous **[!UICONTROL Outils disponibles pour les utilisateurs]**, sélectionnez les outils dont votre entreprise a besoin. Pour plus d’informations, voir [&#x200B; Outils disponibles &#x200B;](#available-tools). Vérifiez le **[!UICONTROL Chaque personne se connecte séparément]** notez-le, puis sélectionnez **[!UICONTROL Enregistrer la connexion]**.
 
    ![Configurez Google Ads pour la boîte de dialogue de votre organisation avec l’application OAuth gérée par Adobe, les trois outils sélectionnés et l’avis Chaque personne se connecte séparément.](./assets/google-ads/org-configure.png){width="500" zoomable="yes"}
 
@@ -85,7 +85,7 @@ Une fois qu’un administrateur a configuré le connecteur, chaque membre se con
 
    Les étapes et leur ordre dépendent de votre organisation et des politiques de compte.
 
-   ![Google Sélectionnez un écran de compte pour Adobe Experience Platform, répertoriant deux comptes supprimés et l’option Utiliser un autre compte ](./assets/google-ads/member-choose-account.png){width="500" zoomable="yes"}.
+   ![Google Sélectionnez un écran de compte pour Adobe Experience Platform, répertoriant deux comptes supprimés et l’option Utiliser un autre compte &#x200B;](./assets/google-ads/member-choose-account.png){width="500" zoomable="yes"}.
 
 1. Vérifiez le compte sélectionné et l’application que vous autorisez, puis sélectionnez **[!UICONTROL Continuer]**.
 
@@ -105,7 +105,7 @@ Une fois qu’un administrateur a configuré le connecteur, chaque membre se con
 
    Conservez la valeur par défaut de l’**[!UICONTROL identifiant de ressource]**, sauf indication contraire de votre administrateur. Ce champ définit l’audience du jeton envoyée lorsque vous vous connectez. Pour revenir à la valeur par défaut, effacez le champ et sélectionnez **[!UICONTROL Enregistrer l’identifiant de ressource]**.
 
-   ![détails du connecteur google-ads affichant un statut Connecté , un Signé en relation avec les boutons Se déconnecter et Actualiser , et le champ Identifiant de la ressource ](./assets/google-ads/member-connected.png){width="700" zoomable="yes"}.
+   ![détails du connecteur google-ads affichant un statut Connecté , un Signé en relation avec les boutons Se déconnecter et Actualiser , et le champ Identifiant de la ressource &#x200B;](./assets/google-ads/member-connected.png){width="700" zoomable="yes"}.
 
 1. Sélectionnez **[!UICONTROL Test]** pour vérifier que Coworker peut découvrir les outils de connecteur. Ensuite, passez en revue **[!UICONTROL Outils activés par votre administrateur]** pour afficher les outils que vous pouvez utiliser.
 
