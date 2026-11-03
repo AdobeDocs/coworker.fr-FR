@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer & Coworker - Générer des Parcours
-description: Découvrez comment créer des parcours Adobe Journey Optimizer à partir d’invites de langage naturel avec Coworker.
+description: Découvrez comment utiliser Coworker pour créer des brouillons de parcours Adobe Journey Optimizer à partir d’invites en langage clair.
 feature: AI Tools
 role: User
 level: Beginner
@@ -11,21 +11,19 @@ jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '101'
 ht-degree: 1%
 ---
 
 # Générer des parcours Adobe Journey Optimizer à partir d’invites de langage naturel
 
-La création de parcours client nécessite généralement une configuration complète des déclencheurs, des règles de minutage, des canaux, de la logique de décision et des étapes de messagerie. Dans cette vidéo, vous découvrirez comment Coworker simplifie le processus en transformant une description en langage clair en un parcours entièrement rédigé dans Adobe Journey Optimizer.
- 
-En automatisant le processus de configuration initial, les équipes peuvent passer moins de temps à créer des parcours à partir de zéro et plus de temps à affiner les expériences client et les résultats commerciaux.
+Décrivez le parcours que vous souhaitez créer et que vos collaborateurs le dessinent dans Adobe Journey Optimizer. Dans cette vidéo, découvrez comment Coworker configure les déclencheurs, le timing, les canaux et la logique de décision afin que vous puissiez vous concentrer sur la révision et l’affinement du parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496878/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Voir également
 
-- [&#128279;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans le chat des collègues.
+- [](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans le chat des collègues.
 - [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)
