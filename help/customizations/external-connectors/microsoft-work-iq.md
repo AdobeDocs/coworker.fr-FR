@@ -68,7 +68,7 @@ Les administrateurs rendent le connecteur [!DNL Microsoft Work IQ] disponible po
 
    ![Utilisez une option de secret existant sélectionnée, avec les secrets d’organisation sélectionnés pour l’ID client et le secret client.](./assets/microsoft-work-iq/org-existing-secret.png){width="500" zoomable="yes"}
 
-1. Sous **[!UICONTROL Outils disponibles pour les utilisateurs]**, sélectionnez les outils dont votre entreprise a besoin. Pour plus d’informations, voir [ Outils disponibles ](#available-tools). Vérifiez **[!UICONTROL Accès et autorisations]**, ce qui confirme que chaque personne se connecte séparément, puis sélectionnez **[!UICONTROL Enregistrer la configuration]**.
+1. Sous **[!UICONTROL Outils disponibles pour les utilisateurs]**, sélectionnez les outils dont votre entreprise a besoin. Pour plus d’informations, voir [&#x200B; Outils disponibles &#x200B;](#available-tools). Vérifiez **[!UICONTROL Accès et autorisations]**, ce qui confirme que chaque personne se connecte séparément, puis sélectionnez **[!UICONTROL Enregistrer la configuration]**.
 
    ![Boîte de dialogue Configuration complète de Microsoft Work IQ pour votre organisation , avec les outils en lecture seule sélectionnés sous Outils disponibles pour les utilisateurs, l’outil de tâche et les outils de modification des données effacés, et l’avertissement Chaque personne se connecte séparément sous Accès et autorisations.](./assets/microsoft-work-iq/org-tools.png){zoomable="yes"}
 
@@ -138,7 +138,7 @@ Une fois qu’un administrateur a configuré le connecteur, chaque membre se con
 
    Votre navigateur peut mémoriser plusieurs comptes, y compris des comptes d’autres clients. Le compte déjà connecté n’est pas toujours le bon. Choisissez le compte avec l’accès [!DNL Microsoft 365] dont vous avez besoin.
 
-   ![Microsoft Sélectionnez un écran de compte répertoriant deux comptes aux noms et adresses électroniques flous, ainsi que l’option Utiliser un autre compte ](./assets/microsoft-work-iq/member-pick-account.png){width="400" zoomable="yes"}.
+   ![Microsoft Sélectionnez un écran de compte répertoriant deux comptes aux noms et adresses électroniques flous, ainsi que l’option Utiliser un autre compte &#x200B;](./assets/microsoft-work-iq/member-pick-account.png){width="400" zoomable="yes"}.
 
 1. Suivez les étapes de connexion à votre compte, telles qu’un mot de passe, l’authentification unique (SSO), la connexion sans mot de passe, l’authentification multifacteur (MFA) ou d’autres vérifications.
 
