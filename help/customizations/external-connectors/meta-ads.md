@@ -47,7 +47,7 @@ Les administrateurs rendent le connecteur [!DNL Meta Ads] disponible pour tous l
 
 1. Dans la boîte de dialogue **[!UICONTROL Configurer Meta Ads pour votre organisation]**, passez en revue les **[!UICONTROL Détails de la connexion]**, puis sélectionnez une application **[!UICONTROL OAuth]** :
 
-   * **[!UICONTROL Application OAuth gérée par Adobe ]:** Adobe fournit l’application [!DNL Meta Ads], vous n’avez donc pas besoin de saisir les informations d’identification de l’application. Chaque membre se connecte toujours avec son propre compte [!DNL Facebook] après l’enregistrement.
+   * **[!UICONTROL Application OAuth gérée par Adobe &#x200B;]:** Adobe fournit l’application [!DNL Meta Ads], vous n’avez donc pas besoin de saisir les informations d’identification de l’application. Chaque membre se connecte toujours avec son propre compte [!DNL Facebook] après l’enregistrement.
 
      ![Boîte de dialogue Configurer Meta Ads pour votre organisation avec l’application OAuth gérée par Adobe sélectionnée et les groupes d’outils réduits.](./assets/meta-ads/org-managed-oauth.png){width="500" zoomable="yes"}
 
@@ -59,7 +59,7 @@ Les administrateurs rendent le connecteur [!DNL Meta Ads] disponible pour tous l
 
      L’indicateur **[!UICONTROL Découvert à partir du serveur MCP]** confirme que Coworker a trouvé le connecteur. Cela ne confirme pas que les informations d’identification de votre application sont valides ou que les membres se sont connectés. Pour actualiser la découverte, sélectionnez **[!UICONTROL Découvrir à nouveau]**.
 
-     ![Configurez Meta Ads pour la boîte de dialogue de votre organisation en sélectionnant Utiliser ma propre application OAuth . Cette boîte de dialogue affiche l’URL de redirection, les champs ID d’application Meta et Secret de l’application Meta, ainsi que l’indicateur Découvert à partir du serveur MCP ](./assets/meta-ads/org-own-oauth.png){width="500" zoomable="yes"}.
+     ![Configurez Meta Ads pour la boîte de dialogue de votre organisation en sélectionnant Utiliser ma propre application OAuth . Cette boîte de dialogue affiche l’URL de redirection, les champs ID d’application Meta et Secret de l’application Meta, ainsi que l’indicateur Découvert à partir du serveur MCP &#x200B;](./assets/meta-ads/org-own-oauth.png){width="500" zoomable="yes"}.
 
 1. Sous **[!UICONTROL Outils disponibles pour les utilisateurs]**, développez chaque groupe d’outils et sélectionnez les outils dont votre entreprise a besoin. Pour modifier tous les outils en même temps, utilisez **[!UICONTROL Tout sélectionner]** ou **[!UICONTROL Tout effacer]**. Pour plus d&#39;informations, voir [Groupes d&#39;outils](#tool-groups). Sélectionnez ensuite **[!UICONTROL Enregistrer la connexion]**.
 
@@ -86,8 +86,8 @@ Le connecteur [!DNL Meta Ads] organise ses outils en groupes suivants :
 
 * [!UICONTROL Rapports et informations]
 * [!UICONTROL Publicités, campagnes et audiences]
-* [!UICONTROL  Catalogues et produits ]
-* [!UICONTROL  Signaux et jeux de données ]
+* [!UICONTROL &#x200B; Catalogues et produits &#x200B;]
+* [!UICONTROL &#x200B; Signaux et jeux de données &#x200B;]
 * [!UICONTROL Tests A/B et études de portance]
 * [!UICONTROL Journaux d’activité]
 * [!UICONTROL Aide et dépannage]
