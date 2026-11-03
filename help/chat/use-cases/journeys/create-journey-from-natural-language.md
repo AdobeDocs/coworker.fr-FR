@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Décrivez le parcours que vous souhaitez créer et que vos collaborateurs le dessinent dans Adobe Journey Optimizer. Dans cette vidéo, découvrez comment Coworker configure les déclencheurs, le timing, les canaux et la logique de décision afin que vous puissiez vous concentrer sur la révision et l’affinement du parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496878/?captions=fre_fr&learn=on&enablevpops)
 
 ## Voir également
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Utilisez CX Enterprise Coworker pour créer un parcours cross-canal à partir d’une invite en langage clair et générer du contenu d’e-mail et de SMS. Dans cette vidéo, découvrez comment simuler les chemins d’embranchement et passer en revue les diagnostics pour identifier les problèmes de configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504708?captions=fre_fr&learn=on)
