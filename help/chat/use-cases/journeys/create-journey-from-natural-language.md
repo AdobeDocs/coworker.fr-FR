@@ -25,5 +25,5 @@ Décrivez le parcours que vous souhaitez créer et que vos collaborateurs le des
 
 ## Voir également
 
-- [](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans le chat des collègues.
+- [&#128279;](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans le chat des collègues.
 - [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)
