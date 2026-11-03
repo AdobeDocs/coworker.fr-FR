@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
+source-git-commit: 98a80334614960b3d700db7d85313c593c603e23
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '333'
 ht-degree: 15%
 ---
 
@@ -89,6 +89,9 @@ ht-degree: 15%
   - Plug-ins {#plugins}
     - [Que sont les plug-ins ?](./customizations/plugins/what-are-plugins.md)
     - [Gestion des modules externes pour votre organisation](./customizations/plugins/manage-plugins-for-your-org.md)
+  - Connecteurs externes {#external-connectors}
+    - {hide-from-toc}[Databricks Genie](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[Snowflake Cortex AI](./customizations/external-connectors/snowflake.md)
   - Mémoire {#memory}
     - [Qu&#39;est-ce que la mémoire ?](./customizations/memory/what-is-memory.md)
 - Collègue pour les équipes {#coworker-for-teams}
