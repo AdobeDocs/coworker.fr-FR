@@ -6,10 +6,10 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: ee1ca012668a5800e6a653d64700f7a732a111b0
+source-git-commit: ab937d4c1139a9f60cae1f8411f1797e04bf36be
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 16%
+source-wordcount: '340'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -92,6 +92,8 @@ ht-degree: 16%
   - Connecteurs externes {#external-connectors}
     - {hide-from-toc}[Databricks Genie](./customizations/external-connectors/databricks-genie.md)
     - {hide-from-toc}[Google Ads](./customizations/external-connectors/google-ads.md)
+    - {hide-from-toc}[Meta Ads](./customizations/external-connectors/meta-ads.md)
+    - {hide-from-toc}[Microsoft Work IQ](./customizations/external-connectors/microsoft-work-iq.md)
     - {hide-from-toc}[Snowflake Cortex AI](./customizations/external-connectors/snowflake.md)
   - Mémoire {#memory}
     - [Qu&#39;est-ce que la mémoire ?](./customizations/memory/what-is-memory.md)
