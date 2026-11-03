@@ -4,10 +4,10 @@ title: Workflows de conversation avec un collègue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
+source-git-commit: 4d788223a7746bda4bb2913f19712c6fc6ab6be7
 workflow-type: tm+mt
-source-wordcount: '8673'
-ht-degree: 7%
+source-wordcount: '8822'
+ht-degree: 8%
 ---
 # Workflows de conversation avec un collègue {#use-cases}
 
@@ -130,13 +130,17 @@ Le Module de conversation des collègues vous permet d’interroger, d’analyse
 
 | Workflow | Description | Compétences | Application | Exemples de prompt |
 | --- | --- | --- | --- | --- |
-| [Créer des audiences à partir du langage naturel](audiences/create-audience-from-natural-language.md) | Orchestrer la création d’audiences étape par étape avec l’approbation de l’utilisateur à chaque phase | `audience-creation-flow` | Real-Time CDP (RTCDP) | « Créer une audience d’utilisateurs ayant effectué des achats au cours des 30 derniers jours » <br> « Créer un segment pour les membres du programme de fidélité à forte valeur ajoutée en Californie » |
-| Création de définitions PQL | Assembler les définitions d’audience à partir des propriétés XDM, des événements comportementaux ou des audiences existantes ; prendre en charge l’agrégation et les fenêtres temporelles | `segment-definition-assembly` | Real-Time CDP (RTCDP) | « Création d’un PQL pour les personnes qui ont consulté plus de 3 produits, mais ne les ont pas achetés » <br> « Ajout d’une période de 7 jours à ma condition d’événement » |
-| Rechercher et trouver des audiences | Rechercher des audiences par identifiant, nom, recherche sémantique ; détecter les doublons et analyser les chevauchements | `audience-search` | Real-Time CDP (RTCDP) | « Rechercher toutes les audiences de fidélité » <br> « Existe-t-il un doublon de mon segment « Acheteurs de vacances » ? » |
-| Estimer la taille de l’audience | Estimer la portée du profil pour une expression PQL à l’aide de l’API de prévisualisation Adobe Experience Platform avec interrogation | `audience-size-estimate` | Real-Time CDP (RTCDP) | « Quelle est la taille de cette audience ? » <br> « Estimer la portée de cette expression PQL » |
-| Cascade de taille d’audience | Décomposer un PQL en sous-prédicats et montrer comment chaque condition contribue à la taille finale de l’audience | `audience-size-waterfall` | Real-Time CDP (RTCDP) | « Me montrer la cascade pour ce PQL » <br> « Décomposer la manière dont chaque condition réduit l’audience » |
-| Découvrir les champs XDM pour le ciblage | Rechercher des champs par nom, description ou valeur de données ; voir où ils vivent et où ils sont déjà utilisés | `field-discovery` | Real-Time CDP (RTCDP) | « Quels champs puis-je utiliser pour cibler les clients fidèles ? » <br> « Rechercher des champs liés à l’historique d’achat » |
-| Publier/enregistrer des audiences | Conservez les définitions d’audience dans Experience Platform Segmentation Service avec les conventions de nommage et les contrôles de conformité. | `audience-publish` | Real-Time CDP (RTCDP) | « Enregistrer ceci en tant que brouillon » <br> « Publier l’audience nommée « Acheteurs de ventes printanières » » |
+| [Créer des audiences à partir du langage naturel](audiences/create-audience-from-natural-language.md) | Orchestrez la création d’audiences étape par étape avec l’approbation de l’utilisateur à chaque phase. Cela inclut les audiences B2C et B2B. | `audience-creation-flow` | Real-Time CDP | « Créer une audience d’utilisateurs ayant effectué des achats au cours des 30 derniers jours » <br> « Créer un segment pour les membres du programme de fidélité à forte valeur ajoutée en Californie » |
+| Création de définitions PQL | Assembler les définitions d’audience à partir des propriétés XDM, des événements comportementaux ou des audiences existantes ; prendre en charge l’agrégation et les fenêtres temporelles | `segment-definition-assembly` | Real-Time CDP | « Création d’un PQL pour les personnes qui ont consulté plus de 3 produits, mais ne les ont pas achetés » <br> « Ajout d’une période de 7 jours à ma condition d’événement » |
+| Rechercher et trouver des audiences | Recherche d’audiences par identifiant, nom et recherche sémantique ; détection des doublons et analyse des chevauchements ; recherche d’audiences en fonction de la définition de segment | `audience-search` | Real-Time CDP | « Rechercher toutes les audiences de fidélité » <br> « Existe-t-il un doublon de mon audience « Acheteurs de vacances » ? » |
+| Estimer la taille de l’audience | Estimer la portée du profil pour une expression PQL à l’aide de l’API de prévisualisation Adobe Experience Platform avec interrogation | `audience-size-estimate` | Real-Time CDP | « Quelle est la taille de cette audience ? » <br> « Estimer la portée de cette expression PQL » |
+| Cascade de taille d’audience | Décomposer un PQL en sous-prédicats et montrer comment chaque condition contribue à la taille finale de l’audience | `audience-size-waterfall` | Real-Time CDP | « Me montrer la cascade pour ce PQL » <br> « Décomposer la manière dont chaque condition réduit l’audience » |
+| Découvrir les champs XDM pour le ciblage | Rechercher des champs par nom, description ou valeur de données ; voir où ils vivent et où ils sont déjà utilisés | `field-discovery` | Real-Time CDP | « Quels champs puis-je utiliser pour cibler les clients fidèles ? » <br> « Rechercher des champs liés à l’historique d’achat » |
+| Publier/enregistrer des audiences | Conservez les définitions d’audience dans Experience Platform Segmentation Service avec les conventions de nommage et les contrôles de conformité. | `audience-publish` | Real-Time CDP | « Enregistrer ceci en tant que brouillon » <br> « Publier l’audience nommée « Acheteurs de ventes printanières » » |
+| Répartition de l’inventaire des audiences | Récupère des informations sur l’inventaire des audiences du sandbox actuel sous forme de tableau de bord, y compris des détails tels que le nombre total d’audiences, le cycle de vie des audiences, les méthodes d’évaluation des audiences et les tendances de création. | `audience-inventory-distribution` | Real-Time CDP | « Donnez-moi un aperçu de nos audiences » <br> « Qui crée le plus d’audiences ? » |
+| État de l’inventaire des audiences | Vérifie l’intégrité de l’inventaire des audiences du sandbox actuel, y compris le taux d’activation, les audiences obsolètes, les audiences en double et les candidats nettoyés. | `audience-inventory-health` | Real-Time CDP | « Dans quelle mesure notre inventaire d’audiences est-il sain ? » <br> « Quelles audiences sont obsolètes ? » |
+| Parenté de l’audience | Affiche la parenté de l’audience, en affichant les utilisations en amont et en aval de l’audience. | `audience-lineage` | Real-Time CDP | « Recherchez les audiences utilisées dans les audiences en aval et affichez-moi la parenté complète de cette audience. » |
+| Détecter les audiences en double | Recherche des audiences dupliquées dans votre organisation. | `detect-duplicate-audience` | Real-Time CDP | « Rechercher les audiences dupliquées dans mon organisation. » |
 
 ## Parcours
 

@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
+source-git-commit: a91f0d04b8f4c79ad9c019d03f479542fc1db3ec
 workflow-type: tm+mt
-source-wordcount: '2088'
+source-wordcount: '2094'
 ht-degree: 3%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -25,6 +25,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 | Real-Time CDP | Disponible maintenant | Bientôt disponible |
 | Adobe Journey Optimizer | Disponible maintenant | Bientôt disponible |
 | Customer Journey Analytics | Disponible maintenant | Disponible maintenant |
+| Adobe Analytics | Disponible maintenant | Bientôt disponible |
 | Workfront | Disponible maintenant | Disponible maintenant |
 | Cible | Disponible maintenant | Disponible maintenant |
 | AEM | Disponible maintenant | Disponible maintenant |
@@ -149,7 +150,7 @@ La vue des transcriptions contrôle la proportion du raisonnement et de l’acti
 1. Dans la barre d’outils de saisie, cliquez sur le contrôle d’affichage de transcription. Il affiche la vue actuelle, telle que **[!UICONTROL Normal]**.
 1. Cliquez sur une vue :
 
-   | Voir | Ce que vous voyez |
+   | Afficher | Ce que vous voyez |
    | --- | --- |
    | **[!UICONTROL Normal]** | Résumé des principales étapes de réflexion et de l’activité des outils. |
    | **[!UICONTROL Focus]** | Surtout la réponse. La conversation avec un collègue masque la plupart des étapes intermédiaires. |

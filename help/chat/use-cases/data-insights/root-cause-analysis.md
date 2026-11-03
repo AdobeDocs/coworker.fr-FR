@@ -11,9 +11,9 @@ jira: KT-22082
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '155'
 ht-degree: 0%
 ---
 
@@ -22,5 +22,7 @@ ht-degree: 0%
 Comprendre pourquoi les mesures changent nécessite souvent de parcourir plusieurs rapports, de créer des requêtes complexes et d’analyser manuellement les tendances dans les jeux de données. Dans cette vidéo, vous découvrirez comment Adobe CX Enterprise Coworker simplifie ce processus en combinant l’IA conversationnelle avec Customer Journey Analytics (CJA).
  
 En utilisant le langage naturel, les analystes et les spécialistes du marketing peuvent poser des questions sur leurs données, recevoir des résultats visualisés, identifier des tendances significatives et découvrir les facteurs de performance, le tout dans une seule conversation.
+
+La vidéo utilise les données de Customer Journey Analytics, mais vous pouvez explorer les tendances et les causes profondes dans vos suites de rapports Adobe Analytics de la même manière. Collègue utilise les compétences `cja-root-cause-analysis` pour les vues de données et les compétences `aa-root-cause-analysis` pour les suites de rapports. Pour plus d’informations, voir [Analyse des données avec la conversation des collègues](/help/chat/use-cases/data-insights/analytics-overview.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496853/?captions=fre_fr&learn=on&enablevpops)
