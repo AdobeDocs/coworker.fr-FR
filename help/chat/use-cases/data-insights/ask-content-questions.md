@@ -4,19 +4,15 @@ description: Demandez à vos collègues de discuter de votre contenu dans un lan
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1042'
 ht-degree: 3%
 ---
 
 # Poser des questions sur votre contenu
 
-<!-- FLAG: Confirm with the PM: (1) availability (GA, beta, or experimental) and whether this page needs an AVAILABILITY note or `hide: true` until launch, and (2) any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
-
->[!AVAILABILITY]
->
->La fonctionnalité décrite dans cet article se trouve dans la phase de test limité de la publication et peut ne pas encore être disponible dans votre environnement. Cette note sera supprimée lorsque la fonctionnalité sera disponible.
+<!-- FLAG: Confirm with the PM any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
 
 Utilisez la discussion Adobe CX Enterprise Coworker pour obtenir des réponses précises sur votre contenu à partir d’Adobe Content Analytics. Posez une question spécifique, par exemple « Quelles images ont généré le plus de chiffre d’affaires au dernier trimestre ? », ou une question générale, par exemple « Quel type de contenu dois-je privilégier ? ». Coworker transforme votre question en une analyse solide.
 
