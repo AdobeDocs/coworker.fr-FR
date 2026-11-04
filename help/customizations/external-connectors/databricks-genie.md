@@ -76,7 +76,7 @@ Les administrateurs rendent le connecteur [!DNL Databricks Genie] disponible pou
 
 1. Sous **[!UICONTROL Qui se connecte ?]**, sélectionnez une option de connexion, puis renseignez ses paramètres.
 
-   ![Boîte de dialogue Connecter le génie des briques de données avec le principal de service de l’organisation sélectionné, affichant les champs Identifiant du client principal de service et Secret du client principal de service , ainsi que la section Outils disponibles pour les utilisateurs ](./assets/databricks-genie/org-service-principal.png){width="500" zoomable="yes"}.
+   ![Boîte de dialogue Connecter le génie des briques de données avec le principal de service de l’organisation sélectionné, affichant les champs Identifiant du client principal de service et Secret du client principal de service , ainsi que la section Outils disponibles pour les utilisateurs &#x200B;](./assets/databricks-genie/org-service-principal.png){width="500" zoomable="yes"}.
 
    * **[!UICONTROL Principal de service de l’organisation] :** les requêtes utilisent les autorisations du principal de service. Utilisez cette option pour un accès automatisé ou géré de manière centralisée. Les membres ne se connectent pas à [!DNL Databricks].
 
