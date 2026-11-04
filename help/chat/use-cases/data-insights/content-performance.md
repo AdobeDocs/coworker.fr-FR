@@ -28,7 +28,7 @@ Pour utiliser les cas pratiques de cette page, vous avez besoin des éléments s
 
 * La conversation avec un collègue est connectée à vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics. Voir [Commencer à analyser les données avec la discussion entre collègues](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Accès en affichage aux vues de données ou aux suites de rapports à analyser. La discussion avec les collègues hérite de vos autorisations de Customer Journey Analytics ou d’Adobe Analytics.
-* Une vue de données configurée pour Content Analytics. Voir [Configuration de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) dans le guide de Customer Journey Analytics.
+* Une vue de données configurée pour Content Analytics. Voir [Configuration de Content Analytics](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/content-analytics/configuration/configuration) dans le guide de Customer Journey Analytics.
 
 ## Cas d’utilisation
 
