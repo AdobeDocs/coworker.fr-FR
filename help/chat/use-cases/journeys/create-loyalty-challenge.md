@@ -1,6 +1,6 @@
 ---
 title: Créer des défis et des informations en matière de fidélité
-description: Découvrez comment Coworker contribue à créer et à gérer des défis de fidélité, à automatiser la sélection d’audiences et à obtenir des informations sur la surface.
+description: Découvrez comment utiliser CX Enterprise Coworker pour créer et lancer des défis de fidélité dans Adobe Journey Optimizer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,9 +10,9 @@ jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '163'
 ht-degree: 1%
 ---
 
@@ -22,9 +22,7 @@ ht-degree: 1%
 >
 >Le plug-in de fidélité et ses compétences de gestion des défis ne sont disponibles que si votre organisation dispose des droits Adobe Journey Optimizer Loyalty. Si vous avez besoin d’un accès, contactez l’équipe de votre compte Adobe pour demander les droits nécessaires.
 
-Dans cette démonstration, vous découvrirez comment la fidélité Adobe Journey Optimizer (AJO) est utilisée dans Coworker pour simplifier et accélérer la gestion du programme de fidélité.
- 
-La vidéo présente le plug-in de fidélité et ses compétences de gestion des défis, une fonctionnalité optimisée par l’IA qui aide les spécialistes marketing à créer, modifier et gérer les défis de fidélité à l’aide du langage naturel au lieu de configurer manuellement chaque paramètre de l’interface utilisateur.
+Utilisez des invites en langage clair pour créer, configurer et lancer les défis de fidélité avec CX Enterprise Coworker. Dans cette vidéo, découvrez comment définir des audiences, des récompenses et des plannings, automatiser la configuration des parcours et passer en revue les informations sur les défis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496540/?captions=fre_fr&learn=on&enablevpops)
 

@@ -4,9 +4,9 @@ description: Consultez les articles et vidéos nouveaux et mis à jour de la doc
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '345'
 ht-degree: 1%
 ---
 # Mises à jour de la documentation {#documentation-updates}
@@ -15,9 +15,14 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 
 ## Novembre 2026 {#nov-2026}
 
+**3 novembre 2026**
+
+* Nouveau : [Simuler un parcours à l’aide d’un collègue](../chat/use-cases/journeys/simulate-journey-using-coworker.md)
+
 **2 novembre 2026**
 
 * Mise à jour : [Présentation de &#x200B;](../home.md) et [Prise en main du chat des collègues](../chat/ui-guide.md). Adobe Analytics est désormais répertorié comme une application où la conversation avec un collègue est disponible.
+* Mise à jour : [workflows de conversation avec un collègue](../chat/use-cases/workflows.md). L’article répertorie désormais les compétences permettant d’inspecter les workflows AEM et d’explorer les informations Dispatcher. Il ajoute également des compétences d’audience pour la distribution des stocks, l’intégrité des stocks, la parenté et la détection des doublons, et note que la création d’audience prend en charge les audiences B2C et B2B.
 
 ## Octobre 2026 {#oct-2026}
 

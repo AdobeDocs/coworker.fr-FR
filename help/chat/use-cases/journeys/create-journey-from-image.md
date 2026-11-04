@@ -1,6 +1,6 @@
 ---
 title: Création d’un Parcours à partir d’une image
-description: Découvrez comment CX Enterprise Coworker transforme une image de diagramme de flux, telle qu’une diapositive de votre équipe marketing, en un parcours prêt à être modifié dans Adobe Journey Optimizer (AJO).
+description: Découvrez comment utiliser CX Enterprise Coworker pour créer un brouillon de parcours Adobe Journey Optimizer à partir d’une image de diagramme de flux.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -28,14 +28,14 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '71'
 ht-degree: 0%
 ---
 
 # Création d’un parcours à partir d’une image
 
-Découvrez comment CX Enterprise Coworker transforme une image de diagramme de flux, telle qu’une diapositive PowerPoint de votre équipe marketing, en un parcours prêt à être modifié dans Adobe Journey Optimizer. Vous découvrirez comment Coworker extrait une invite de l’image, vous permet de la réviser et de l’ajuster, demande l’événement déclencheur et enregistre le résultat en tant que brouillon correspondant à la conception d’origine.
+Chargez une image de diagramme de flux, telle qu’une diapositive PowerPoint, dans CX Enterprise Coworker. Dans cette vidéo, découvrez comment examiner l’invite extraite de l’image, spécifier l’événement déclencheur et enregistrer un brouillon de parcours modifiable dans Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504867/?captions=fre_fr&learn=on&enablevpops)
