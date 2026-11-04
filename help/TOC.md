@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: b2e604ea0f3c6f67ebb08267fe9e9dbdbb96f195
+source-git-commit: 93d1e4c5d535f8dcbe512d939b56e3cd93e98bcc
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '350'
 ht-degree: 15%
 ---
 
@@ -58,6 +58,7 @@ ht-degree: 15%
       - [Création d’un parcours à l’aide du langage naturel](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Création d’un parcours à partir d’une image](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Simuler un parcours à l’aide de Coworker](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Comparer des versions de parcours à l’aide de Coworker](./chat/use-cases/journeys/journey-version-comparison-feature-video.md)
       - [Création, simulation et analyse de parcours cross-canal](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Fidélité {#loyalty}
       - [Créez un défi de fidélité et obtenez des informations](./chat/use-cases/journeys/create-loyalty-challenge.md)
