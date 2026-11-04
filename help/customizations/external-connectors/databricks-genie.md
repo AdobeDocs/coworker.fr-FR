@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: d0099a2e082b15db77876039604d4d37e77255e2
+source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1577'
 ht-degree: 1%
 ---
 
@@ -66,8 +66,6 @@ Les administrateurs rendent le connecteur [!DNL Databricks Genie] disponible pou
 
 1. Ouvrez **[!UICONTROL Personnalisations]**, sélectionnez **[!UICONTROL Organisation]**, puis **[!UICONTROL Connecteurs externes]**. Sur la carte **[!UICONTROL Databricks Genie]**, sélectionnez **[!UICONTROL Configurer]**.
 
-   ![Page des connecteurs externes d’organisation affichant la carte Génie des briques de données avec le statut Non configuré](./assets/databricks-genie/org-connectors.png){width="700" zoomable="yes"}.
-
 1. Dans la boîte de dialogue **[!UICONTROL Connecter le génie des briques de données]**, saisissez l’URL de votre espace de travail ou l’URL MCP [!DNL Genie One] dans **[!UICONTROL URL du serveur]**. Un collègue enregistre la source au format suivant :
 
    ```text
@@ -78,7 +76,7 @@ Les administrateurs rendent le connecteur [!DNL Databricks Genie] disponible pou
 
 1. Sous **[!UICONTROL Qui se connecte ?]**, sélectionnez une option de connexion, puis renseignez ses paramètres.
 
-   ![Boîte de dialogue Connecter le génie des briques de données avec le principal de service de l’organisation sélectionné, affichant les champs Identifiant du client principal de service et Secret du client principal de service , ainsi que la section Outils disponibles pour les utilisateurs &#x200B;](./assets/databricks-genie/org-service-principal.png){width="500" zoomable="yes"}.
+   ![Boîte de dialogue Connecter le génie des briques de données avec le principal de service de l’organisation sélectionné, affichant les champs Identifiant du client principal de service et Secret du client principal de service , ainsi que la section Outils disponibles pour les utilisateurs ](./assets/databricks-genie/org-service-principal.png){width="500" zoomable="yes"}.
 
    * **[!UICONTROL Principal de service de l’organisation] :** les requêtes utilisent les autorisations du principal de service. Utilisez cette option pour un accès automatisé ou géré de manière centralisée. Les membres ne se connectent pas à [!DNL Databricks].
 
@@ -118,8 +116,6 @@ Les administrateurs rendent le connecteur [!DNL Databricks Genie] disponible pou
 
 1. Vérifiez **[!UICONTROL Accès et autorisations]**, puis sélectionnez **[!UICONTROL Enregistrer la connexion]**. La carte **[!UICONTROL Databricks Genie]** affiche **[!UICONTROL Configuration enregistrée]**.
 
-   ![Page des connecteurs externes d’organisation affichant la carte Génie des briques de données avec un statut d’enregistrement Configuration et un bouton Afficher la configuration &#x200B;](./assets/databricks-genie/org-saved.png){width="700" zoomable="yes"}.
-
    Sélectionnez **[!UICONTROL Afficher la configuration]** pour consulter l’espace de travail, l’authentification, les outils activés et le délai d’expiration de l’outil. Sélectionnez ensuite **[!UICONTROL Test]** pour vérifier la connexion.
 
    ![Détails du connecteur de briques de données enregistrés affichant la source, l’authentification, la stratégie de l’outil avec quatre outils autorisés, le délai d’expiration de l’outil et la liste des outils.](./assets/databricks-genie/org-details.png){width="700" zoomable="yes"}
@@ -134,11 +130,9 @@ Une fois qu’un administrateur a configuré le connecteur, ouvrez-le à partir 
 
 1. Recherchez la carte **[!UICONTROL Databricks Genie]**. Si votre organisation n’a pas configuré le connecteur, la carte indique **[!UICONTROL Non configuré]** et **[!UICONTROL Pas encore disponible. Votre administrateur doit configurer ce paramètre.]** Il n’existe aucun bouton **[!UICONTROL Configurer]** pour les membres. Demandez donc à votre administrateur de [configurer le connecteur](#configure-organization).
 
-   ![Page des connecteurs externes de l’utilisateur affichant la carte Génie des briques de données avec un statut Non configuré et un message indiquant à l’administrateur qu’il doit la configurer.](./assets/databricks-genie/member-not-configured.png){width="700" zoomable="yes"}
-
 1. Si votre organisation utilise un principal de service, la carte indique **[!UICONTROL Disponible par l’intermédiaire de votre organisation]**. Vous n’avez pas besoin de vous connecter. Pour vérifier la connexion, ouvrez les détails du connecteur et sélectionnez **[!UICONTROL Tester la connexion]**.
 
-   ![Page Utilisateurs/utilisatrices - Connecteurs externes présentant la carte Génie des briques de données avec un statut Disponible via l’état de votre organisation et un bouton Tester &#x200B;](./assets/databricks-genie/member-connectors.png){width="700" zoomable="yes"}.
+   ![Page Utilisateurs/utilisatrices - Connecteurs externes présentant la carte Génie des briques de données avec un statut Disponible via l’état de votre organisation et un bouton Tester ](./assets/databricks-genie/member-connectors.png){width="700" zoomable="yes"}.
 
    Un test réussi indique **[!UICONTROL Connexion réussie]** et le nombre d’outils disponibles.
 
