@@ -4,9 +4,9 @@ description: Utilisez le Chat entre collègues pour trouver ce que le contenu ga
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 1%
 ---
 
@@ -28,7 +28,7 @@ Pour utiliser les cas pratiques de cette page, vous avez besoin des éléments s
 
 * La conversation avec un collègue est connectée à vos vues de données Customer Journey Analytics ou suites de rapports Adobe Analytics. Voir [Commencer à analyser les données avec la discussion entre collègues](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Accès en affichage aux vues de données ou aux suites de rapports à analyser. La discussion avec les collègues hérite de vos autorisations de Customer Journey Analytics ou d’Adobe Analytics.
-* Une vue de données configurée pour Content Analytics. Voir [Configuration de Content Analytics](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/content-analytics/configuration/configuration) dans le guide de Customer Journey Analytics.
+* Une vue de données configurée pour Content Analytics. Voir [Configuration de Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) dans le guide de Customer Journey Analytics.
 
 ## Cas d’utilisation
 
@@ -47,7 +47,7 @@ Mon collègue utilise les compétences suivantes pour les cas d’utilisation d�
 
 | Compétence | Utilisé pour |
 | --- | --- |
-| `cja` `analyze-content` <br/> (Disponibilité Limitée) | Identifiez le contenu gagnant ayant en commun<br>Attribuez le chiffre d’affaires aux contenus que les clients voient<br>Comparez la création sur le web et les appareils mobiles<br>Identifiez les visuels qui déplacent chaque audience<p>Pour plus d’informations, voir [Poser des questions sur votre contenu](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
+| `cja`,`analyze-content` | Identifiez le contenu gagnant ayant en commun<br>Attribuez le chiffre d’affaires aux contenus que les clients voient<br>Comparez la création sur le web et les appareils mobiles<br>Identifiez les visuels qui déplacent chaque audience<p>Pour plus d’informations, voir [Poser des questions sur votre contenu](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
 
 ## Conseils pour de meilleurs résultats
 
@@ -60,6 +60,6 @@ Mon collègue utilise les compétences suivantes pour les cas d’utilisation d�
 
 ## Étapes suivantes
 
-* Pour savoir comment un collègue répond aux questions sur le contenu, consultez [Poser des questions sur votre contenu](/help/chat/use-cases/data-insights/ask-content-questions.md) (disponibilité limitée).
+* Pour savoir comment Coworker répond aux questions sur le contenu, voir [Poser des questions sur votre contenu](/help/chat/use-cases/data-insights/ask-content-questions.md).
 * Pour obtenir un aperçu de l’analyse des données avec le Module de conversation des collègues, y compris les autres domaines d’analyse et les bonnes pratiques, consultez [Analyse des données avec le Module de conversation des collègues](/help/chat/use-cases/data-insights/analytics-overview.md).
 * Pour configurer le Chat Coworker et parcourir un exemple pratique, consultez [Commencer à analyser les données avec le Chat Coworker](/help/chat/use-cases/data-insights/analytics-chat.md).

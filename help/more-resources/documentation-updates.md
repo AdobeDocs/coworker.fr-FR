@@ -4,9 +4,9 @@ description: Consultez les articles et vidéos nouveaux et mis à jour de la doc
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
+source-git-commit: e5fad76b20f2d10d32fc03131b4c18d220ed8e1e
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '363'
 ht-degree: 1%
 ---
 # Mises à jour de la documentation {#documentation-updates}
@@ -15,13 +15,17 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 
 ## Novembre 2026 {#nov-2026}
 
+**4 novembre 2026**
+
+* Mise à jour : [posez des questions sur votre contenu](../chat/use-cases/data-insights/ask-content-questions.md). L’analyse de contenu avec les compétences `analyze-content` est désormais disponible pour tous.
+
 **3 novembre 2026**
 
 * Nouveau : [Simuler un parcours à l’aide d’un collègue](../chat/use-cases/journeys/simulate-journey-using-coworker.md)
 
 **2 novembre 2026**
 
-* Mise à jour : [Présentation de &#x200B;](../home.md) et [Prise en main du chat des collègues](../chat/ui-guide.md). Adobe Analytics est désormais répertorié comme une application où la conversation avec un collègue est disponible.
+* Mise à jour : [Présentation de ](../home.md) et [Prise en main du chat des collègues](../chat/ui-guide.md). Adobe Analytics est désormais répertorié comme une application où la conversation avec un collègue est disponible.
 * Mise à jour : [workflows de conversation avec un collègue](../chat/use-cases/workflows.md). L’article répertorie désormais les compétences permettant d’inspecter les workflows AEM et d’explorer les informations Dispatcher. Il ajoute également des compétences d’audience pour la distribution des stocks, l’intégrité des stocks, la parenté et la détection des doublons, et note que la création d’audience prend en charge les audiences B2C et B2B.
 
 ## Octobre 2026 {#oct-2026}
@@ -49,7 +53,7 @@ Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis 
 **16 octobre 2026**
 
 * Nouveau : [création, simulation et analyse de parcours cross-canal](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
-* Nouveau : [aperçu de l&#39;analyse de Parcours &#x200B;](../chat/use-cases/data-insights/journey-analysis.md)
+* Nouveau : [aperçu de l&#39;analyse de Parcours ](../chat/use-cases/data-insights/journey-analysis.md)
 * Nouveau : [présentation de l’analyse des audiences et des segments](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Nouveau : [présentation des performances commerciales](../chat/use-cases/data-insights/business-performance.md)
 * Nouveau : [présentation des performances du contenu](../chat/use-cases/data-insights/content-performance.md)
