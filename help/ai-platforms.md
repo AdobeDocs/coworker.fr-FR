@@ -71,7 +71,7 @@ Avant de commencer, vérifiez que vous avez accès à [!DNL Microsoft 365 Copilo
 Un administrateur doit effectuer ces étapes avant que les utilisateurs finaux puissent accéder à Coworker dans [!DNL Microsoft 365 Copilot].
 
 1. Dans la [!DNL Microsoft 365 admin center], vérifiez que vos paramètres client autorisent les applications et les agents créés par des éditeurs externes.
-1. Approuvez **** à la fois dans le [!DNL Microsoft 365 admin center] et dans le [!DNL Teams admin center]. En règle générale, vous pouvez trouver l’agent par le biais du [!DNL Microsoft Commercial Marketplace] ou de la liste **[!UICONTROL Applications intégrées]** de votre organisation.
+1. Approuvez **&#x200B;**&#x200B;à la fois dans le [!DNL Microsoft 365 admin center] et dans le [!DNL Teams admin center]. En règle générale, vous pouvez trouver l’agent par le biais du [!DNL Microsoft Commercial Marketplace] ou de la liste **[!UICONTROL Applications intégrées]** de votre organisation.
 1. Déployez l’agent auprès des utilisateurs finaux. Vous pouvez le déployer sur des utilisateurs ou groupes spécifiques, ou sur l’ensemble de votre organisation. Le nombre d’utilisateurs que vous activez n’a aucune incidence sur la configuration ou le coût.
 
 >[!NOTE]
@@ -86,7 +86,7 @@ Dans [!DNL Microsoft 365 Copilot], sélectionnez **[!UICONTROL Agents]**, puis s
 
 ![Copilote Microsoft 365 avec le menu Agents ouvert et Plus d&#39;agents mis en surbrillance.](./assets/ai-platforms/copilot/copilot-agents.png)
 
-Sélectionnez ensuite **** dans le catalogue d’agents.
+Sélectionnez ensuite **&#x200B;**&#x200B;dans le catalogue d’agents.
 
 ![Catalogue de l&#39;agent Copilot Microsoft 365 avec la liste Adobe CX Enterprise Coworker mise en surbrillance.](./assets/ai-platforms/copilot/copilot-select-agent.png)
 
@@ -112,7 +112,7 @@ Dans [!DNL ChatGPT], sélectionnez **[!UICONTROL Modules externes]**.
 
 ![Navigation ChatGPT avec les modules externes mis en surbrillance.](./assets/ai-platforms/chatgpt/gpt-plugins.png)
 
-Recherchez et sélectionnez ensuite **** dans le catalogue de modules externes.
+Recherchez et sélectionnez ensuite **&#x200B;**&#x200B;dans le catalogue de modules externes.
 
 ![Catalogue de modules externes ChatGPT avec la liste Adobe CX Enterprise Coworker mise en surbrillance dans les résultats de recherche pour Adobe.](./assets/ai-platforms/chatgpt/gpt-select-plugins.png)
 
@@ -142,7 +142,7 @@ Votre administrateur doit approuver Coworker avant de l’ajouter.
 
    ![Claude Personnaliser la page avec l’onglet Connecteurs en surbrillance et le catalogue Discover ouvert.](./assets/ai-platforms/claude/claude-connectors.png)
 
-1. Sélectionnez ****, puis sélectionnez **[!UICONTROL Se connecter à Claude]**.
+1. Sélectionnez **&#x200B;**, puis sélectionnez **[!UICONTROL Se connecter à Claude]**.
 
    ![Détails du connecteur Adobe CX Enterprise Coworker dans Claude avec Se connecter à Claude mis en surbrillance.](./assets/ai-platforms/claude/claude-connect-coworker.png)
 
@@ -182,7 +182,7 @@ Une fois que votre administrateur vous a envoyé un e-mail, ouvrez-le dans [!DNL
 
 1. Dans [!DNL Gemini Enterprise], accédez au catalogue **[!UICONTROL Agents]**.
 1. Recherchez Adobe CX Enterprise Coworker.
-1. Sélectionnez **** et saisissez une invite pour commencer.
+1. Sélectionnez **&#x200B;**&#x200B;et saisissez une invite pour commencer.
 
 Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et [invites d’exemple](#example-prompts).
 
@@ -232,7 +232,7 @@ Connectez un collègue à l’aide d’OAuth, puis authentifiez-vous avec votre 
    | --- | --- |
    | [!UICONTROL URL du serveur] | `https://mcp.coworker.experience.adobe.io` |
    | [!UICONTROL URL du jeton] | Point d’entrée de jeton confirmé pour votre client OAuth. |
-   | [!UICONTROL  URL d’autorisation ] | Point d’entrée d’autorisation confirmé pour votre client OAuth. |
+   | [!UICONTROL &#x200B; URL d’autorisation &#x200B;] | Point d’entrée d’autorisation confirmé pour votre client OAuth. |
    | [!UICONTROL Identifiant du client] | Votre identifiant client OAuth approuvé. |
    | [!UICONTROL Secret du client] | Votre secret client OAuth approuvé. |
 
@@ -261,9 +261,9 @@ Enregistrez un collègue via le protocole MCP (Model Context Protocol) pour impo
 
    | Champ | Valeur |
    | --- | --- |
-   | [!UICONTROL  Nom du serveur ] | Nom descriptif, tel que `cx-coworker`. |
+   | [!UICONTROL &#x200B; Nom du serveur &#x200B;] | Nom descriptif, tel que `cx-coworker`. |
    | [!UICONTROL Type de transport] | [!UICONTROL HTTP diffusable] |
-   | [!UICONTROL  URL du serveur MCP ] | `https://mcp.coworker.experience.adobe.io` |
+   | [!UICONTROL &#x200B; URL du serveur MCP &#x200B;] | `https://mcp.coworker.experience.adobe.io` |
    | [!UICONTROL Connexion] | Connexion de collègue que vous avez authentifiée. |
 
 1. Sélectionnez **[!UICONTROL Enregistrer]** et attendez la fin de l’enregistrement du serveur et de l’importation de l’outil.
@@ -295,14 +295,14 @@ Confirmez les paramètres de votre client OAuth auprès de votre représentant A
 Installez le service MCP de Coworker à partir de [!DNL Databricks Marketplace].
 
 1. Dans [!DNL Databricks], accédez à **[!UICONTROL Marketplace]** et recherchez Adobe Coworker.
-1. Sélectionnez ****, puis sélectionnez **[!UICONTROL Installer]**.
+1. Sélectionnez **&#x200B;**, puis sélectionnez **[!UICONTROL Installer]**.
 1. Sélectionnez un **[!UICONTROL Catalogue]** et un **[!UICONTROL Schéma]**, puis saisissez un **[!UICONTROL Nom du service MCP]**.
 1. Conservez les paramètres de connexion fournis par la liste, y compris les valeurs suivantes.
 
    | Champ | Valeur |
    | --- | --- |
    | [!UICONTROL Hôte] | `https://mcp.coworker.experience.adobe.io` |
-   | [!UICONTROL  Chemin de base ] | `/mcp` |
+   | [!UICONTROL &#x200B; Chemin de base &#x200B;] | `/mcp` |
    | [!UICONTROL Type d’informations d’identification] | [!UICONTROL OAuth U2M] |
 
    ![Boîte de dialogue d’installation de Databricks Marketplace pour Adobe CX Enterprise Coworker avec des champs de catalogue, de schéma, de connexion et d’informations d’identification.](./assets/ai-platforms/databricks/databricks-install.png){width="700"}
