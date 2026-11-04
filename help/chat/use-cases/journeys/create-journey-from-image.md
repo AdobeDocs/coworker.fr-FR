@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Chargez une image de diagramme de flux, telle qu’une diapositive PowerPoint, dans CX Enterprise Coworker. Dans cette vidéo, découvrez comment examiner l’invite extraite de l’image, spécifier l’événement déclencheur et enregistrer un brouillon de parcours modifiable dans Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504867/?captions=fre_fr&learn=on&enablevpops)
