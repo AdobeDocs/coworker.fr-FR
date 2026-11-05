@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '356'
 ht-degree: 15%
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 15%
       - [Gestion de la rétention du lac de données](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Audiences {#audiences}
       - [Évaluation de l’intégrité de la plateforme et création d’audiences](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [Pourquoi mon audience a-t-elle augmenté/diminué ?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Parcours {#journeys}
       - [Création d’un parcours à l’aide du langage naturel](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Création d’un parcours à partir d’une image](./chat/use-cases/journeys/create-journey-from-image.md)
