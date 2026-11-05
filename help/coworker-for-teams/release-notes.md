@@ -6,16 +6,86 @@ product_v2:
     internal-label: Coworker
   - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
     internal-label: Coworker for teams
-source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
+source-git-commit: 0246505e521b780295f17b3964ec2f0a57fc41fd
 workflow-type: tm+mt
-source-wordcount: '4474'
+source-wordcount: '4892'
 ht-degree: 0%
 ---
 # Notes de mise à jour d’Adobe CX Enterprise Coworker pour les équipes {#release-notes}
 
 Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion continu qui permet une approche plus évolutive et plus progressive du déploiement des fonctionnalités.
 
-## Octobre 2026 {#oct-2026}
+## Novembre 2026 {#nov-2026}
+
+**Date de publication : 3 novembre 2026**
+
+* Créer des campagnes sans quitter votre conversation pour consulter le forum
+* Examinez les sorties de campagne ensemble à mesure qu’elles sont disponibles.
+* Repérer le contenu nouveau et mis à jour sans perdre votre place
+* Conserver les messages et les pièces jointes non envoyés lors de la visite du tableau de campagne
+* Les aperçus de campagnes précédentes conservent le contenu que vous avez initialement révisé
+* Prévisualiser les e-mails dans les dispositions de bureau et mobiles avant l’envoi
+* Changer les variantes d’e-mail avec des onglets et des aperçus d’image plus clairs
+* La modification des variantes d’e-mail conserve votre place sur la page
+* Modifier les emails larges sans perdre l&#39;accès aux contrôles de formatage
+* Les contours d’édition d’e-mail et les poignées de redimensionnement restent alignés
+* Les champs d’e-mail non modifiés ne déclenchent plus d’enregistrements inutiles
+* Les brouillons d’e-mails conservent les modifications les plus récentes lorsque les enregistrements antérieurs se terminent
+* Supprimer les e-mails de campagne inutilisés sans supprimer leur contenu enregistré
+* Identifier les brouillons d’e-mail qui ne figurent pas dans votre workflow
+* Les documents de campagne téléchargés conservent les aperçus d’e-mail et les liens de campagne actifs
+* Choisissez les dates directement lorsque votre conversation les demande
+* Les réponses de conversation restent liées à la requête en attente correcte
+* Les requêtes de fichiers acceptent uniquement les types de pièces jointes dont elles ont besoin
+* Gérer individuellement les contacts supprimés ou les importer depuis un fichier CSV
+* Télécharger la liste de suppression complète quels que soient les filtres actifs
+* Rechercher des audiences de campagne enregistrées à l’aide de leurs listes de contacts liées
+* Parcourez les idées de campagne plus facilement sur de plus petits écrans.
+* Les résultats de recherche vides sont différents des collections de campagnes vides
+* Réessayez de charger les modèles sans perdre vos contrôles de recherche.
+* Les adresses de site web de marque non valides sont expliquées en regard du champ .
+* Les illustrations de chargement CSV restent visibles avec les autres
+* Les plannings de lancement étendus laissent plus d’espace pour les commandes à proximité
+* Ouvrez les articles d’aide dans la langue de votre choix, le cas échéant
+* La progression et les résultats de la connexion sont plus clairs lors de la liaison de comptes
+* Retournez en toute sécurité dans votre campagne après la connexion d’un compte
+* Les comptes personnels n’affichent plus de contrôles de gestion d’équipe indisponibles
+* Changer d’espace de travail sans erreurs d’accès incorrectes
+* La création de Workspace explique quand l’accès organisation-administrateur est requis.
+* Le cas échéant, vérifiez et modifiez votre profil d’entreprise enregistré
+* Les enregistrements de profil professionnel détectent les modifications en conflit avant de les remplacer
+* La navigation du profil professionnel suit la section choisie sans scintillement
+* Le cas échéant, connectez-vous à LinkedIn et choisissez votre identité de publication
+* Prévisualiser les brouillons de publications sociales dans les conversations et les forums de campagne
+* Les variantes des publications sociales s&#39;adaptent plus facilement aux panneaux de conversation étroits
+* Lire les noms des comptes sociaux de manière cohérente dans les aperçus de campagne
+* Modifier les images des réseaux sociaux avec Adobe Express si pris en charge
+* Les contrôles Launch correspondent aux canaux e-mail et sociaux que vous utilisez
+* Voir quand les comptes sociaux doivent être reconnectés avant le lancement
+* Afficher les résultats des réseaux sociaux séparément des rapports des campagnes par e-mail
+
+## Octobre 2026 {#oct-2026}
+
+**Date de publication : 26 octobre 2026**
+
+* Connecter Facebook et Instagram via leurs flux de connexion au navigateur
+* Ajouter et remplacer des logos de marque lors de la configuration de votre marque
+* Les aperçus du logo de la marque s’affichent de manière fiable lors de la configuration
+* Consulter les requêtes d’audience d’entrepôt directement à partir des cartes d’audience
+* Reprendre l’intégration automatiquement une fois que votre compte est actif
+* Les conversations renommées conservent leur titre et leurs liens synchronisés
+* Réduire la navigation de conversation sans perdre les libellés d’action utiles
+* Faire défiler le contenu d’un e-mail large sans étirer l’espace de travail environnant
+* Les modèles dupliqués reçoivent des noms clairs et numérotés dans votre langue
+* Les contrôles de planification et les dates de campagne suivent vos préférences linguistiques
+* Les documents de campagne téléchargés utilisent des en-têtes et des libellés localisés
+* Les pourcentages de compatibilité des e-mails suivent le format des nombres locaux
+* Les dates de création de marque suivent votre langue et votre région préférées
+* Les contrôles de l&#39;éditeur d&#39;email et les libellés des modèles utilisent du texte localisé
+* Les champs de connexion obligatoires expliquent les erreurs de validation dans votre langue
+* Les badges par défaut et les commandes d’édition du logo restent lisibles
+* Les anciennes campagnes et les liens Essentials permettent d’accéder à Collègue pour les équipes
+* L’action de déconnexion est plus claire lors de la configuration de la version d’essai
 
 **Date de publication : 21 octobre 2026**
 
@@ -313,8 +383,6 @@ Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion
 * Domaines et expéditeurs comporte un assistant de configuration guidé pour vérifier les domaines et ajouter des expéditeurs
 * Les brouillons de campagne vous invitent désormais à terminer la configuration des e-mails et des canaux avant d’envoyer
 * La validation du domaine et de l’expéditeur détecte plus de problèmes, y compris les cas de périphérie d’enregistrements DNS
-* Le menu Profil a été déplacé vers la barre latérale pour un accès plus rapide
-* Les documents Source PDF s’affichent désormais sous forme de pilule sur les détails du kit de marque
 * Diverses améliorations des performances et de la fiabilité dans
 
 **Date de publication : 26 juin 2026**
@@ -324,7 +392,6 @@ Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion
 * Des conseils contextuels s’affichent dans le tableau de bord de la campagne pour vous guider tout au long des étapes suivantes
 * L’intégration des nouveaux utilisateurs utilise vos données de marque réelles pour personnaliser l’expérience de configuration
 * Le sélecteur de couleurs de marque gère les codes hexadécimaux et s’ouvre dans une fenêtre contextuelle propre
-* Les paramètres UTM et la limitation des messages peuvent désormais être configurés à partir des paramètres de l’application
 * Les liens d’aide permettent désormais d’accéder au contenu le plus récent directement sur Experience League
 * Diverses améliorations des performances et de la fiabilité dans
 
@@ -355,8 +422,6 @@ Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion
 * Parcourez et restaurez les versions précédentes de votre e-mail avec un nouveau panneau d’historique des versions
 * Modifiez les couleurs de la marque à l’aide d’un sélecteur hexadécimal et d’une modification sur la page de marque.
 * La bibliothèque de marques charge automatiquement plus de marques au fur et à mesure que vous la faites défiler
-* Le menu Profil a été déplacé vers la barre latérale pour un accès plus rapide
-* Les documents Source PDF s’affichent désormais sous forme de pilule sur les détails du kit de marque
 * Diverses améliorations des performances et de la fiabilité dans
 
 **Date de publication : 12 juin 2026**
@@ -370,9 +435,6 @@ Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion
 * Les réponses de conversation hors champ suggèrent les questions suivantes avec des invites en un clic
 * Les exportations PDF de Campaign affichent de manière fiable les icônes, l’image de marque du produit et une étiquette de marque
 * Parlez à un expert et les flux de mise à niveau chargent vos détails d’évaluation de manière plus fiable
-* Les balises de style d’écriture s’étendent pour afficher le texte intégral et le lien vers votre page de marque
-* Démarrer une marque à partir de l’état de bibliothèque vide avec des catégories utiles
-* Reconnectez-vous sans problème à l’expiration de votre session
 * L’application réside désormais sur coworker-campaigns.adobe.com avec la même expérience
 * L’inscription d’essai vous dirige vers l’étape suivante appropriée après la création de votre compte
 * Diverses améliorations des performances et de la fiabilité dans
@@ -385,8 +447,6 @@ Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion
 * Les importations d’audiences CSV n’affichent plus de liste en double dans la carte d’audience
 * L’élément Conversations dans la barre latérale se met en surbrillance lorsque vous démarrez une nouvelle conversation
 * L’en-tête de l’application affiche désormais uniquement l’objet de l’e-mail (ou « Brouillon ») lors de la modification d’un e-mail, supprimant le préfixe numérique « E-mail N : » pour un titre plus ordonné
-* Le menu Profil a été déplacé vers la barre latérale pour un accès plus rapide
-* Les documents Source PDF s’affichent désormais sous forme de pilule sur les détails du kit de marque
 * Diverses améliorations des performances et de la fiabilité dans
 
 **Date de publication : 10 juin 2026**
@@ -400,7 +460,6 @@ Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion
 * Réessayez d’enregistrer lorsque l’éditeur d’e-mail rencontre une erreur temporaire
 * Remplacer les images d’e-mail par un dimensionnement correct et des dimensions Adobe Express
 * Chargez les listes d’audience depuis un fichier CSV en utilisant une boîte de dialogue d’importation plus claire dans la conversation
-* Les balises de style d’écriture s’étendent pour afficher le texte intégral et le lien vers votre page de marque
 * Démarrer une marque à partir de l’état de bibliothèque vide avec des catégories utiles
 * Reconnectez-vous sans problème à l’expiration de votre session
 * Diverses améliorations des performances et de la fiabilité dans
@@ -511,7 +570,6 @@ Les mises à jour de Coworker for Teams fonctionnent sur un modèle de diffusion
 * L’en-tête de l’application affiche désormais uniquement l’objet de l’e-mail (ou « Brouillon ») lors de la modification d’un e-mail, supprimant le préfixe numérique « E-mail N : » pour un titre plus ordonné
 * Le menu Profil a été déplacé vers la barre latérale pour un accès plus rapide
 * Les documents Source PDF s’affichent désormais sous forme de pilule sur les détails du kit de marque
-* Le menu Profil a été déplacé vers la barre latérale pour un accès plus rapide
 * Diverses améliorations des performances et de la fiabilité dans
 
 **Date de publication : 18 avril 2026**
