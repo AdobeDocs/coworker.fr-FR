@@ -25,7 +25,7 @@ Utilisez le Module de conversation Adobe CX Enterprise Coworker pour déterminer
 
 La vidéo suivante montre comment Coworker associe l’IA conversationnelle à Customer Journey Analytics. Découvrez comment poser des questions en langage naturel, visualiser les résultats, identifier les tendances significatives et découvrir les facteurs qui optimisent les performances sans créer de requêtes manuelles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496853/?captions=fre_fr&learn=on&enablevpops)
 
 ### Conditions préalables
 
