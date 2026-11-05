@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment Adobe CX Enterprise Coworker permet de transformer un objectif marketing en parcours d’engagement client personnalisé dans les applications Adobe. Découvrez comment Coworker identifie les audiences de visiteurs pertinentes, contribue à la création d’un parcours dans Adobe Journey Optimizer et prépare des messages promotionnels, tout en s’appuyant sur les fonctionnalités existantes dans Adobe Experience Manager (AEM) et Adobe Experience Platform (AEP).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507060/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507080/?captions=fre_fr&learn=on&enablevpops)
