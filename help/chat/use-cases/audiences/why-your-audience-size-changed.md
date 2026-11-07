@@ -30,7 +30,7 @@ Découvrez comment [!DNL CX Enterprise Coworker] pouvez vous aider à étudier l
 
 Dans cette vidéo, vous découvrirez comment utiliser des invites en langage clair dans Coworker pour enquêter sur une augmentation inattendue d&#39;une audience Adobe Experience Platform avant un lancement de campagne. La présentation montre comment l’analyse causale peut relier les modifications de la taille de l’audience aux données opérationnelles, exclure les modifications de configuration et faire apparaître les explications probables sans attendre une enquête d’ingénierie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507342/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507345/?captions=fre_fr&learn=on&enablevpops)
 
 Vous apprendrez à :
 

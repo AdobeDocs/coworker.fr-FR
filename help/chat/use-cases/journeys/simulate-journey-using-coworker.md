@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Utilisez Coworker pour simuler un parcours Adobe Journey Optimizer avec des profils de test et des événements générés automatiquement. Dans cette vidéo, découvrez comment tester les chemins d’accès aux parcours, recevoir des messages de BAT et consulter la couverture des chemins d’accès et les résultats de la simulation avant de les publier.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507033?captions=fre_fr&learn=on)
