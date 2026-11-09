@@ -4,10 +4,10 @@ title: Présentation du chat Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '721'
-ht-degree: 6%
+source-wordcount: '546'
+ht-degree: 8%
 ---
 # À propos du chat des collègues {#overview}
 
@@ -27,7 +27,7 @@ Pour commencer, voir [Prise en main du chat des collègues](ui-guide.md).
 
 ## Une évolution de l’assistant d’IA
 
-La discussion avec les collègues est l’étape suivante après [Assistant IA](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) et Adobe Experience Platform Agent Orchestrator. Tout ce que vous pouvez faire dans l’assistant d’IA aujourd’hui, y compris la connaissance des produits et les informations opérationnelles et de données, reste disponible. Le Module de conversation des collègues ajoute les [éléments de base](#building-blocks) qui permettent à une conversation de terminer le travail, et non pas seulement de répondre aux questions.
+La discussion avec les collègues est l’étape suivante après [Assistant IA](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) et Adobe Experience Platform Agent Orchestrator. Tout ce que vous pouvez faire dans l’assistant d’IA aujourd’hui, y compris la connaissance des produits et les informations opérationnelles et de données, reste disponible. Le Module de conversation des collègues utilise les [blocs de création des collègues](/help/home.md#building-blocks) partagés pour terminer le travail par la conversation, et pas seulement pour répondre aux questions.
 
 ## L’expérience de chat
 
@@ -54,16 +54,6 @@ Les applications CX Enterprise ci-dessous sont compatibles avec le Module de con
 * _Adobe Journey Optimizer B2B Edition (bientôt disponible)_
 * _Customer Journey Analytics B2B edition (bientôt disponible)_
 
-## Blocs de création
-
-Le Chat Coworker est optimisé par les blocs de création Coworker. Les blocs de création suivants sont disponibles aujourd’hui.
-
-* **Harnais d’entreprise :** le moteur qui transforme votre objectif en travail terminé. Il exécute une boucle d’auto-correction continue (raison, sélection d’une compétence, exécution, validation, répétition), se rétablissant des erreurs et travaillant en parallèle jusqu’à ce que le travail soit terminé, et non simplement tenté.
-* **Compétences :** playbooks réutilisables, en Markdown simple, pour bien effectuer chaque tâche. Le Module de conversation avec les collègues est fourni avec des compétences pour les tâches d’expérience client les plus courantes aujourd’hui. L’objectif est de couvrir le travail sur toutes les applications Adobe CX Enterprise au fil du temps.
-* **Connecteurs MCP :** accès régi pour agir sur les systèmes Adobe et tiers, avec des connecteurs prêts à l’emploi et la possibilité d’apporter les vôtres.
-* **Gouvernance :** points de contrôle d’approbation, autorisations héritées de votre organisation Adobe, contrôles exécutés avant l’exécution d’une action et journal d’audit complet.
-* **Mémoire :** le Module de conversation des collègues apprend vos préférences, décisions et corrections au fil des sessions, depuis les règles à l’échelle de l’organisation jusqu’à vos préférences personnelles, afin qu’il soit plus net au fur et à mesure que vous l’utilisez.
-
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3495969?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
