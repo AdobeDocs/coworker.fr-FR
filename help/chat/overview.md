@@ -56,4 +56,4 @@ Les applications CX Enterprise ci-dessous sont compatibles avec le Module de con
 
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495969?captions=fre_fr&learn=on){transcript=true}
