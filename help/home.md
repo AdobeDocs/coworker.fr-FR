@@ -4,16 +4,27 @@ description: Découvrez Adobe CX Enterprise Coworker, un coéquipier optimisé p
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '1233'
-ht-degree: 16%
+source-wordcount: '1367'
+ht-degree: 14%
 ---
 # Présentation de CX Enterprise Coworker {#overview}
 
 [!DNL Coworker] est un coéquipier propulsé par l&#39;IA qui repense la nature du travail pour les organisations, les équipes et les individus. Il automatise l’expérience client et les workflows marketing afin que les organisations puissent se concentrer sur la réalisation des objectifs commerciaux et l’amélioration des résultats plutôt que sur la coordination des tâches. En tant que moteur agentique, Coworker adopte une approche innovante de l&#39;automatisation des processus métier. Il améliore les performances et la précision des modèles d’IA en rassemblant le contexte de l’entreprise, les données, l’intelligence artificielle, la collaboration et l’exécution des compétences des agents, avec une gouvernance et une supervision humaine intégrées.
 
 Coworker est conçu pour les organisations exécutant des workflows d’expérience client complexes et interfonctionnels. Il rassemble le Module de conversation des collègues et les Projets des collègues, ce qui permet aux utilisateurs de passer d’une tâche unique à un workflow complet à plusieurs équipes au sein de l’expérience des collègues. La gouvernance, les approbations et la supervision humaine sont intégrées dès le départ. En savoir plus sur [&#128279;](https://business.adobe.com/fr/products/cx-enterprise-coworker.html).
+
+## Blocs de création {#building-blocks}
+
+Le Module de conversation des collègues et les Projets des collègues partagent les blocs de création suivants, sauf mention contraire. La fonctionnalité Projets de collègues sera bientôt disponible.
+
+* **Harnais d’entreprise :** transformez votre objectif en travail achevé grâce à une boucle continue de raisonnement, de sélection des compétences, d’exécution et de validation, avec récupération des erreurs et exécution parallèle.
+* **Compétences :** utilisez des playbooks réutilisables en Markdown brut pour les tâches courantes d’expérience client.
+* **Connecteurs MCP :** utilisez les connecteurs intégrés ou les vôtres pour agir sur Adobe et les systèmes externes par le biais d’un accès régi.
+* **Gouvernance :** gardez le contrôle par le biais de points de contrôle d’approbation, d’autorisations héritées de votre organisation Adobe, de vérifications avant l’exécution des actions et d’un journal d’audit.
+* **Mémoire :** appliquez des préférences, des décisions et des corrections entre les sessions, depuis les règles d’organisation jusqu’à vos préférences personnelles.
+* **Collaboration (projets de collègues uniquement) :** conservez tous les intervenants dans un thread de projet, en reliant les révisions, les approbations et les sorties des agents au travail, du bref au lancement.
 
 ## Choisir une expérience
 

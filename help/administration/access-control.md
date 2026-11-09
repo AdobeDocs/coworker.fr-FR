@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # Contrôle d’accès pour Coworker {#access-control}
@@ -34,7 +34,7 @@ L’accès des collaborateurs est contrôlé par un paramètre à l’échelle d
 
 ## Ajouter des administrateurs de collègues {#add-coworker-admins}
 
-Un administrateur de collègues est un utilisateur disposant du rôle **[!UICONTROL Administrateur de produit]** pour les [!DNL Adobe Experience Platform] dans [!DNL Adobe Admin Console].
+Un administrateur de collègues est un utilisateur disposant du **[!UICONTROL Administrateur de produit]** ou de l’**[!UICONTROL Administrateur système]** pour [!DNL Adobe Experience Platform] dans [!DNL Adobe Admin Console].
 
 Utilisez cette vidéo pour savoir comment ajouter des administrateurs Coworker.
 
