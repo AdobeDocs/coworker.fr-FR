@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: a14bd350d7259294368acdcb08549ea6e084f1c1
+source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '520'
 ht-degree: 0%
 ---
 # Contrôle d’accès pour Coworker {#access-control}
@@ -19,7 +19,7 @@ Utilisez le contrôle d’accès Adobe CX Enterprise Coworker pour gérer qui pe
 
 >[!NOTE]
 >
->Votre organisation doit être activée pour que vos collègues puissent utiliser cette fonctionnalité. Le contrôle d’accès sera disponible progressivement et peut ne pas être activé pour toutes les organisations de collaborateurs au lancement. Pour plus d’informations, consultez la présentation du [Chat entre collègues](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/overview).
+>Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1&rbrace; ne soit pas encore visible dans votre organisation. &#x200B;]Pour plus d&#39;informations, consultez l&#39;aperçu de la discussion avec un collègue [1&rbrace;.](/help/chat/overview.md)
 
 ## Comment l’accès est déterminé {#how-access-is-determined}
 
@@ -34,16 +34,16 @@ L’accès des collaborateurs est contrôlé par un paramètre à l’échelle d
 
 ## Administrateurs de collègues {#add-coworker-admins}
 
-Un administrateur de collègues est un utilisateur affecté en tant qu’**[!UICONTROL administrateur système]** pour l’organisation ou en tant qu’**[!UICONTROL administrateur de produit]** de [!DNL Adobe Experience Platform] dans [!DNL Adobe Admin Console].
+Un administrateur de collègues est un utilisateur affecté en tant qu’**[!UICONTROL administrateur système]** pour l’organisation ou en tant qu’**[!UICONTROL administrateur de produit]** sur [!DNL Adobe Experience Platform] dans [!DNL Adobe Admin Console].
 
 ## Gérer l’accès utilisateur {#manage-user-access}
 
 1. Ouvrez l’expérience Collègue . Pour obtenir des instructions, voir [Connexion à un collègue](/help/chat/ui-guide.md#sign-in).
 2. Ouvrez le menu du profil et sélectionnez **[!UICONTROL Paramètres d’administration]**.
 
-   ![Accueil des collègues avec la commande du menu Profil mise en surbrillance.](./assets/access-control/coworker-home.png)
+   ![Page de départ Collègue avec le contrôle du menu de profil mis en surbrillance.](./assets/access-control/coworker-home.png)
 
-   ![Menu de profil de collègue avec paramètres d’administration mis en surbrillance.](./assets/access-control/admin-settings.png)
+   ![Menu de profil de collègue avec paramètres d&#39;administration mis en surbrillance.](./assets/access-control/admin-settings.png)
 
 3. Sélectionnez **[!UICONTROL Contrôle d’accès]**.
 
@@ -53,14 +53,14 @@ Un administrateur de collègues est un utilisateur affecté en tant qu’**[!UIC
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507153?captions=fre_fr&learn=on){transcript=true}
 
-4. Dans Coworker, utilisez **[!UICONTROL Utilisateurs]** pour gérer l’accès des individus, ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès Coworker des groupes d’utilisateurs. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
+4. Dans Coworker, utilisez **[!UICONTROL Utilisateurs]** pour gérer l’accès pour les individus, ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès Coworker pour les groupes d’utilisateurs. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
 
-   Les groupes d’utilisateurs de collègues sont distincts des groupes [!DNL Adobe Admin Console]. La synchronisation des groupes d’utilisateurs de [!DNL Adobe Admin Console] vers Coworker sera bientôt disponible.
+   Les groupes d’utilisateurs de collègues sont distincts des groupes [!DNL Adobe Admin Console]. La synchronisation des groupes d&#39;utilisateurs de [!DNL Adobe Admin Console] avec un collègue sera bientôt disponible.
 
    La liste des utilisateurs inclut des utilisateurs de votre organisation. L’accès collaborateur est activé par défaut pour ces utilisateurs.
 
-   * **Activé :** l’utilisateur, l’utilisatrice ou le groupe d’utilisateurs est actif.
-   * **Désactivé :** l’utilisateur, l’utilisatrice ou le groupe d’utilisateurs est inactif.
+   * **Activé :** L&#39;utilisateur ou le groupe d&#39;utilisateurs est actif.
+   * **Désactivé :** l&#39;utilisateur ou le groupe d&#39;utilisateurs est inactif.
 
    Lorsque l’accès pour tous est désactivé, activez **[!UICONTROL Autoriser les remplacements]** et sélectionnez **[!UICONTROL Ajouter un remplacement]** pour ajouter des utilisateurs ou des groupes qui doivent toujours avoir accès.
 
