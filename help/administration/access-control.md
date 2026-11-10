@@ -19,7 +19,7 @@ Utilisez le contrôle d’accès Adobe CX Enterprise Coworker pour gérer qui pe
 
 >[!NOTE]
 >
->Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1} ne soit pas encore visible dans votre organisation. ]Pour plus d&#39;informations, consultez l&#39;aperçu de la discussion avec un collègue [1}.](/help/chat/overview.md)
+>Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1&rbrace; ne soit pas encore visible dans votre organisation. &#x200B;]Pour plus d&#39;informations, consultez l&#39;aperçu de la discussion avec un collègue [1&rbrace;.](/help/chat/overview.md)
 
 ## Comment l’accès est déterminé {#how-access-is-determined}
 
