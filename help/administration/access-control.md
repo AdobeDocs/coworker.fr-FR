@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
+source-git-commit: a14bd350d7259294368acdcb08549ea6e084f1c1
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '534'
 ht-degree: 0%
 ---
 # Contrôle d’accès pour Coworker {#access-control}
@@ -19,7 +19,7 @@ Utilisez le contrôle d’accès Adobe CX Enterprise Coworker pour gérer qui pe
 
 >[!NOTE]
 >
->Votre organisation doit être activée pour que vos collègues puissent utiliser cette fonctionnalité. Pour plus d’informations, consultez la présentation du [Chat entre collègues](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/overview).
+>Votre organisation doit être activée pour que vos collègues puissent utiliser cette fonctionnalité. Le contrôle d’accès sera disponible progressivement et peut ne pas être activé pour toutes les organisations de collaborateurs au lancement. Pour plus d’informations, consultez la présentation du [Chat entre collègues](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/overview).
 
 ## Comment l’accès est déterminé {#how-access-is-determined}
 
@@ -32,13 +32,9 @@ L’accès des collaborateurs est contrôlé par un paramètre à l’échelle d
 | Autorisations d’application compatibles | Les contrôles d’accès des collaborateurs déterminent si vous pouvez accéder à des fonctionnalités des collaborateurs généralement disponibles. Coworker hérite de vos autorisations utilisateur des applications CX Enterprise compatibles avec Coworker et respecte les autorisations que chaque application applique déjà. |
 
 
-## Ajouter des administrateurs de collègues {#add-coworker-admins}
+## Administrateurs de collègues {#add-coworker-admins}
 
-Un administrateur de collègues est un utilisateur disposant du **[!UICONTROL Administrateur de produit]** ou de l’**[!UICONTROL Administrateur système]** pour [!DNL Adobe Experience Platform] dans [!DNL Adobe Admin Console].
-
-Utilisez cette vidéo pour savoir comment ajouter des administrateurs Coworker.
-
->[!VIDEO](https://video.tv.adobe.com/v/3507043?captions=fre_fr&learn=on){transcript=true}
+Un administrateur de collègues est un utilisateur affecté en tant qu’**[!UICONTROL administrateur système]** pour l’organisation ou en tant qu’**[!UICONTROL administrateur de produit]** de [!DNL Adobe Experience Platform] dans [!DNL Adobe Admin Console].
 
 ## Gérer l’accès utilisateur {#manage-user-access}
 
