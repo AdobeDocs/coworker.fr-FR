@@ -51,7 +51,7 @@ Un administrateur de collègues est un utilisateur affecté en tant qu’**[!UIC
 
    Utilisez cette vidéo pour apprendre à gérer les utilisateurs de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507153?captions=fre_fr&learn=on){transcript=true}
 
 4. Dans Coworker, utilisez **[!UICONTROL Utilisateurs]** pour gérer l’accès pour les individus, ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès Coworker pour les groupes d’utilisateurs. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
 
