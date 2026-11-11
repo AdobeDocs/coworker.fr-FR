@@ -5,10 +5,10 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
 source-wordcount: '2116'
-ht-degree: 3%
+ht-degree: 4%
 ---
 # Prise en main du chat des collègues {#ui-guide}
 
@@ -27,7 +27,7 @@ Le tableau suivant indique où chaque expérience est disponible.
 | Customer Journey Analytics | Disponible maintenant | Disponible maintenant |
 | Customer Journey Analytics B2B edition | Disponible maintenant | Disponible maintenant |
 | Content Analytics | Disponible maintenant | Disponible maintenant |
-| Marketing Campaign Analytics | Disponible maintenant | Disponible maintenant |
+| Marketing Campaign Analytics | Disponible maintenant | Bientôt disponible |
 | Adobe Analytics | Disponible maintenant | Bientôt disponible |
 | Workfront | Disponible maintenant | Disponible maintenant |
 | Cible | Disponible maintenant | Disponible maintenant |
