@@ -21,7 +21,7 @@ Le contrôle d’accès s’applique à Coworker dans le rail de droite et dans 
 
 >[!NOTE]
 >
->Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1} ne soit pas encore visible dans votre organisation. ]Pour plus d&#39;informations, voir [Obtenir de l&#39;aide sur l&#39;accès](#get-help-with-access).
+>Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1&rbrace; ne soit pas encore visible dans votre organisation. &#x200B;]Pour plus d&#39;informations, voir [Obtenir de l&#39;aide sur l&#39;accès](#get-help-with-access).
 
 ## Comment l’accès est déterminé {#how-access-is-determined}
 
