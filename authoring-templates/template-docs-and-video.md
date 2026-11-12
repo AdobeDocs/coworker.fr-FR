@@ -4,14 +4,14 @@ title: Titre de la page en Title Case
 description: Découvrez comment [effectuer la tâche] avec Adobe CX Enterprise Coworker. [Deuxième phrase qui invite à l'action.]
 doc-type: Feature Video
 duration: 180
-last-substantial-update: 2026-01-01T00:00:00.000Z
+last-substantial-update: 2026-01-01
 jira: KT-00000
 role: User
 level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: a08e1d51d2c8aec7b558b0c72efb39961b64dd6f
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 2%
@@ -49,19 +49,26 @@ KEEPING CONTENT FROM BEING OVERWRITTEN
   the video fields in the front matter only. Updating the steps changes the
   documentation sections only. Make each kind of change in its own commit.
 - Each team edits its own front matter fields (see the comments above).
+
+SUGGESTED PROMPTS TO CREATE OR UPDATE
+
+In VSC, attach a template to Github Chat (or Claude), then use these prompts (or create your own):
+
+- Update `pagename.md` to align with the layout of this template. For additional editorial guidance, see `https://experienceleague.adobe.com/en/docs/authoring-guide/using/style-guide/basic-editorial-guidance`.
+- Use this template to create a page based on source information (wiki, transcript, jira, etc.).
 -->
 
 # Titre de la page en cas de phrase {#page-id}
 
 <!-- Owner: Documentation -->
 
-[Une ou deux phrases qui expliquent ce que le lecteur peut faire et pourquoi c’est important. Ne commencez pas la page par une note, une liste ou un avertissement.]
+[Une ou deux phrases qui expliquent ce que le lecteur peut faire et pourquoi c&#39;est important. Ne commencez pas la page par une note, une liste ou un avertissement.]
 
 ## Regarder la vidéo {#watch-the-video}
 
 <!-- Owner: Video. Documentation: do not edit this section. -->
 
-[Une ou deux phrases qui disent ce que la vidéo montre et à qui elle est destinée.]
+[Une ou deux phrases indiquant ce que la vidéo montre et à qui elle est destinée.]
 
 <!--
 Replace VIDEO_ID with the ID from the video team, and remove this comment wrapper.
@@ -70,42 +77,42 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 >[!VIDEO](https://video.tv.adobe.com/v/VIDEO_ID?learn=on)
 -->
 
-[Facultatif : une note sur ce que la vidéo ne couvre pas ou sur la version de l’interface qu’elle affiche.]
+[Facultatif : une note sur ce que la vidéo ne couvre pas ou sur la version de l&#39;interface qu&#39;elle affiche.]
 
 ## Avant de commencer {#before-you-begin}
 
 <!-- Owner: Documentation -->
 
-[Indiquez ce dont le lecteur a besoin avant de commencer : les autorisations, les licences, l’accès à une application ou à un sandbox, ou à une page associée à lire en premier. Supprimez cette section si aucune condition préalable ne s’applique.]
+[Énumérez ce dont le lecteur a besoin avant de commencer : les autorisations, les licences, l’accès à une application ou à un sandbox, ou une page associée à lire en premier. Supprimez cette section si aucune condition préalable ne s&#39;applique.]
 
-* [Prérequis 1.]
-* [Prérequis 2.]
+* [Prérequis.]
+* [Prérequis deux.]
 
 ## [En-tête de tâche utilisant un verbe impératif] {#task-heading}
 
 <!-- Owner: Documentation -->
 
-[Une phrase qui introduit la tâche ou explique le concept dont dépend la tâche.]
+[Une phrase qui introduit la tâche ou explique le concept dont elle dépend.]
 
 1. [Commencez chaque étape par une action et terminez-la par un point.]
 1. [Libellés d’interface en gras, par exemple **[!UICONTROL Envoyer]**.]
-1. [Conserver chaque étape pour environ trois clics ou décisions.]
+1. [Conservez chaque étape pour environ trois clics ou décisions.]
 
-   [Capture d’écran facultative sur la ligne après l’étape qui affiche l’interface. Utilisez la syntaxe d’image Markdown, avec un texte secondaire qui décrit l’objectif ou la fonctionnalité affiché.]
+   [Capture d&#39;écran facultative sur la ligne après l&#39;étape qui affiche l&#39;interface. Utilisez la syntaxe de l&#39;image Markdown, avec un texte de remplacement qui décrit l&#39;objectif ou la fonctionnalité affichée.]
 
 1. [Étape finale.]
 
-### [En-tête facultatif de sous-tâche ou d’option] {#subtask-heading}
+### [En-tête facultatif de sous-tâche ou d&#39;option] {#subtask-heading}
 
 <!-- Owner: Documentation -->
 
-[Utilisez un H3 uniquement lorsque le H2 comporte deux parties ou plus.]
+[N&#39;utilisez un H3 que lorsque le H2 comporte deux parties ou plus.]
 
 ## Exemples de prompts {#example-prompts}
 
 <!-- Owner: Documentation. Delete this section if it does not apply. -->
 
-* « [ Invite que le lecteur peut copier et adapter ] »
+* « [Invite que le lecteur peut copier et adapter.] »
 * « [Autre invite.] »
 
 ## Dépannage {#troubleshooting}

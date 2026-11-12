@@ -6,7 +6,7 @@ role: Leader, User, Developer, Admin
 level: Beginner
 doc-type: Catalog
 duration: 0
-last-substantial-update: '2026-01-01T00:00:00.000Z'
+last-substantial-update: 2026-01-01
 nudge: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -26,32 +26,32 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: a08e1d51d2c8aec7b558b0c72efb39961b64dd6f
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 22%
 ---
 
-# CX Enterprise Coworker dans [Product]
+# CX Enterprise Coworker dans le [produit]
 
-Coworker Adobe l’IA conversationnelle, profondément intégrée aux applications CX Enterprise telles que [Product]. Il est formé aux bonnes pratiques d’Adobe pour effectuer le travail rapidement et correctement. Ainsi, au lieu de cliquer sur plusieurs écrans et outils, vous décrivez ce que vous souhaitez en langage simple, par exemple « [exemple, invite 1 ] ou « [exemple, invite 2 ] ». Ensuite, votre collègue planifie le travail, l’exécute dans vos applications Adobe connectées et vous montre les résultats pour révision.
+Coworker Adobe l’IA conversationnelle, profondément intégrée aux applications CX Enterprise telles que [Produit]. Il est formé aux bonnes pratiques d’Adobe pour effectuer le travail rapidement et correctement. Ainsi, au lieu de cliquer sur plusieurs écrans et outils, vous décrivez ce que vous souhaitez en langage simple, par exemple « [exemple d’invite un] » ou « [exemple d’invite deux] », et Coworker planifie le travail, l’exécute dans vos applications Adobe connectées et vous montre les résultats pour révision.
 
-Pour [Produit], cela signifie moins de temps passé [à effectuer le travail manuel dans le produit] et plus de temps passé à examiner et à approuver ce que produit Coworker. Vous gardez le contrôle à chaque étape, tandis que Coworker gère la planification, l’exécution et le suivi.
+Pour le [produit], cela signifie moins de temps passé [à effectuer le travail manuel dans le produit] et plus de temps passé à examiner et à approuver ce que produit Coworker. Vous gardez le contrôle à chaque étape, tandis que Coworker gère la planification, l’exécution et le suivi.
 
 ## Prise en main de Coworker
 
-Vous découvrez Coworker ? Commencez ici pour mieux comprendre comment cela peut vous aider à travailler plus efficacement dans [Product] et d’autres applications CX Enterprise.
+Vous découvrez Coworker ? Commencez ici pour mieux comprendre comment cela peut vous aider à travailler plus efficacement dans [Product] et d&#39;autres applications CX Enterprise.
 
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/fr/docs/coworker/content/home
+* https://experienceleague.adobe.com/en/docs/coworker/content/home
   {title = CX Enterprise Coworker guide}
   {description = A full introduction to Coworker, its capabilities, and supported applications.}
   {image = ./assets/coworker/coworker-card.png}
   {cta = Get Started}
 
-* https://experienceleague.adobe.com/fr/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
   {title = What can Coworker Chat do?}
   {description = Learn how Coworker Chat uses a conversational interface to plan, execute, and complete customer experience work across Adobe and connected systems in minutes.}
   {cta = Watch}
@@ -71,12 +71,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Guide de <a href="https://experienceleague.adobe.com/fr/docs/coworker/content/home" target="_blank" rel="referrer" title="Guide de CX Enterprise Coworker"></a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/coworker/content/home" target="_blank" rel="referrer" title="Guide de CX Enterprise Coworker">Guide CX Enterprise Coworker</a>
                     </p>
                     <p class="is-size-6">Présentation complète de Coworker, de ses fonctionnalités et des applications prises en charge.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/coworker/content/home" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Commencer</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Prise En Main</span>
                 </a>
             </div>
         </div>
@@ -85,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/playlists/coworker-get-started-with-chat" title="Que peut faire Coworker Chat ?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Que peut faire Coworker Chat ?"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="Que peut faire Coworker Chat ?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Que peut faire Coworker Chat ?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Que peut faire Coworker Chat ?">Que peut faire le Chat des collègues ?</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Que peut faire Coworker Chat ?">Que peut faire la conversation avec un collègue ?</a>
                     </p>
                     <p class="is-size-6">Découvrez comment Coworker Chat utilise une interface conversationnelle pour planifier, exécuter et terminer le travail d’expérience client sur Adobe et les systèmes connectés en quelques minutes.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -107,9 +107,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## [Product] dans Coworker
+## [Produit] dans Coworker
 
-Découvrez comment Coworker transforme votre façon de travailler dans [Produit] en [automatisant les tâches], en [produisant des résultats] et en vous guidant tout au long [de l’exécution des besoins de votre entreprise], le tout grâce à une expérience de chat facile à utiliser.
+Découvrez comment Coworker transforme la façon dont vous travaillez dans le [produit] en [automatisant les tâches], [produisant des résultats] et en vous guidant [dans l’exécution des besoins de votre entreprise], le tout grâce à une expérience de chat facile à utiliser.
 
 <!--
 CARDS

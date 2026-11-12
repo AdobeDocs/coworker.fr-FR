@@ -4,10 +4,11 @@ title: Titre de la page en Title Case
 description: Découvrez comment [effectuer la tâche] avec Adobe CX Enterprise Coworker. [Deuxième phrase qui invite à l'action.]
 role: User
 level: Beginner
+last-substantial-update: 2026-01-01
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: a08e1d51d2c8aec7b558b0c72efb39961b64dd6f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 1%
@@ -44,22 +45,29 @@ WRITING RULES THAT MATTER MOST HERE
 - Bold interface labels in steps and wrap them in UICONTROL.
 - Give every H2 an explicit anchor, such as {#before-you-begin}, so links stay
   stable when a heading is reworded.
+
+SUGGESTED PROMPTS TO CREATE OR UPDATE
+
+In VSC, attach a template to Github Chat (or Claude), then use these prompts (or create your own):
+
+- Update `pagename.md` to align with the layout of this template. For additional editorial guidance, see `https://experienceleague.adobe.com/en/docs/authoring-guide/using/style-guide/basic-editorial-guidance`.
+- Use this template to create a page based on source information (wiki, transcript, jira, etc.).
 -->
 
 # Titre de la page en cas de phrase {#page-id}
 
-[Une ou deux phrases qui expliquent ce que le lecteur peut faire et pourquoi c’est important. Ne commencez pas la page par une note, une liste ou un avertissement.]
+[Une ou deux phrases qui expliquent ce que le lecteur peut faire et pourquoi c&#39;est important. Ne commencez pas la page par une note, une liste ou un avertissement.]
 
 ## Avant de commencer {#before-you-begin}
 
-[Indiquez ce dont le lecteur a besoin avant de commencer : les autorisations, les licences, l’accès à une application ou à un sandbox, ou à une page associée à lire en premier. Supprimez cette section si aucune condition préalable ne s’applique.]
+[Énumérez ce dont le lecteur a besoin avant de commencer : les autorisations, les licences, l’accès à une application ou à un sandbox, ou une page associée à lire en premier. Supprimez cette section si aucune condition préalable ne s&#39;applique.]
 
-* [Prérequis 1.]
-* [Prérequis 2.]
+* [Prérequis.]
+* [Prérequis deux.]
 
-## [Titre de concept comme substantif] {#concept-heading}
+## [En-tête de concept comme substantif] {#concept-heading}
 
-[Expliquez en quoi consiste la fonctionnalité ou l’idée, quand l’utiliser et comment elle est liée à d’autres fonctionnalités. Supprimez cette section pour les pages de tâches pures.]
+[Expliquez en quoi consiste la fonctionnalité ou l&#39;idée, quand l&#39;utiliser et comment elle est liée à d&#39;autres fonctionnalités. Supprimez cette section pour les pages de tâches pures.]
 
 ## [En-tête de tâche utilisant un verbe impératif] {#task-heading}
 
@@ -67,30 +75,30 @@ WRITING RULES THAT MATTER MOST HERE
 
 1. [Commencez chaque étape par une action et terminez-la par un point.]
 1. [Libellés d’interface en gras, par exemple **[!UICONTROL Envoyer]**.]
-1. [Conserver chaque étape pour environ trois clics ou décisions.]
+1. [Conservez chaque étape pour environ trois clics ou décisions.]
 
-   [Capture d’écran facultative sur la ligne après l’étape qui affiche l’interface. Utilisez la syntaxe d’image Markdown, avec un texte secondaire qui décrit l’objectif ou la fonctionnalité affiché.]
+   [Capture d&#39;écran facultative sur la ligne après l&#39;étape qui affiche l&#39;interface. Utilisez la syntaxe de l&#39;image Markdown, avec un texte de remplacement qui décrit l&#39;objectif ou la fonctionnalité affichée.]
 
 1. [Étape finale.]
 
-### [En-tête facultatif de sous-tâche ou d’option] {#subtask-heading}
+### [En-tête facultatif de sous-tâche ou d&#39;option] {#subtask-heading}
 
-[Utilisez un H3 uniquement lorsque le H2 comporte deux parties ou plus.]
+[N&#39;utilisez un H3 que lorsque le H2 comporte deux parties ou plus.]
 
 ## Exemples de prompts {#example-prompts}
 
-[Supprimer cette section si elle ne s’applique pas.]
+[Supprimez cette section si elle ne s&#39;applique pas.]
 
-* « [ Invite que le lecteur peut copier et adapter ] »
+* « [Invite que le lecteur peut copier et adapter.] »
 * « [Autre invite.] »
 
 ## Dépannage {#troubleshooting}
 
-[Supprimer cette section si elle ne s’applique pas. Décrivez un problème que le lecteur pourrait rencontrer, puis comment le résoudre.]
+[Supprimez cette section si elle ne s&#39;applique pas. Décrivez un problème que le lecteur pourrait rencontrer, puis comment le résoudre.]
 
 ## Plus d’aide sur cette rubrique {#more-help}
 
-[Utilisez un texte de lien descriptif et conservez les éléments parallèles. S’il existe une vidéo associée, cliquez ici pour accéder à sa page. Ne l’incorporez pas. Supprimez tout élément qui ne s’applique pas.]
+[Utilisez un texte de lien descriptif et maintenez les éléments parallèles. S’il existe une vidéo associée, cliquez ici pour accéder à sa page. Ne l’incorporez pas. Supprimez tout élément qui ne s&#39;applique pas.]
 
 * [Texte du lien qui décrit la page cible]
 * [Texte du lien qui décrit une autre page cible]
