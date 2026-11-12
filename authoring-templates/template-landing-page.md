@@ -4,7 +4,7 @@ title: CX Enterprise Coworker dans [Application]
 description: Découvrez comment l’IA conversationnelle de Coworker vous aide [première chose], [deuxième chose] et à en faire plus dans [Application].
 doc-type: Catalog
 duration: 0
-last-substantial-update: 2026-01-01T00:00:00.000Z
+last-substantial-update: 2026-01-01
 nudge: true
 role: Leader, User, Developer, Admin
 level: Beginner
@@ -26,7 +26,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: a08e1d51d2c8aec7b558b0c72efb39961b64dd6f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -110,26 +110,26 @@ WRITING THE INTRODUCTION
   "Coworker" after that.
 -->
 
-# CX Enterprise Coworker dans [ Application ] {#page-id}
+# CX Enterprise Coworker dans l’[application] {#page-id}
 
-Adobe CX Enterprise Coworker Adobe l’IA conversationnelle pour les applications CX Enterprise. Dans [Application], vous décrivez ce que vous souhaitez en langage simple, par exemple, « [exemple, invite une] » ou « [exemple, invite deux] ». Il planifie le travail, l’exécute dans vos applications Adobe connectées et vous montre les résultats à réviser.
+Adobe CX Enterprise Coworker Adobe l’IA conversationnelle pour les applications CX Enterprise. Dans l&#39;[application], vous décrivez ce que vous souhaitez en langage clair, par exemple, « [exemple d&#39;invite one] » ou « [exemple d&#39;invite two] ». Il planifie le travail, l’exécute dans vos applications Adobe connectées et vous montre les résultats à réviser.
 
-[Une ou deux phrases sur ce qui change pour le lecteur dans cette application, et comment ils gardent le contrôle grâce à la révision et à l’approbation.]
+[Une ou deux phrases sur ce qui change pour le lecteur dans cette application, et comment ils gardent le contrôle grâce à la révision et à l&#39;approbation.]
 
 ## Prise en main de Coworker {#get-started}
 
-[Une phrase pour les lecteurs qui découvrent Coworker. Dites ce qu’ils comprendront après avoir utilisé ces ressources.]
+[Une phrase pour les lecteurs qui découvrent Coworker. Dites ce qu&#39;ils comprendront après avoir utilisé ces ressources.]
 
-[Source de la carte et HTML de carte générée pour les cartes de prise en main standard.]
+[Source de carte et HTML de carte générée pour les cartes de prise en main standard.]
 
 ## [Application] dans Coworker {#application-use-cases}
 
-[Une ou deux phrases qui résument les cas d’utilisation de cette section et les résultats attendus par le lecteur.]
+[Une ou deux phrases qui résument les cas d&#39;utilisation de cette section et les résultats attendus par le lecteur.]
 
-[Source de la carte et carte HTML générée. Une carte par page de cas d’utilisation ou vidéo.]
+[Source de carte et HTML de carte générée. Une carte par page de cas d’utilisation ou vidéo.]
 
 ## Workflows CX Enterprise {#cx-enterprise-workflows}
 
-[Une phrase qui explique le fonctionnement de Coworker dans [Application] et d’autres applications CX Enterprise. Supprimez cette section si vous ne disposez pas de cartes pour plusieurs applications.]
+[Une phrase qui explique le fonctionnement de Coworker dans [Application] et d&#39;autres applications CX Enterprise. Supprimez cette section si vous ne disposez pas de cartes pour plusieurs applications.]
 
-[Source de la carte et carte HTML générée. Une carte par workflow entre applications.]
+[Source de carte et HTML de carte générée. Une carte par workflow entre applications.]

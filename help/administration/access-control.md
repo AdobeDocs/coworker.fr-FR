@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
+source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '562'
 ht-degree: 0%
 ---
 # Contrôle d’accès pour Coworker {#access-control}
@@ -40,14 +40,20 @@ Un administrateur de collègues est un utilisateur affecté en tant qu’**[!UIC
 
 ## Gérer l’accès utilisateur {#manage-user-access}
 
+Utilisez le [!UICONTROL contrôle d’accès] dans Coworker pour gérer l’accès des individus ou des groupes d’utilisateurs.
+
+>[!NOTE]
+>
+>Sélectionnez jusqu’à 100 utilisateurs ou groupes d’utilisateurs par action en bloc. Lorsque vous exportez des utilisateurs, l’exportation inclut uniquement les utilisateurs chargés.
+
 1. Ouvrez l’expérience Collègue . Pour obtenir des instructions, voir [Connexion à un collègue](/help/chat/ui-guide.md#sign-in).
-2. Ouvrez le menu du profil et sélectionnez **[!UICONTROL Paramètres d’administration]**.
+1. Ouvrez le menu du profil et sélectionnez **[!UICONTROL Paramètres d’administration]**.
 
    ![Page de départ Collègue avec le contrôle du menu de profil mis en surbrillance.](./assets/access-control/coworker-home.png)
 
    ![Menu de profil de collègue avec paramètres d&#39;administration mis en surbrillance.](./assets/access-control/admin-settings.png)
 
-3. Sélectionnez **[!UICONTROL Contrôle d’accès]**.
+1. Sélectionnez **[!UICONTROL Contrôle d’accès]**.
 
    ![Paramètres d’administration avec la carte Contrôle d’accès mise en surbrillance.](./assets/access-control/access-control.png)
 
@@ -55,7 +61,7 @@ Un administrateur de collègues est un utilisateur affecté en tant qu’**[!UIC
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507153?captions=fre_fr&learn=on){transcript=true}
 
-4. Dans Coworker, utilisez **[!UICONTROL Utilisateurs]** pour gérer l’accès pour les individus, ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès Coworker pour les groupes d’utilisateurs. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
+1. Sélectionnez **[!UICONTROL Utilisateurs]** pour gérer l’accès individuel ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès aux groupes. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
 
    Les groupes d’utilisateurs de collègues sont distincts des groupes [!DNL Adobe Admin Console]. La synchronisation des groupes d&#39;utilisateurs de [!DNL Adobe Admin Console] avec un collègue sera bientôt disponible.
 
