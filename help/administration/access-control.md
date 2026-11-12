@@ -59,7 +59,7 @@ Utilisez le [!UICONTROL contrôle d’accès] dans Coworker pour gérer l’acc�
 
    Utilisez cette vidéo pour apprendre à gérer les utilisateurs de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507153?captions=fre_fr&learn=on){transcript=true}
 
 1. Sélectionnez **[!UICONTROL Utilisateurs]** pour gérer l’accès individuel ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès aux groupes. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
 
