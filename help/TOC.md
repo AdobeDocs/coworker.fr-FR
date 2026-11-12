@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
+source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '373'
 ht-degree: 14%
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 14%
 - Conversation avec un collègue {#chat}
   - [À propos du chat des collègues](./chat/overview.md)
   - [Prise en main de la conversation avec un collègue](./chat/ui-guide.md)
-  - {hide-from-toc}[Conversation avec un collègue dans un terrain de jeu](./playground-coworker-chat.md)
+  - {hide-from-toc}[Conversation avec un collègue dans le terrain de jeu](./playground-coworker-chat.md)
   - Workflows {#use-cases}
     - [Workflows de conversation avec un collègue](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
@@ -57,6 +57,7 @@ ht-degree: 14%
       - [Gestion de la rétention du lac de données](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Audiences {#audiences}
       - [Évaluation de l’intégrité de la plateforme et création d’audiences](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [De l’idée à l’audience prête pour l’activation](./chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
       - [Pourquoi mon audience a-t-elle augmenté/diminué ?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Parcours {#journeys}
       - [Création d’un parcours à l’aide du langage naturel](./chat/use-cases/journeys/create-journey-from-natural-language.md)
@@ -97,9 +98,9 @@ ht-degree: 14%
     - [Que sont les plug-ins ?](./customizations/plugins/what-are-plugins.md)
     - [Gestion des modules externes pour votre organisation](./customizations/plugins/manage-plugins-for-your-org.md)
   - Connecteurs externes {#external-connectors}
-    - {hide-from-toc}[Databricks Genie](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[Génie des briques de données](./customizations/external-connectors/databricks-genie.md)
     - {hide-from-toc}[Google Ads](./customizations/external-connectors/google-ads.md)
-    - {hide-from-toc}[Meta Ads](./customizations/external-connectors/meta-ads.md)
+    - {hide-from-toc}[Publicités Meta](./customizations/external-connectors/meta-ads.md)
     - {hide-from-toc}[Microsoft Work IQ](./customizations/external-connectors/microsoft-work-iq.md)
     - {hide-from-toc}[Snowflake Cortex AI](./customizations/external-connectors/snowflake.md)
   - Mémoire {#memory}
