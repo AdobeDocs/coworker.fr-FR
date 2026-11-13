@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment configurer le portail d’approvisionnement des ressources Adobe pour AEM Assets avec Coworker et accorder aux fournisseurs un accès au portail pour la portée. Mappez des champs de métadonnées personnalisés dans Adobe Experience Manager Assets et synchronisez automatiquement les métadonnées lorsque vous ingérez des ressources.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508276/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508278/?captions=fre_fr&learn=on&enablevpops)
