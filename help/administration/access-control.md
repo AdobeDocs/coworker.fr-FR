@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
+source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '571'
 ht-degree: 0%
 ---
 # Contrôle d’accès pour Coworker {#access-control}
@@ -21,11 +21,11 @@ Le contrôle d’accès s’applique à Coworker dans le rail de droite et dans 
 
 >[!NOTE]
 >
->Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1&rbrace; ne soit pas encore visible dans votre organisation. &#x200B;]Pour plus d&#39;informations, voir [Obtenir de l&#39;aide sur l&#39;accès](#get-help-with-access).
+>Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1} ne soit pas encore visible dans votre organisation. ]Pour plus d&#39;informations, voir [Obtenir de l&#39;aide sur l&#39;accès](#get-help-with-access).
 
 ## Comment l’accès est déterminé {#how-access-is-determined}
 
-L’accès des collaborateurs est contrôlé par un paramètre à l’échelle de l’organisation et des remplacements facultatifs d’utilisateurs ou de groupes. Le paramètre à l’échelle de l’organisation active ou désactive l’accès Collègue pour les utilisateurs de votre entreprise. Par défaut, l’accès est activé pour tout le monde.
+L’accès des collaborateurs est contrôlé par un paramètre à l’échelle de l’organisation et des remplacements facultatifs d’utilisateurs ou de groupes. Le paramètre à l’échelle de l’organisation active ou désactive l’accès Collègue pour les utilisateurs de votre entreprise. L’accès peut être activé ou désactivé par défaut pour votre organisation.
 
 | Paramètre | Impact sur l’accès |
 | --- | --- |
@@ -59,13 +59,13 @@ Utilisez le [!UICONTROL contrôle d’accès] dans Coworker pour gérer l’acc�
 
    Utilisez cette vidéo pour apprendre à gérer les utilisateurs de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507153?captions=fre_fr&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 1. Sélectionnez **[!UICONTROL Utilisateurs]** pour gérer l’accès individuel ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès aux groupes. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
 
    Les groupes d’utilisateurs de collègues sont distincts des groupes [!DNL Adobe Admin Console]. La synchronisation des groupes d&#39;utilisateurs de [!DNL Adobe Admin Console] avec un collègue sera bientôt disponible.
 
-   La liste des utilisateurs inclut des utilisateurs de votre organisation. L’accès collaborateur est activé par défaut pour ces utilisateurs.
+   La liste des utilisateurs inclut des utilisateurs de votre organisation. Leur accès dépend du paramètre par défaut de votre organisation et des remplacements d’utilisateurs ou de groupes.
 
    * **Activé :** L&#39;utilisateur ou le groupe d&#39;utilisateurs est actif.
    * **Désactivé :** l&#39;utilisateur ou le groupe d&#39;utilisateurs est inactif.
