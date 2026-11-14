@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser Coworker pour transformer une requête en langage clair en une audience marketing ciblée. Répondez à des questions destinées à clarifier votre audience, puis demandez à vos collègues de la créer directement dans la plateforme, afin de la préparer pour l’activation sur plusieurs destinations.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508218/?captions=fre_fr&learn=on&enablevpops)
