@@ -4,9 +4,9 @@ description: Découvrez Adobe CX Enterprise Coworker, un coéquipier optimisé p
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1369'
 ht-degree: 14%
 ---
 # Présentation de CX Enterprise Coworker {#overview}
@@ -36,7 +36,7 @@ Vous définissez un objectif, puis Collègue travaille et effectue les étapes. 
 | --- | --- | --- |
 | [Conversation [!UICONTROL Collègue]](./chat/overview.md) | Demandez des informations, du contenu et des actions sur les applications Adobe en langage naturel. | Licence délivrée par l’intermédiaire de votre équipe de compte Adobe. Voir [Vérifier la disponibilité](#chat-availability). |
 | [Collègue [!UICONTROL pour les équipes]](./coworker-for-teams/overview.md) | Passez d’un objectif de campagne à une exécution coordonnée, en tant que petite équipe marketing agile. | Essai gratuit jusqu’au 31 décembre 2026. Amérique du Nord uniquement. |
-| Collègue [!UICONTROL Projets] | Exécutez des workflows interfonctionnels de longue durée au cours desquels vos équipes définissent les processus, les approbations et le niveau d’autonomie de vos collaborateurs. | Bientôt disponible. |
+| [Projets De Collègues](/help/projects/overview.md) | Coordonnez les workflows entre les équipes, avec une progression, des approbations et une gouvernance partagées. | Disponibilité limitée. Contactez votre représentant de compte Adobe pour en savoir plus sur la disponibilité future. |
 
 ## Conversation avec un collègue
 

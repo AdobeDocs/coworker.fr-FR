@@ -6,9 +6,9 @@ description: En savoir plus sur les outils d’IA de CX Enterprise. Améliorez v
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '385'
 ht-degree: 14%
 ---
 
@@ -86,6 +86,8 @@ ht-degree: 14%
       - [Générer des ressources marketing](./chat/use-cases/brand-visibility/generate-assets.md)
     - Workflow et planification {#workflow-and-planning}
       - [Planifier le lancement d’une campagne numérique](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
+- Projets de collègues {#projects}
+  - [À Propos Des Projets De Collègues](./projects/overview.md)
 - Personnalisations {#customizations}
   - [Présentation des personnalisations](./customizations/overview.md)
   - Compétences {#skills}
