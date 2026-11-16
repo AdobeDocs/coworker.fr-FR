@@ -82,6 +82,6 @@ Utilisez les projets collaborateurs pour coordonner les workflows autour des obj
 
 Découvrez les projets de collègues dans cette vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508234?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508237?captions=fre_fr&learn=on){transcript=true}
 
 
