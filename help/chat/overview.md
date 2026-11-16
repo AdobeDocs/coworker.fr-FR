@@ -4,9 +4,9 @@ title: Présentation du chat Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
+source-git-commit: f2c2de80ebe4026b736463626ee8122ac88bd5c5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '515'
 ht-degree: 9%
 ---
 # À propos du chat des collègues {#overview}
@@ -44,7 +44,10 @@ Les applications CX Enterprise ci-dessous sont compatibles avec le Module de con
 
 * Real-Time CDP B2C Edition
 * Adobe Journey Optimizer B2C Edition
-* Édition B2C de Customer Journey Analytics
+* Customer Journey Analytics
+* Customer Journey Analytics B2B edition
+* Content Analytics
+* Marketing Campaign Analytics
 * Adobe Analytics
 * Adobe Target
 * AEM
@@ -52,8 +55,7 @@ Les applications CX Enterprise ci-dessous sont compatibles avec le Module de con
 * Marketo Engage
 * _Real-Time CDP B2B edition (bientôt disponible)_
 * _Adobe Journey Optimizer B2B Edition (bientôt disponible)_
-* _Customer Journey Analytics B2B edition (bientôt disponible)_
 
 ## Vue d’ensemble des vidéos
 
->[!VIDEO](https://video.tv.adobe.com/v/3495969?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
