@@ -40,7 +40,7 @@ Vous définissez un objectif, puis Collègue travaille et effectue les étapes. 
 
 ## Conversation avec un collègue
 
-Le Module de conversation des collègues est une interface conversationnelle permettant d’améliorer l’expérience client. Décrivez vos besoins en langage clair. Le Module de conversation des collaborateurs planifie le travail, l’exécute sur vos systèmes Adobe et connectés et renvoie les résultats pour approbation. Pour plus d&#39;informations, consultez l&#39;aperçu de la discussion avec un collègue [1}.](./chat/overview.md)
+Le Module de conversation des collègues est une interface conversationnelle permettant d’améliorer l’expérience client. Décrivez vos besoins en langage clair. Le Module de conversation des collaborateurs planifie le travail, l’exécute sur vos systèmes Adobe et connectés et renvoie les résultats pour approbation. Pour plus d&#39;informations, consultez l&#39;aperçu de la discussion avec un collègue [1&rbrace;.](./chat/overview.md)
 
 ### Vérifier la disponibilité {#chat-availability}
 
