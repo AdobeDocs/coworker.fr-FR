@@ -4,19 +4,38 @@ description: Consultez les articles et vidéos nouveaux et mis à jour de la doc
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: c29ae8ac2b69dd3d5e52529875a9224cb697ebee
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 0%
+source-wordcount: '539'
+ht-degree: 1%
 ---
 # Mises à jour de la documentation {#documentation-updates}
 
 Utilisez cette page pour rechercher du contenu nouveau et substantiellement mis à jour dans la documentation de CX Enterprise Coworker. Les mises à jour sont répertoriées par mois, les plus récentes en premier. Pour les modifications du produit apportées à Coworker for team, consultez les [notes de mise à jour de Coworker for team](../coworker-for-teams/release-notes.md).
 
-## Novembre 2026 {#nov-2026}
+## Novembre 2026 {#nov-2026}
+
+**16 Novembre 2026**
+
+* Nouveau : [À Propos Des Projets De Collègues](../projects/overview.md). La disponibilité des projets collègues est limitée.
+* Mise À Jour : [À Propos De La Conversation Collègue](../chat/overview.md). La liste des applications compatibles inclut désormais Customer Journey Analytics B2B edition, Content Analytics et Marketing Campaign Analytics. L’article contient également des liens vers des projets collègues.
+
+**13 Novembre 2026**
+
+* Nouveau : [Créer un portail d’approvisionnement des ressources avec un collègue](../chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
+* Mise à jour : [Contrôle d&#39;accès pour Coworker](../administration/access-control.md). L’article indique désormais la limite pour les actions en bloc (jusqu’à 100 utilisateurs ou groupes d’utilisateurs) et clarifie les paramètres d’accès par défaut de Collègue.
+
+**12 Novembre 2026**
+
+* Mise à jour : [Workflows de conversation avec un collègue](../chat/use-cases/workflows.md). Cet article répertorie désormais les compétences Process Manager pour créer, exécuter et planifier des processus. Process Manager est en version bêta.
+
+**11 Novembre 2026**
+
+* Nouveau : [De l’idée à l’audience prête pour l’activation](../chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
 
 **10 Novembre 2026**
 
+* Nouveau : [événements Audit Coworker](../administration/audit.md)
 * Mise à jour : [Prise en main de la conversation avec un collègue](../chat/ui-guide.md). Le tableau de disponibilité répertorie désormais Customer Journey Analytics B2B edition, Content Analytics et Marketing Campaign Analytics. L’expérience immersive est disponible pour les trois. L’expérience intégrée au produit est disponible dans Customer Journey Analytics B2B edition et Content Analytics et sera bientôt disponible dans Marketing Campaign Analytics.
 
 **4 Novembre 2026**
