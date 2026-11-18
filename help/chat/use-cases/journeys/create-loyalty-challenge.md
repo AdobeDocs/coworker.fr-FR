@@ -12,9 +12,9 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 1%
 ---
 
@@ -30,6 +30,6 @@ Utilisez des invites en langage clair pour créer, configurer et lancer les déf
 
 ## Voir également
 
-- [&#128279;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), pour d’autres fonctionnalités de l’IA d’AJO disponibles via le Module de conversation des collègues, telles que la création, l’analyse et la simulation de parcours.
-- [Loyalty Challenge Management](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} dans la documentation de Adobe Journey Optimizer.
+- [Journey Agent](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), pour d’autres fonctionnalités de l’IA d’AJO disponibles via le Module de conversation des collègues, telles que la création, l’analyse et la simulation de parcours.
+- [Gestion des défis de fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} dans la documentation de Adobe Journey Optimizer.
 - [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)
