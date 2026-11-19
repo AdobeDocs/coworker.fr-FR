@@ -4,9 +4,9 @@ description: En savoir plus sur Adobe CX Enterprise Coworker pour les plateforme
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b9c3e1915b1f3f182cc91452e60eea13b05f12fa
+source-git-commit: 9210150fc17e1d10484e5aff3997dc0cfbc429de
 workflow-type: tm+mt
-source-wordcount: '2104'
+source-wordcount: '2161'
 ht-degree: 1%
 ---
 
@@ -25,8 +25,8 @@ L’utilisation de Coworker dans les plateformes d’IA n’entraîne aucun coû
 Avant de pouvoir utiliser Coworker dans une plateforme d’IA, vérifiez que vous disposez des éléments suivants.
 
 * Adobe CX Enterprise Coworker est configuré pour votre organisation. Vous pouvez y accéder directement dans Adobe.
-* Adobe Experience Platform et au moins l’un des composants suivants : Adobe Real-Time CDP, Adobe Journey Optimizer ou Adobe Customer Journey Analytics.
-* Accès à une plateforme d’IA répertoriée dans [Configurer Coworker](#set-up-coworker).
+* Une des applications [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html).
+* Accès à une plateforme d’IA répertoriée dans [Configuration de Coworker](#set-up-coworker).
 
 ## Accès aux données et autorisations {#data-access-and-permissions}
 
@@ -50,13 +50,13 @@ Utilisez Coworker dans les plateformes d’IA pour accélérer les workflows mar
 
 ## Configurer un collègue {#set-up-coworker}
 
-Sélectionnez une plateforme disponible pour obtenir des instructions de configuration. Après la configuration, essayez les invites [exemple](#example-prompts).
+Sélectionnez une plateforme disponible pour obtenir des instructions de configuration. Après la configuration, essayez les [invites d&#39;exemple](#example-prompts).
 
 * [Copilote Microsoft 365](#microsoft-365-copilot)
 * [ChatGPT](#chatgpt)
 * [Claude](#claude)
 * [Gemini Enterprise](#gemini-enterprise)
-* [Amazon Quick](#amazon-quick)
+* [AWS Quick](#amazon-quick)
 * [IBM watsonx Orchestration](#ibm-watsonx-orchestrate)
 * [Databricks](#databricks)
 
@@ -70,8 +70,8 @@ Avant de commencer, vérifiez que vous avez accès à [!DNL Microsoft 365 Copilo
 
 Un administrateur doit effectuer ces étapes avant que les utilisateurs finaux puissent accéder à Coworker dans [!DNL Microsoft 365 Copilot].
 
-1. Dans la [!DNL Microsoft 365 admin center], vérifiez que vos paramètres client autorisent les applications et les agents créés par des éditeurs externes.
-1. Approuvez **&#x200B;**&#x200B;à la fois dans le [!DNL Microsoft 365 admin center] et dans le [!DNL Teams admin center]. En règle générale, vous pouvez trouver l’agent par le biais du [!DNL Microsoft Commercial Marketplace] ou de la liste **[!UICONTROL Applications intégrées]** de votre organisation.
+1. Dans [!DNL Microsoft 365 admin center], vérifiez que les paramètres de votre client autorisent les applications et les agents créés par des éditeurs externes.
+1. Approuver **[!UICONTROL Adobe CX Enterprise Coworker]** dans [!DNL Microsoft 365 admin center] et dans [!DNL Teams admin center]. En règle générale, vous pouvez trouver l’agent via la liste [!DNL Microsoft Commercial Marketplace] ou **[!UICONTROL Applications intégrées]** de votre organisation.
 1. Déployez l’agent auprès des utilisateurs finaux. Vous pouvez le déployer sur des utilisateurs ou groupes spécifiques, ou sur l’ensemble de votre organisation. Le nombre d’utilisateurs que vous activez n’a aucune incidence sur la configuration ou le coût.
 
 >[!NOTE]
@@ -80,13 +80,13 @@ Un administrateur doit effectuer ces étapes avant que les utilisateurs finaux p
 
 #### Accéder à un collègue {#copilot-access}
 
-Une fois que votre administrateur a activé Coworker, vous pouvez y accéder à travers [!DNL Microsoft 365 Copilot] surfaces, y compris [!DNL Teams], [!DNL Word], [!DNL Excel], [!DNL PowerPoint] et le chat web.
+Une fois que votre administrateur a activé Coworker, vous pouvez y accéder sur [!DNL Microsoft 365 Copilot] surfaces, y compris [!DNL Teams], [!DNL Word], [!DNL Excel], [!DNL PowerPoint], et le chat web.
 
-Dans [!DNL Microsoft 365 Copilot], sélectionnez **[!UICONTROL Agents]**, puis sélectionnez **[!UICONTROL Autres agents]**.
+Dans [!DNL Microsoft 365 Copilot], sélectionnez **[!UICONTROL Agents]**, puis **[!UICONTROL Plus d&#39;agents]**.
 
-![Copilote Microsoft 365 avec le menu Agents ouvert et Plus d&#39;agents mis en surbrillance.](./assets/ai-platforms/copilot/copilot-agents.png)
+![Copilote Microsoft 365 avec le menu Agents ouvert et Autres agents mis en surbrillance.](./assets/ai-platforms/copilot/copilot-agents.png)
 
-Sélectionnez ensuite **&#x200B;**&#x200B;dans le catalogue d’agents.
+Sélectionnez ensuite **[!UICONTROL Adobe CX Enterprise Coworker]** dans le catalogue d’agents.
 
 ![Catalogue de l&#39;agent Copilot Microsoft 365 avec la liste Adobe CX Enterprise Coworker mise en surbrillance.](./assets/ai-platforms/copilot/copilot-select-agent.png)
 
@@ -110,11 +110,11 @@ Votre administrateur doit approuver Coworker avant de l’ajouter.
 
 Dans [!DNL ChatGPT], sélectionnez **[!UICONTROL Modules externes]**.
 
-![Navigation ChatGPT avec les modules externes mis en surbrillance.](./assets/ai-platforms/chatgpt/gpt-plugins.png)
+![Navigation ChatGPT avec modules externes mis en surbrillance.](./assets/ai-platforms/chatgpt/gpt-plugins.png)
 
-Recherchez et sélectionnez ensuite **&#x200B;**&#x200B;dans le catalogue de modules externes.
+Recherchez et sélectionnez ensuite **[!UICONTROL Adobe CX Enterprise Coworker]** dans le catalogue de modules externes.
 
-![Catalogue de modules externes ChatGPT avec la liste Adobe CX Enterprise Coworker mise en surbrillance dans les résultats de recherche pour Adobe.](./assets/ai-platforms/chatgpt/gpt-select-plugins.png)
+![Catalogue de plug-ins ChatGPT avec la liste Adobe CX Enterprise Coworker mise en surbrillance dans les résultats de recherche pour Adobe.](./assets/ai-platforms/chatgpt/gpt-select-plugins.png)
 
 Enfin, sélectionnez **[!UICONTROL Installer le plug-in]** pour ajouter Coworker à [!DNL ChatGPT].
 
@@ -136,17 +136,17 @@ Votre administrateur doit approuver Coworker avant de l’ajouter.
 
 1. Dans [!DNL Claude], sélectionnez **[!UICONTROL Personnaliser]**.
 
-   ![Navigation Claude avec l’option Personnaliser mise en surbrillance.](./assets/ai-platforms/claude/claude-customize.png)
+   ![Navigation Claude avec Personnaliser mise en surbrillance.](./assets/ai-platforms/claude/claude-customize.png)
 
 1. Sélectionnez **[!UICONTROL Connecteurs]**, puis **[!UICONTROL Découvrir]** et utilisez **[!UICONTROL Rechercher]** pour rechercher Adobe CX Enterprise Coworker.
 
-   ![Claude Personnaliser la page avec l’onglet Connecteurs en surbrillance et le catalogue Discover ouvert.](./assets/ai-platforms/claude/claude-connectors.png)
+   ![Claude Personnaliser la page avec l&#39;onglet Connecteurs en surbrillance et le catalogue Discover ouvert.](./assets/ai-platforms/claude/claude-connectors.png)
 
-1. Sélectionnez **&#x200B;**, puis sélectionnez **[!UICONTROL Se connecter à Claude]**.
+1. Sélectionnez **[!UICONTROL Adobe CX Enterprise Coworker]**, puis **[!UICONTROL Se connecter à Claude]**.
 
    ![Détails du connecteur Adobe CX Enterprise Coworker dans Claude avec Se connecter à Claude mis en surbrillance.](./assets/ai-platforms/claude/claude-connect-coworker.png)
 
-1. Connectez-vous avec vos informations d’identification Adobe pour connecter Coworker à [!DNL Claude].
+1. Connectez-vous avec vos identifiants Adobe pour connecter Coworker à [!DNL Claude].
 
 ### [!DNL Gemini Enterprise] {#gemini-enterprise}
 
@@ -156,9 +156,9 @@ Avant de commencer, vérifiez que vous avez accès à [!DNL Gemini Enterprise].
 
 #### Configurer l’accès à l’organisation {#gemini-organization-setup}
 
-En tant qu’administrateur [!DNL Gemini Enterprise], procédez comme suit pour mettre Coworker à disposition de votre entreprise.
+En tant qu&#39;administrateur [!DNL Gemini Enterprise], procédez comme suit pour rendre Coworker disponible pour votre organisation.
 
-1. Accédez à la [marketplace des agents d’IA d’entreprise Gemini](https://console.cloud.google.com/marketplace/browse?filter=solution-type:ai-agent-service).
+1. Accédez au [marketplace des agents d’IA d’entreprise Gemini](https://console.cloud.google.com/marketplace/browse?filter=solution-type:ai-agent-service).
 1. Recherchez Adobe CX Enterprise Coworker, puis sélectionnez la vignette de l’agent **[!UICONTROL Adobe CX Enterprise Coworker]**.
 1. Sur la carte de l’agent, sélectionnez **[!UICONTROL Contacter le service commercial]**.
 
@@ -166,37 +166,37 @@ En tant qu’administrateur [!DNL Gemini Enterprise], procédez comme suit pour 
 
 1. Remplissez le formulaire pour envoyer votre demande à Adobe.
 
-   ![Envoyez par e-mail le formulaire Adobe Inc avec les champs de contact et de projet, une case à cocher de consentement et le bouton Envoyer un e-mail](./assets/ai-platforms/gemini-enterprise/gemini-contact-adobe.png){width="600"}.
+   ![Envoyez par e-mail le formulaire Adobe Inc avec les champs de contact et de projet, une case à cocher de consentement et le bouton Envoyer un e-mail.](./assets/ai-platforms/gemini-enterprise/gemini-contact-adobe.png){width="600"}
 
    Adobe crée gratuitement une offre privée et vous envoie un lien par email.
 
 1. Ouvrez le lien envoyé par e-mail et validez l’offre privée.
 
-   Une fois l’offre validée, Adobe active l’agent pour votre compte [!DNL Gemini Enterprise].
+   Après avoir approuvé l’offre, Adobe active l’agent pour votre compte [!DNL Gemini Enterprise].
 
 1. Publiez l’agent pour les utilisateurs sélectionnés ou pour tous les utilisateurs d’entreprise de votre organisation.
 
 #### Accéder à un collègue {#gemini-access}
 
-Une fois que votre administrateur vous a envoyé un e-mail, ouvrez-le dans [!DNL Gemini Enterprise] pour commencer à poser des questions.
+Une fois que votre administrateur vous a publié le dossier Coworker, ouvrez-le dans [!DNL Gemini Enterprise] pour commencer à poser des questions.
 
 1. Dans [!DNL Gemini Enterprise], accédez au catalogue **[!UICONTROL Agents]**.
 1. Recherchez Adobe CX Enterprise Coworker.
-1. Sélectionnez **&#x200B;**&#x200B;et saisissez une invite pour commencer.
+1. Sélectionnez **[!UICONTROL Adobe CX Enterprise Coworker]** et saisissez une invite pour commencer.
 
-Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et [invites d’exemple](#example-prompts).
+Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et les [invites d’exemple](#example-prompts).
 
-### [!DNL Amazon Quick] {#amazon-quick}
+### [!DNL AWS Quick] {#amazon-quick}
 
-Utilisez Coworker pour obtenir des informations marketing dans [!DNL Amazon Quick].
+Utilisez Coworker pour obtenir des informations marketing dans [!DNL AWS Quick].
 
-Avant de commencer, vérifiez que vous avez accès à [!DNL Amazon Quick] et à votre compte Adobe.
+Avant de commencer, vérifiez que vous avez accès à [!DNL AWS Quick] et à votre compte Adobe.
 
 #### Connecter un collègue {#amazon-quick-connection}
 
-Connectez Coworker dans [!DNL Amazon Quick] à l’aide de Model Context Protocol (MCP). Adobe a déjà approuvé [!DNL Amazon Quick] connexion.
+Connectez un collègue dans [!DNL AWS Quick] à l’aide de Model Context Protocol (MCP). Adobe a déjà approuvé [!DNL AWS Quick] pour cette connexion.
 
-1. Dans [!DNL Amazon Quick], accédez à **[!UICONTROL Connecteurs]**.
+1. Dans [!DNL AWS Quick], accédez à **[!UICONTROL Connecteurs]**.
 1. Recherchez MCP et ouvrez la configuration du connecteur.
 1. Saisissez `https://mcp.coworker.experience.adobe.io` comme URL du serveur MCP.
 
@@ -207,9 +207,9 @@ Connectez Coworker dans [!DNL Amazon Quick] à l’aide de Model Context Protoco
 
 #### Accéder à un collègue {#amazon-quick-access}
 
-Une fois que vous avez connecté Coworker, utilisez-le dans [!DNL Amazon Quick] pour poser des questions sur vos données Adobe.
+Une fois que vous avez connecté Coworker, utilisez-le dans [!DNL AWS Quick] pour poser des questions sur vos données Adobe.
 
-Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et [invites d’exemple](#example-prompts).
+Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et les [invites d’exemple](#example-prompts).
 
 ### [!DNL IBM watsonx Orchestrate] {#ibm-watsonx-orchestrate}
 
@@ -224,7 +224,7 @@ Vous devez également disposer des autorisations nécessaires pour gérer les co
 Connectez un collègue à l’aide d’OAuth, puis authentifiez-vous avec votre compte Adobe. Les étapes suivantes préparent la connexion pour le test dans l’environnement de brouillon.
 
 1. Dans [!DNL IBM watsonx Orchestrate], accédez à **[!UICONTROL Connexions]**, puis sélectionnez **[!UICONTROL Ajouter une connexion]**.
-1. Saisissez un **[!UICONTROL Identifiant de connexion]**, **[!UICONTROL Nom d’affichage]** et un **[!UICONTROL Description de la connexion]** facultatif, puis sélectionnez **[!UICONTROL Enregistrer et continuer]**.
+1. Saisissez un **[!UICONTROL identifiant de connexion]**, un **[!UICONTROL nom d’affichage]** et une **[!UICONTROL description de la connexion]** facultative, puis sélectionnez **[!UICONTROL Enregistrer et continuer]**.
 1. Dans **[!UICONTROL Configurer le brouillon d’environnement]**, sélectionnez **[!UICONTROL Code d’autorisation OAuth2]** comme **[!UICONTROL Type d’authentification]**.
 1. Saisissez les paramètres de connexion.
 
@@ -232,7 +232,7 @@ Connectez un collègue à l’aide d’OAuth, puis authentifiez-vous avec votre 
    | --- | --- |
    | [!UICONTROL URL du serveur] | `https://mcp.coworker.experience.adobe.io` |
    | [!UICONTROL URL du jeton] | Point d’entrée de jeton confirmé pour votre client OAuth. |
-   | [!UICONTROL &#x200B; URL d’autorisation &#x200B;] | Point d’entrée d’autorisation confirmé pour votre client OAuth. |
+   | [!UICONTROL URL d’autorisation] | Point d’entrée d’autorisation confirmé pour votre client OAuth. |
    | [!UICONTROL Identifiant du client] | Votre identifiant client OAuth approuvé. |
    | [!UICONTROL Secret du client] | Votre secret client OAuth approuvé. |
 
@@ -247,8 +247,8 @@ Connectez un collègue à l’aide d’OAuth, puis authentifiez-vous avec votre 
 
 Ajoutez les informations d’identification de votre membre pour authentifier la connexion à votre identité Adobe.
 
-1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Informations d’identification du membre]**, puis sélectionnez **[!UICONTROL Ajouter des informations d’identification du membre]**.
-1. Sélectionnez votre connexion Collègue et passez à **[!UICONTROL Définition des informations d’identification]**.
+1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Informations d’identification de membre]**, puis sélectionnez **[!UICONTROL Ajouter des informations d’identification de membre]**.
+1. Sélectionnez votre connexion de collègue et passez à **[!UICONTROL Définir les informations d’identification]**.
 1. Sélectionnez **[!UICONTROL Se connecter et enregistrer]**, puis connectez-vous avec vos informations d’identification Adobe lorsque vous y êtes invité.
 1. Revenez à [!DNL IBM watsonx Orchestrate] et confirmez que vos informations d’identification ont bien été ajoutées.
 
@@ -261,12 +261,12 @@ Enregistrez un collègue via le protocole MCP (Model Context Protocol) pour impo
 
    | Champ | Valeur |
    | --- | --- |
-   | [!UICONTROL &#x200B; Nom du serveur &#x200B;] | Nom descriptif, tel que `cx-coworker`. |
-   | [!UICONTROL Type de transport] | [!UICONTROL HTTP diffusable] |
-   | [!UICONTROL &#x200B; URL du serveur MCP &#x200B;] | `https://mcp.coworker.experience.adobe.io` |
+   | [!UICONTROL Nom du serveur] | Nom descriptif, tel que `cx-coworker`. |
+   | [!UICONTROL Type de transport] | [!UICONTROL HTTP en flux continu] |
+   | [!UICONTROL URL du serveur MCP] | `https://mcp.coworker.experience.adobe.io` |
    | [!UICONTROL Connexion] | Connexion de collègue que vous avez authentifiée. |
 
-1. Sélectionnez **[!UICONTROL Enregistrer]** et attendez la fin de l’enregistrement du serveur et de l’importation de l’outil.
+1. Sélectionnez **[!UICONTROL Enregistrer]** et attendez la fin de l&#39;enregistrement du serveur et de l&#39;importation de l&#39;outil.
 
    ![IBM watsonx Orchestrer l’enregistrement du serveur Coworker avec le transport HTTP diffusable et la connexion authentifiée.](./assets/ai-platforms/ibm/ibm-register-mcp.png){width="700"}
 
@@ -275,39 +275,39 @@ Enregistrez un collègue via le protocole MCP (Model Context Protocol) pour impo
 Ajoutez les outils importés à votre agent, puis testez la connexion avant de déployer l’agent.
 
 1. Accédez à **[!UICONTROL Inventaire actif]** > **[!UICONTROL Agents]** et ouvrez l’agent que vous souhaitez configurer.
-1. Dans **[!UICONTROL Créer]**, sélectionnez **[!UICONTROL Outils]**, puis **[!UICONTROL Ajouter un outil]**.
+1. Dans **[!UICONTROL Build]**, sélectionnez **[!UICONTROL Outils]**, puis **[!UICONTROL Ajouter un outil]**.
 1. Sélectionnez **[!UICONTROL Serveur MCP]** et recherchez les outils sur le serveur Coworker enregistré.
-1. Sélectionnez les outils de collègue dont vous avez besoin, puis sélectionnez **[!UICONTROL Ajouter à l’agent]**.
-1. Saisissez une invite dans **[!UICONTROL Aperçu du brouillon]** et examinez la réponse pour confirmer que la connexion fonctionne.
+1. Sélectionnez les outils Coworker dont vous avez besoin, puis sélectionnez **[!UICONTROL Ajouter à l&#39;agent]**.
+1. Saisissez une invite dans **[!UICONTROL Aperçu du brouillon]** et vérifiez la réponse pour confirmer que la connexion fonctionne.
 
-Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et [invites d’exemple](#example-prompts).
+Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et les [invites d’exemple](#example-prompts).
 
 ### [!DNL Databricks] {#databricks}
 
 Utilisez Coworker pour obtenir des informations marketing dans [!DNL Databricks Genie One].
 
-Avant de commencer, vérifiez que vous avez accès à [!DNL Databricks Genie One] et à votre compte Adobe. Vous devez également disposer de l’autorisation d’installer un service MCP dans le catalogue [!DNL Unity Catalog] et le schéma de votre choix.
+Avant de commencer, vérifiez que vous avez accès à [!DNL Databricks Genie One] et à votre compte Adobe. Vous avez également besoin d&#39;une autorisation pour installer un service MCP dans le catalogue et le schéma [!DNL Unity Catalog] de votre choix.
 
 Confirmez les paramètres de votre client OAuth auprès de votre représentant Adobe avant la configuration.
 
 #### Installer un collègue {#databricks-install}
 
-Installez le service MCP de Coworker à partir de [!DNL Databricks Marketplace].
+Installez le service MCP Coworker à partir de [!DNL Databricks Marketplace].
 
 1. Dans [!DNL Databricks], accédez à **[!UICONTROL Marketplace]** et recherchez Adobe Coworker.
-1. Sélectionnez **&#x200B;**, puis sélectionnez **[!UICONTROL Installer]**.
-1. Sélectionnez un **[!UICONTROL Catalogue]** et un **[!UICONTROL Schéma]**, puis saisissez un **[!UICONTROL Nom du service MCP]**.
+1. Sélectionnez **[!UICONTROL Adobe CX Enterprise Coworker]**, puis **[!UICONTROL Installer]**.
+1. Sélectionnez un **[!UICONTROL catalogue]** et un **[!UICONTROL schéma]**, puis saisissez un **[!UICONTROL nom de service MCP]**.
 1. Conservez les paramètres de connexion fournis par la liste, y compris les valeurs suivantes.
 
    | Champ | Valeur |
    | --- | --- |
    | [!UICONTROL Hôte] | `https://mcp.coworker.experience.adobe.io` |
-   | [!UICONTROL &#x200B; Chemin de base &#x200B;] | `/mcp` |
-   | [!UICONTROL Type d’informations d’identification] | [!UICONTROL OAuth U2M] |
+   | [!UICONTROL Chemin de base] | `/mcp` |
+   | [!UICONTROL Type d’informations d’identification] | [!UICONTROL U2M OAuth] |
 
    ![Boîte de dialogue d’installation de Databricks Marketplace pour Adobe CX Enterprise Coworker avec des champs de catalogue, de schéma, de connexion et d’informations d’identification.](./assets/ai-platforms/databricks/databricks-install.png){width="700"}
 
-1. Saisissez vos **[!UICONTROL Identifiant client]** et **[!UICONTROL Secret client]**.
+1. Saisissez votre **[!UICONTROL ID client]** et **[!UICONTROL Secret client]**.
 1. Vérifiez et acceptez les conditions, puis sélectionnez **[!UICONTROL Installer]**.
 
 <!-- Confirm the customer process for obtaining OAuth settings before publication. -->
@@ -318,8 +318,8 @@ Chaque utilisateur se connecte avec son compte Adobe. Les requêtes de collègue
 
 1. Dans **[!UICONTROL Catalogue]**, ouvrez le service Coworker installé sous le catalogue et le schéma sélectionnés.
 1. Connectez-vous à Adobe lorsque vous y êtes invité.
-1. Vérifiez que le service **[!UICONTROL Statut]** est **[!UICONTROL Actif]** et que ses outils sont répertoriés.
-1. Dans **[!UICONTROL Commencer]**, sélectionnez **[!UICONTROL Génie]**, puis **[!UICONTROL Génie One]**, et sélectionnez **[!UICONTROL Ajouter à Génie One]**.
+1. Vérifiez que le service **[!UICONTROL Status]** est **[!UICONTROL Actif]** et que ses outils sont répertoriés.
+1. Dans **[!UICONTROL Prise en main]**, sélectionnez **[!UICONTROL Génie]**, puis **[!UICONTROL Génie One]** et sélectionnez **[!UICONTROL Ajouter au Génie One]**.
 
 #### Accéder à un collègue {#databricks-access}
 
@@ -328,15 +328,15 @@ Vérifiez que votre connecteur est disponible avant de poser des questions dans 
 1. Dans [!DNL Genie One], accédez à **[!UICONTROL Personnalisations]** > **[!UICONTROL Connecteurs]** et ouvrez votre connecteur Coworker.
 1. Vérifiez que le connecteur affiche **[!UICONTROL Connecté]**. Examinez les paramètres d’approbation des outils en fonction des politiques de votre entreprise.
 
-   ![Connecteur Coworker dans Databricks Genie One affichant le statut Connecté, les outils disponibles et les paramètres d’approbation des outils.](./assets/ai-platforms/databricks/databricks-connectors.png){width="700"}
+   ![Connecteur Coworker dans Databricks Genie One affichant le statut Connecté, les outils disponibles et les paramètres d&#39;approbation des outils.](./assets/ai-platforms/databricks/databricks-connectors.png){width="700"}
 
-1. Sélectionnez **[!UICONTROL Nouvelle conversation]** et saisissez une invite, par exemple « À l’aide d’Adobe Coworker, répertorier les audiences publiées ».
+1. Sélectionnez **[!UICONTROL Nouvelle conversation]** et saisissez une invite, par exemple « À l’aide d’Adobe Coworker, répertoriez les audiences publiées ».
 
-Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et [invites d’exemple](#example-prompts).
+Pour obtenir des idées, explorez les [cas d’utilisation clés](#key-use-cases) et les [invites d’exemple](#example-prompts).
 
 <!-- Setup steps for Microsoft 365 Copilot, ChatGPT, and Claude reflect the real customer-facing flow confirmed by PM (Siddhartha Srivastava) on 2026-09-02: an org admin approves the connector or plugin, then end users find and add it in their platform's catalog and sign in. The previous version of this file described a manual MCP-connector setup for ChatGPT (Settings > Connectors > paste server URL) -- PM clarified that flow is for internal testing only, not the customer path, so it was removed here. -->
 
-<!-- Amazon Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
+<!-- AWS Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
 
 ## Exemples de prompts {#example-prompts}
 
@@ -346,6 +346,17 @@ Après avoir configuré Coworker dans une plateforme prise en charge, essayez ce
 * Afficher une mesure pour le mois dernier.
 * Affichez vos projets Workfront actifs.
 * Afficher les parcours avec audiences de fidélité.
+
+## Authentification et sources d’informations {#authentication-and-information-sources}
+
+Lorsque vous vous connectez avec vos informations d’identification Adobe, sélectionnez votre organisation. Coworker utilise votre sandbox et votre vue de données par défaut comme sources d’informations.
+
+Pour modifier une source d&#39;informations, saisissez l&#39;une de ces invites. Remplacez l’espace réservé par le nom de la vue de données ou du sandbox que vous souhaitez utiliser.
+
+* `switch dataview to <dataview>`
+* `switch sandbox to <sandbox>`
+
+Un collègue répond pour confirmer la modification. La confirmation varie en fonction de la plateforme d’IA.
 
 ## Limites connues {#known-limitations}
 
