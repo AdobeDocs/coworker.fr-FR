@@ -4,10 +4,10 @@ title: Workflows de conversation avec un collègue
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 0089deb08fffb7ff7318d3b8ad0d89d465999793
 workflow-type: tm+mt
-source-wordcount: '9326'
-ht-degree: 8%
+source-wordcount: '9483'
+ht-degree: 7%
 ---
 # Workflows de conversation avec un collègue {#use-cases}
 
@@ -205,13 +205,16 @@ La discussion avec les collègues vous permet d&#39;interroger, d&#39;analyser e
 
 ## Prise de décision
 
+Utilisez le Module de conversation des collègues pour gérer les objets de prise de décision dans Adobe Journey Optimizer : créer et tenir à jour des règles d’éligibilité, des formules de classement, des expressions de limitation de la fréquence et des éléments de décision à partir d’invites en langage naturel.
+
 | Workflow | Description | Compétences | Application | Exemples de prompt |
 | --- | --- | --- | --- | --- |
-| [Générer, expliquer, simuler et optimiser des règles de prise de décision](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Utilisez le langage naturel pour créer des règles d’éligibilité et des formules de classement, et obtenez une explication en anglais brut. <br> Testez-les par rapport à trois profils maximum. <br> Réécrivez-les pour les adapter aux limites de taille de PQL, sans écrire manuellement la syntaxe PQL. | Workflow des règles de prise de décision | Adobe Journey Optimizer (AJO) | « Créez une règle d’éligibilité ciblant les membres du programme de fidélité de niveau 2 ou supérieur.« <br><br>« Expliquez-moi cette règle en langage naturel.« <br><br>« Simulez cette règle avec des profils de test.« <br><br>« Optimisez cette règle PQL pour moi. » |
+| [Créer, gérer, simuler et optimiser des règles de prise de décision](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Utilisez le langage naturel pour créer, rechercher, corriger et supprimer des règles d’éligibilité, des formules de classement et des expressions de limitation de la fréquence des offres et des éléments, et obtenez une explication en anglais clair. <br> Validez-les et testez-les par rapport à trois profils maximum. <br> Réécrivez-les pour les adapter aux limites de taille de PQL, sans écrire manuellement la syntaxe PQL. | Workflow des règles de prise de décision | Adobe Journey Optimizer (AJO) | « Créez une règle d’éligibilité ciblant les membres du programme de fidélité de niveau 2 ou supérieur.« <br><br>« Expliquez-moi cette règle en langage naturel.« <br><br>« Simulez cette règle avec des profils de test.« <br><br>« Optimisez cette règle PQL pour moi.« <br><br>« Répertoriez les formules de classement.« <br><br>« Créez une règle de limitation qui compte les événements de clic. » |
+| [Créer et gérer des éléments de décision](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#decisioning-offer-item-workflow){target="_blank"} | Créez des éléments de décision (offres) en les décrivant dans la conversation, y compris les libellés ou les balises, l’éligibilité, les plannings, le capping de la fréquence, les fragments de contenu et les attributs personnalisés. <br> Mettre à jour, approuver, annuler l&#39;approbation, archiver ou supprimer définitivement des éléments. <br> Créer ou mettre à jour plusieurs éléments à la fois à partir d’un fichier CSV ou d’une liste. | Workflow de prise de décision concernant l’élément d’offre | Adobe Journey Optimizer (AJO) | « Créez une offre limitée sur un emplacement nommé comme drc.« <br><br>« Créez des éléments de décision à partir de ce fichier CSV.« <br><br>« Approuvez l’élément de vente d’été.« <br><br>« Archivez cette offre. » |
 
 **Informations connexes**
 
-* [Coworker for Decisioning](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fournit des conseils détaillés, des cas d’utilisation et invite les bonnes pratiques pour les compétences de prise de décision dans Adobe Journey Optimizer.
+* [Coworker for Decisioning](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fournit des conseils détaillés, des cas d’utilisation et invite les bonnes pratiques pour les compétences du workflow des règles de prise de décision et du workflow d’élément d’offre de prise de décision dans Adobe Journey Optimizer.
 
 ## Gestionnaire des processus
 
