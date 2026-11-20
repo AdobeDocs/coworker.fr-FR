@@ -25,7 +25,7 @@ L’utilisation de Coworker dans les plateformes d’IA n’entraîne aucun coû
 Avant de pouvoir utiliser Coworker dans une plateforme d’IA, vérifiez que vous disposez des éléments suivants.
 
 * Adobe CX Enterprise Coworker est configuré pour votre organisation. Vous pouvez y accéder directement dans Adobe.
-* Une des applications [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html).
+* Une des applications [Adobe CX Enterprise](https://business.adobe.com/fr/solutions/customer-experience-orchestration.html).
 * Accès à une plateforme d’IA répertoriée dans [Configuration de Coworker](#set-up-coworker).
 
 ## Accès aux données et autorisations {#data-access-and-permissions}
