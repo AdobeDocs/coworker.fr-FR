@@ -23,10 +23,10 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 ---
 
 # Création d’un parcours à partir d’une image
@@ -34,3 +34,9 @@ ht-degree: 0%
 Chargez une image de diagramme de flux, telle qu’une diapositive PowerPoint, dans CX Enterprise Coworker. Dans cette vidéo, découvrez comment examiner l’invite extraite de l’image, spécifier l’événement déclencheur et enregistrer un brouillon de parcours modifiable dans Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504867/?captions=fre_fr&learn=on&enablevpops)
+
+## Voir également
+
+- [Collègue pour les parcours : création de Parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, avec des cas d’utilisation clés, des bonnes pratiques et des compétences hors champ pour créer des parcours dans Adobe Journey Optimizer.
+- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
+- [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)

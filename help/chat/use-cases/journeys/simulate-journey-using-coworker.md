@@ -20,10 +20,10 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 ---
 
 # Simulation d’un parcours Adobe Journey Optimizer à l’aide de Coworker
@@ -31,3 +31,9 @@ ht-degree: 0%
 Utilisez Coworker pour simuler un parcours Adobe Journey Optimizer avec des profils de test et des événements générés automatiquement. Dans cette vidéo, découvrez comment tester les chemins d’accès aux parcours, recevoir des messages de BAT et consulter la couverture des chemins d’accès et les résultats de la simulation avant de les publier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507033?captions=fre_fr&learn=on)
+
+## Voir également
+
+- [Collègue pour les parcours : Simulation de Parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, avec les cas d’utilisation clés et les limites de la simulation de parcours avec Collègue.
+- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
+- [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)
