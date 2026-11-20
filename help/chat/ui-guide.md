@@ -63,7 +63,7 @@ En bas à gauche de l’interface, vous pouvez spécifier les options et les pr�
 | Paramètre / option | Cas d’usage |
 | --- | --- |
 | Nom et adresse e-mail du compte | Confirmez le compte Adobe avec lequel vous êtes connecté. |
-| **[!UICONTROL Notifications]** (icône représentant une cloche) | Affichez vos [notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notifications]** (icône représentant une cloche) | Affichez vos [notifications](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Thème]** | Basculez entre les thèmes Clair et Sombre. |
 | **[!UICONTROL Paramètres de l&#39;application]** | Affichez les détails du compte et les paramètres de l’espace de travail. |
 | **[!UICONTROL Préférences]** | Ouvrez votre compte [préférences](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/account-preferences). La flèche indique que la page s’ouvre en dehors de Coworker. |
