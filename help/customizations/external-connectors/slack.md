@@ -120,7 +120,7 @@ Les administrateurs rendent le connecteur [!DNL Slack] disponible pour tous les 
 
 1. Vérifiez les **[!UICONTROL accès et autorisations]**, puis sélectionnez **[!UICONTROL Enregistrer la connexion]**. La carte **[!UICONTROL Slack]** affiche la configuration **[!UICONTROL enregistrée]**.
 
-   La boîte de dialogue affiche également la méthode **[!UICONTROL Authentification]**, le type **[!UICONTROL Connexion]** et le délai d’expiration de l’outil ****. Un collègue n’enregistre pas la configuration lorsqu’un champ d’informations d’identification ou la liste d’étendue est vide.
+   La boîte de dialogue affiche également la méthode **[!UICONTROL Authentification]**, le type **[!UICONTROL Connexion]** et le délai d’expiration de l’outil **&#x200B;**. Un collègue n’enregistre pas la configuration lorsqu’un champ d’informations d’identification ou la liste d’étendue est vide.
 
    Rechargez la page, sélectionnez **[!UICONTROL Afficher la configuration]** et confirmez que la configuration et votre sélection d&#39;outils sont enregistrées avant la connexion des membres.
 
