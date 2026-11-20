@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
+source-git-commit: 386a24a7a52efce2e36f8391b55fd044e4f44a71
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '622'
 ht-degree: 0%
 ---
 # Contrôle d’accès pour Coworker {#access-control}
@@ -21,11 +21,11 @@ Le contrôle d’accès s’applique à Coworker dans le rail de droite et dans 
 
 >[!NOTE]
 >
->Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1&rbrace; ne soit pas encore visible dans votre organisation. &#x200B;]Pour plus d&#39;informations, voir [Obtenir de l&#39;aide sur l&#39;accès](#get-help-with-access).
+>Le contrôle d’accès est progressivement déployé auprès de tous les clients ayant un accès de collègue. Il se peut que le contrôle d’accès [!UICONTROL 1} ne soit pas encore visible dans votre organisation. ]Pour plus d&#39;informations, voir [Obtenir de l&#39;aide sur l&#39;accès](#get-help-with-access).
 
 ## Comment l’accès est déterminé {#how-access-is-determined}
 
-L’accès des collaborateurs est contrôlé par un paramètre à l’échelle de l’organisation et des remplacements facultatifs d’utilisateurs ou de groupes. Le paramètre à l’échelle de l’organisation active ou désactive l’accès Collègue pour les utilisateurs de votre entreprise. L’accès peut être activé ou désactivé par défaut pour votre organisation.
+En tant qu’administrateur ou administratrice Coworker, utilisez [!UICONTROL Définir l’accès par défaut] pour activer ou désactiver l’accès Coworker pour l’ensemble de votre organisation. Vous pouvez également configurer des remplacements d’accès pour des utilisateurs ou groupes d’utilisateurs spécifiques. L’accès peut être activé ou désactivé par défaut pour votre organisation.
 
 | Paramètre | Impact sur l’accès |
 | --- | --- |
@@ -59,7 +59,14 @@ Utilisez le [!UICONTROL contrôle d’accès] dans Coworker pour gérer l’acc�
 
    Utilisez cette vidéo pour apprendre à gérer les utilisateurs de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507153?captions=fre_fr&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+
+1. Dans **[!UICONTROL Définir l’accès par défaut]**, activez ou désactivez l’accès de votre organisation :
+
+   * **Activé :** activez l’accès Collègue pour tous les membres de votre organisation, sous réserve de remplacements d’utilisateurs ou de groupes.
+   * **Désactivé :** désactivez l’accès des collaborateurs pour tous les membres de votre organisation, sauf si vous autorisez des remplacements d’utilisateurs, d’utilisatrices ou de groupes.
+
+   Pour accorder l’accès à des utilisateurs ou groupes spécifiques lorsque l’accès de l’organisation est désactivé, activez **[!UICONTROL Autoriser les remplacements]**. Sélectionnez **[!UICONTROL Ajouter un remplacement]** pour ajouter les utilisateurs ou les groupes qui doivent avoir accès.
 
 1. Sélectionnez **[!UICONTROL Utilisateurs]** pour gérer l’accès individuel ou **[!UICONTROL Groupes d’utilisateurs]** pour gérer l’accès aux groupes. Un paramètre de groupe d’utilisateurs s’applique à ses membres.
 
@@ -69,8 +76,6 @@ Utilisez le [!UICONTROL contrôle d’accès] dans Coworker pour gérer l’acc�
 
    * **Activé :** L&#39;utilisateur ou le groupe d&#39;utilisateurs est actif.
    * **Désactivé :** l&#39;utilisateur ou le groupe d&#39;utilisateurs est inactif.
-
-   Lorsque l’accès pour tous est désactivé, activez **[!UICONTROL Autoriser les remplacements]** et sélectionnez **[!UICONTROL Ajouter un remplacement]** pour ajouter des utilisateurs ou des groupes qui doivent toujours avoir accès.
 
 ## Autorisations dans les applications CX Enterprise compatibles avec Coworker {#permissions-in-compatible-applications}
 
