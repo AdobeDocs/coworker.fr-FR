@@ -12,14 +12,22 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 4%
 ---
 
-# Création, simulation et analyse de parcours cross-canal
+# Créer, simuler et analyser des parcours cross-canal
 
 Utilisez CX Enterprise Coworker pour créer un parcours cross-canal à partir d’une invite en langage clair et générer du contenu d’e-mail et de SMS. Dans cette vidéo, découvrez comment simuler les chemins d’embranchement et passer en revue les diagnostics pour identifier les problèmes de configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504708?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+
+## Voir également
+
+- [Collègue pour les parcours : création de Parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, avec des cas d’utilisation clés, des bonnes pratiques et des compétences hors champ pour créer des parcours dans Adobe Journey Optimizer.
+- [Collègue pour parcours : création de contenu de canal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}, pour la génération de contenu de message spécifique à un canal dans Adobe Journey Optimizer.
+- [Collègue pour les parcours : Simulation de Parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, avec les cas d’utilisation clés et les limites de la simulation de parcours avec Collègue.
+- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
+- [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)

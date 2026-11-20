@@ -13,9 +13,9 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: da823df94cfeb096cfa02fd939e3025c54e6372b
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '166'
 ht-degree: 1%
 ---
 
@@ -23,9 +23,11 @@ ht-degree: 1%
 
 Décrivez le parcours que vous souhaitez créer et que vos collaborateurs le dessinent dans Adobe Journey Optimizer. Dans cette vidéo, découvrez comment Coworker configure les déclencheurs, le timing, les canaux et la logique de décision afin que vous puissiez vous concentrer sur la révision et l’affinement du parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496878/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Voir également
 
-- [&#128279;](https://experienceleague.adobe.com/fr/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans le chat des collègues.
+- [Collègue pour les parcours : création de Parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, avec des cas d’utilisation clés, des bonnes pratiques et des compétences hors champ pour créer des parcours dans Adobe Journey Optimizer.
+- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la fonctionnalité d’IA sous-jacente qui alimente la création de parcours dans la conversation des collègues.
 - [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)
