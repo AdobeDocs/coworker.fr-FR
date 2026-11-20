@@ -21,6 +21,6 @@ Découvrez comment utiliser Coworker pour comparer des versions d’un parcours 
 
 ## Voir également
 
-- [Collègue pour les parcours : outils de Parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"}, pour le cas d’utilisation de comparaison de versions et les exemples d’invites.
-- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
+- [Collègue pour les parcours : outils de Parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"}, pour le cas d’utilisation de comparaison de versions et les exemples d’invites.
+- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
 - [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)

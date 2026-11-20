@@ -26,8 +26,8 @@ Utilisez CX Enterprise Coworker pour créer un parcours cross-canal à partir d�
 
 ## Voir également
 
-- [Collègue pour les parcours : création de Parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, avec des cas d’utilisation clés, des bonnes pratiques et des compétences hors champ pour créer des parcours dans Adobe Journey Optimizer.
-- [Collègue pour parcours : création de contenu de canal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}, pour la génération de contenu de message spécifique à un canal dans Adobe Journey Optimizer.
-- [Collègue pour les parcours : Simulation de Parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, avec les cas d’utilisation clés et les limites de la simulation de parcours avec Collègue.
-- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
+- [Collègue pour les parcours : création de Parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, avec des cas d’utilisation clés, des bonnes pratiques et des compétences hors champ pour créer des parcours dans Adobe Journey Optimizer.
+- [Collègue pour parcours : création de contenu de canal](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}, pour la génération de contenu de message spécifique à un canal dans Adobe Journey Optimizer.
+- [Collègue pour les parcours : Simulation de Parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, avec les cas d’utilisation clés et les limites de la simulation de parcours avec Collègue.
+- [Compétences des collègues pour Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, un aperçu des compétences des collègues dans Journey Optimizer.
 - [Plus de workflows de conversation avec un collègue](../workflows.md#journeys)
