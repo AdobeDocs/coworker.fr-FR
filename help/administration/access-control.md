@@ -59,7 +59,7 @@ Utilisez le [!UICONTROL contrôle d’accès] dans Coworker pour gérer l’acc�
 
    Utilisez cette vidéo pour apprendre à gérer les utilisateurs de Coworker.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507153?captions=fre_fr&learn=on){transcript=true}
 
 1. Dans **[!UICONTROL Définir l’accès par défaut]**, activez ou désactivez l’accès de votre organisation :
 
