@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: 1fd895142c5f222c3a5f47e30390d2cf9072fad1
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2131'
 ht-degree: 4%
 ---
 # Prise en main du chat des collègues {#ui-guide}
@@ -24,21 +24,23 @@ Le tableau suivant indique où chaque expérience est disponible.
 |---|---|---|
 | Real-Time CDP | Disponible maintenant | Bientôt disponible |
 | Adobe Journey Optimizer | Disponible maintenant | Bientôt disponible |
+| Adobe Journey Optimizer B2B Edition | Disponible maintenant | Bientôt disponible |
 | Customer Journey Analytics | Disponible maintenant | Disponible maintenant |
 | Customer Journey Analytics B2B edition | Disponible maintenant | Disponible maintenant |
 | Content Analytics | Disponible maintenant | Disponible maintenant |
-| Marketing Campaign Analytics | Disponible maintenant | Bientôt disponible |
+| Marketing Campaign Analytics | Disponible maintenant | Bientôt disponible |
 | Adobe Analytics | Disponible maintenant | Bientôt disponible |
 | Workfront | Disponible maintenant | Disponible maintenant |
 | Cible | Disponible maintenant | Disponible maintenant |
 | AEM | Disponible maintenant | Disponible maintenant |
 | Marketo Engage | Disponible maintenant | Bientôt disponible |
+| Marketo Optimizer | Disponible maintenant | Disponible maintenant |
 
 ## Se connecter à [!DNL Coworker] {#sign-in}
 
 Connectez-vous à [!DNL Coworker] à l’aide de vos informations d’identification Adobe.
 
-1. [Connectez-vous](https://experienceleague.adobe.com/fr/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) à CX Enterprise à l’aide de votre Adobe ID.
+1. [Connectez-vous](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) à CX Enterprise à l’aide de votre Adobe ID.
 
    Après vous être connecté, vous pouvez ouvrir [!DNL Coworker] à partir du menu de l’application [!DNL CX Enterprise] ou à l’aide d’un lien direct :
 
@@ -153,7 +155,7 @@ La vue des transcriptions contrôle la proportion du raisonnement et de l’acti
 1. Dans la barre d’outils de saisie, cliquez sur le contrôle d’affichage de transcription. Elle affiche l&#39;affichage actuel, tel que **[!UICONTROL Normal]**.
 1. Cliquez sur une vue :
 
-   | Voir | Ce que vous voyez |
+   | Afficher | Ce que vous voyez |
    | --- | --- |
    | **[!UICONTROL Normale]** | Résumé des principales étapes de réflexion et de l’activité des outils. |
    | **[!UICONTROL Focus]** | Surtout la réponse. La conversation avec un collègue masque la plupart des étapes intermédiaires. |
