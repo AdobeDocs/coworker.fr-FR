@@ -96,7 +96,7 @@ Pour vérifier les mappages, sélectionnez [!UICONTROL **Vérifier les mappages 
 
 Vous pouvez également demander à un collègue de mettre à jour les mappages.
 
-Si vous ignorez cette révision, Coworker [ vérifie toujours les mappages pour chaque projet que vous migrez](#review-the-validation-results-and-mappings).
+Si vous ignorez cette révision, Coworker [&#x200B; vérifie toujours les mappages pour chaque projet que vous migrez](#review-the-validation-results-and-mappings).
 
 ## Démarrer une migration
 
